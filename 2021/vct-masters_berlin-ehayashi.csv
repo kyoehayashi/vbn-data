@@ -1,0 +1,661 @@
+Player,Time,Região,ACS,Kills,Ignorar,Deaths,Assists,ADR (Ignorar),ADR,First Kill,First Death,FK - FD,HS%,Adversário,Região Adiversário,Mapa,Mapa Pick,Lado de Início,Rounds Vencidos,Rounds Perdidos,Resultado,Rounds Ataque,Rounds Defesa,Agente,Data,Etapa,Campeonato,Grupo,Bracket,MD
+Turko,SuperMassive Blaze,EMEA,226,18,/16/,16,4,1530,153,2,2,0,"0,44",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,9,13,Perdedor,7,2,Sage,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Brave,SuperMassive Blaze,EMEA,211,15,/18/,18,5,1436,"143,6",3,0,3,"0,32",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,9,13,Perdedor,7,2,Omen,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+pAura,SuperMassive Blaze,EMEA,195,15,/16/,16,4,1331,"133,1",4,5,-1,"0,29",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,9,13,Perdedor,7,2,Killjoy,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+russ,SuperMassive Blaze,EMEA,178,12,/18/,18,5,1330,133,1,1,0,"0,27",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,9,13,Perdedor,7,2,Sova,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Izzy,SuperMassive Blaze,EMEA,166,13,/16/,16,4,1234,"123,4",3,1,2,"0,21",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,9,13,Perdedor,7,2,Jett,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+cNed,Acend,EMEA,268,21,/15/,15,0,1584,"158,4",3,2,1,"0,25",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,13,9,Vencedor,8,5,Jett,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+starxo,Acend,EMEA,251,18,/12/,12,8,1705,"170,5",3,1,2,"0,21",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,13,9,Vencedor,8,5,Sage,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+zeek,Acend,EMEA,225,19,/14/,14,5,1354,"135,4",2,2,0,"0,14",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,13,9,Vencedor,8,5,Sova,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Kiles,Acend,EMEA,224,19,/17/,17,4,1548,"154,8",1,2,-1,"0,25",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,13,9,Vencedor,8,5,Killjoy,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+BONECOLD,Acend,EMEA,89,7,/15/,15,5,544,"54,4",0,6,-6,"0,27",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,13,9,Vencedor,8,5,Astra,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Izzy,SuperMassive Blaze,EMEA,265,16,/13/,13,2,1556,"155,6",6,0,6,"0,19",Acend,EMEA,Bind,Acend,Defesa,5,13,Perdedor,3,2,Jett,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+pAura,SuperMassive Blaze,EMEA,264,18,/13/,13,1,1649,"164,9",1,5,-4,"0,46",Acend,EMEA,Bind,Acend,Defesa,5,13,Perdedor,3,2,Viper,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Brave,SuperMassive Blaze,EMEA,154,8,/15/,15,7,1106,"110,6",2,1,1,"0,29",Acend,EMEA,Bind,Acend,Defesa,5,13,Perdedor,3,2,Astra,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+russ,SuperMassive Blaze,EMEA,135,7,/14/,14,7,1061,"106,1",0,1,-1,"0,18",Acend,EMEA,Bind,Acend,Defesa,5,13,Perdedor,3,2,Sova,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Turko,SuperMassive Blaze,EMEA,111,8,/14/,14,3,653,"65,3",1,1,0,"0,23",Acend,EMEA,Bind,Acend,Defesa,5,13,Perdedor,3,2,Skye,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+cNed,Acend,EMEA,318,22,/11/,11,5,1868,"186,8",3,2,1,"0,26",SuperMassive Blaze,EMEA,Bind,Acend,Ataque,13,5,Vencedor,10,3,Sage,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+zeek,Acend,EMEA,292,19,/11/,11,2,1874,"187,4",3,3,0,"0,27",SuperMassive Blaze,EMEA,Bind,Acend,Ataque,13,5,Vencedor,10,3,Raze,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+BONECOLD,Acend,EMEA,220,12,/13/,13,8,1603,"160,3",1,4,-3,"0,35",SuperMassive Blaze,EMEA,Bind,Acend,Ataque,13,5,Vencedor,10,3,Brimstone,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+starxo,Acend,EMEA,159,11,/10/,10,6,938,"93,8",0,1,-1,"0,17",SuperMassive Blaze,EMEA,Bind,Acend,Ataque,13,5,Vencedor,10,3,Skye,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Kiles,Acend,EMEA,100,5,/12/,12,8,757,"75,7",1,0,1,"0,18",SuperMassive Blaze,EMEA,Bind,Acend,Ataque,13,5,Vencedor,10,3,Viper,10/09/2021,0,Masters Berlin 2021,A,Abertura,3
+keloqz,G2 eSports,EMEA,253,18,/12/,12,1,1598,"159,8",4,4,0,"0,34",F4Q,KR,Ascent,G2 eSports,Ataque,13,5,Vencedor,11,2,Jett,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,238,16,/11/,11,5,1431,"143,1",1,3,-2,"0,21",F4Q,KR,Ascent,G2 eSports,Ataque,13,5,Vencedor,11,2,Skye,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,199,13,/12/,12,7,1413,"141,3",2,3,-1,"0,31",F4Q,KR,Ascent,G2 eSports,Ataque,13,5,Vencedor,11,2,Astra,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,199,13,/9/,9,9,1373,"137,3",0,1,-1,"0,22",F4Q,KR,Ascent,G2 eSports,Ataque,13,5,Vencedor,11,2,Sage,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,197,12,/10/,10,10,1299,"129,9",0,0,0,"0,25",F4Q,KR,Ascent,G2 eSports,Ataque,13,5,Vencedor,11,2,Sova,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,249,16,/15/,15,6,1586,"158,6",4,0,4,"0,36",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,5,13,Perdedor,4,1,Sova,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,207,13,/13/,13,6,1476,"147,6",0,1,-1,"0,27",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,5,13,Perdedor,4,1,Astra,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,199,11,/15/,15,5,1414,"141,4",6,3,3,"0,12",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,5,13,Perdedor,4,1,Raze,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,151,7,/15/,15,4,1206,"120,6",1,2,-1,"0,1",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,5,13,Perdedor,4,1,Killjoy,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,89,7,/14/,14,2,550,55,0,1,-1,"0,18",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,5,13,Perdedor,4,1,Reyna,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,228,18,/17/,17,4,1376,"137,6",0,2,-2,"0,39",F4Q,KR,Bind,F4Q,Defesa,9,13,Perdedor,5,4,Sage,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,228,16,/18/,18,2,1435,"143,5",7,4,3,"0,18",F4Q,KR,Bind,F4Q,Defesa,9,13,Perdedor,5,4,Raze,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,191,13,/16/,16,4,1327,"132,7",0,2,-2,"0,28",F4Q,KR,Bind,F4Q,Defesa,9,13,Perdedor,5,4,Sova,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,180,14,/15/,15,2,1185,"118,5",3,2,1,"0,23",F4Q,KR,Bind,F4Q,Defesa,9,13,Perdedor,5,4,Astra,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,137,11,/15/,15,5,907,"90,7",1,1,0,"0,19",F4Q,KR,Bind,F4Q,Defesa,9,13,Perdedor,5,4,Skye,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,264,22,/17/,17,7,1557,"155,7",4,1,3,"0,21",G2 eSports,EMEA,Bind,F4Q,Ataque,13,9,Vencedor,8,5,Skye,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,249,19,/14/,14,2,1741,"174,1",2,2,0,"0,35",G2 eSports,EMEA,Bind,F4Q,Ataque,13,9,Vencedor,8,5,Sova,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,213,16,/14/,14,3,1459,"145,9",3,5,-2,"0,14",G2 eSports,EMEA,Bind,F4Q,Ataque,13,9,Vencedor,8,5,Raze,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,212,16,/15/,15,6,1884,"188,4",1,1,0,"0,18",G2 eSports,EMEA,Bind,F4Q,Ataque,13,9,Vencedor,8,5,Astra,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,118,8,/12/,12,6,880,88,1,2,-1,"0,13",G2 eSports,EMEA,Bind,F4Q,Ataque,13,9,Vencedor,8,5,Killjoy,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,301,24,/16/,16,2,1921,"192,1",6,3,3,"0,45",F4Q,KR,Haven,G2 eSports,Ataque,13,8,Vencedor,7,6,Jett,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,226,19,/11/,11,6,1928,"192,8",0,1,-1,"0,27",F4Q,KR,Haven,G2 eSports,Ataque,13,8,Vencedor,7,6,Sage,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,206,14,/13/,13,4,1398,"139,8",2,2,0,"0,21",F4Q,KR,Haven,G2 eSports,Ataque,13,8,Vencedor,7,6,Astra,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,184,13,/16/,16,8,1300,130,1,1,0,"0,2",F4Q,KR,Haven,G2 eSports,Ataque,13,8,Vencedor,7,6,Killjoy,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,126,9,/12/,12,14,910,91,1,4,-3,"0,19",F4Q,KR,Haven,G2 eSports,Ataque,13,8,Vencedor,7,6,Skye,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,262,18,/16/,16,2,1730,173,4,1,3,"0,14",G2 eSports,EMEA,Haven,G2 eSports,Defesa,8,13,Perdedor,3,5,Raze,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,236,17,/14/,14,6,1446,"144,6",3,3,0,"0,27",G2 eSports,EMEA,Haven,G2 eSports,Defesa,8,13,Perdedor,3,5,Sova,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,195,16,/16/,16,2,1481,"148,1",0,2,-2,"0,29",G2 eSports,EMEA,Haven,G2 eSports,Defesa,8,13,Perdedor,3,5,Astra,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,128,9,/15/,15,0,867,"86,7",1,2,-1,"0,24",G2 eSports,EMEA,Haven,G2 eSports,Defesa,8,13,Perdedor,3,5,Killjoy,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,124,8,/18/,18,6,890,89,3,2,1,"0,31",G2 eSports,EMEA,Haven,G2 eSports,Defesa,8,13,Perdedor,3,5,Skye,10/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Ethan,100 Thieves,NA,250,16,/9/,9,5,1438,"143,8",2,0,2,"0,27",Havan Liberty,BR,Ascent,100 Thieves,Defesa,13,3,Vencedor,4,9,Skye,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+steel,100 Thieves,NA,248,15,/10/,10,8,1525,"152,5",3,3,0,"0,24",Havan Liberty,BR,Ascent,100 Thieves,Defesa,13,3,Vencedor,4,9,Kay/O,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+nitr0,100 Thieves,NA,237,15,/10/,10,3,1614,"161,4",2,1,1,"0,36",Havan Liberty,BR,Ascent,100 Thieves,Defesa,13,3,Vencedor,4,9,Omen,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Asuna,100 Thieves,NA,228,12,/13/,13,2,1426,"142,6",3,1,2,"0,26",Havan Liberty,BR,Ascent,100 Thieves,Defesa,13,3,Vencedor,4,9,Jett,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Hiko,100 Thieves,NA,198,11,/5/,5,8,1425,"142,5",0,1,-1,"0,27",Havan Liberty,BR,Ascent,100 Thieves,Defesa,13,3,Vencedor,4,9,Sova,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+krain,Havan Liberty,BR,284,16,/13/,13,3,1956,"195,6",2,0,2,"0,33",100 Thieves,NA,Ascent,100 Thieves,Ataque,3,13,Perdedor,3,0,Sova,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+liazzi,Havan Liberty,BR,199,10,/14/,14,2,1371,"137,1",1,4,-3,"0,2",100 Thieves,NA,Ascent,100 Thieves,Ataque,3,13,Perdedor,3,0,Jett,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+pleets,Havan Liberty,BR,165,9,/11/,11,5,1049,"104,9",1,1,0,"0,24",100 Thieves,NA,Ascent,100 Thieves,Ataque,3,13,Perdedor,3,0,Astra,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Myssen,Havan Liberty,BR,130,5,/16/,16,7,955,"95,5",0,4,-4,"0,52",100 Thieves,NA,Ascent,100 Thieves,Ataque,3,13,Perdedor,3,0,Skye,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+shion,Havan Liberty,BR,100,6,/15/,15,2,686,"68,6",2,1,1,"0,5",100 Thieves,NA,Ascent,100 Thieves,Ataque,3,13,Perdedor,3,0,Breach,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Asuna,100 Thieves,NA,333,22,/12/,12,2,2031,"203,1",5,2,3,"0,31",Havan Liberty,BR,Icebox,Havan Liberty,Defesa,13,6,Vencedor,5,8,Reyna,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Ethan,100 Thieves,NA,291,21,/10/,10,7,1780,178,4,4,0,"0,24",Havan Liberty,BR,Icebox,Havan Liberty,Defesa,13,6,Vencedor,5,8,Omen,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Hiko,100 Thieves,NA,209,14,/8/,8,2,1378,"137,8",0,1,-1,"0,34",Havan Liberty,BR,Icebox,Havan Liberty,Defesa,13,6,Vencedor,5,8,Sova,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+steel,100 Thieves,NA,176,12,/13/,13,2,1269,"126,9",2,1,1,"0,25",Havan Liberty,BR,Icebox,Havan Liberty,Defesa,13,6,Vencedor,5,8,Killjoy,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+nitr0,100 Thieves,NA,126,10,/7/,7,4,1022,"102,2",0,0,0,"0,24",Havan Liberty,BR,Icebox,Havan Liberty,Defesa,13,6,Vencedor,5,8,Viper,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+shion,Havan Liberty,BR,182,12,/17/,17,1,1139,"113,9",3,4,-1,"0,18",100 Thieves,NA,Icebox,Havan Liberty,Ataque,6,13,Perdedor,4,2,Reyna,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Myssen,Havan Liberty,BR,182,11,/15/,15,3,1222,"122,2",2,3,-1,"0,41",100 Thieves,NA,Icebox,Havan Liberty,Ataque,6,13,Perdedor,4,2,Viper,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+pleets,Havan Liberty,BR,175,10,/17/,17,7,1214,"121,4",0,2,-2,"0,17",100 Thieves,NA,Icebox,Havan Liberty,Ataque,6,13,Perdedor,4,2,Sage,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+krain,Havan Liberty,BR,160,8,/15/,15,4,1162,"116,2",2,0,2,"0,12",100 Thieves,NA,Icebox,Havan Liberty,Ataque,6,13,Perdedor,4,2,Sova,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+liazzi,Havan Liberty,BR,125,9,/15/,15,1,1305,"130,5",1,2,-1,"0,14",100 Thieves,NA,Icebox,Havan Liberty,Ataque,6,13,Perdedor,4,2,Jett,10/09/2021,0,Masters Berlin 2021,C,Abertura,3
+k1Ng,Vision Strikers,KR,275,22,/13/,13,2,1804,"180,4",4,2,2,"0,34",Paper Rex,SEA,Haven,Vision Strikers,Ataque,13,9,Vencedor,8,4,Killjoy,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Rb,Vision Strikers,KR,252,21,/10/,10,8,1523,"152,3",1,1,0,"0,31",Paper Rex,SEA,Haven,Vision Strikers,Ataque,13,9,Vencedor,8,4,Skye,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+BuZz,Vision Strikers,KR,242,17,/15/,15,5,1633,"163,3",5,4,1,"0,18",Paper Rex,SEA,Haven,Vision Strikers,Ataque,13,9,Vencedor,8,4,Jett,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+MaKo,Vision Strikers,KR,172,14,/11/,11,9,1124,"112,4",3,1,2,"0,27",Paper Rex,SEA,Haven,Vision Strikers,Ataque,13,9,Vencedor,8,4,Astra,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+stax,Vision Strikers,KR,117,11,/11/,11,6,859,"85,9",0,1,-1,"0,22",Paper Rex,SEA,Haven,Vision Strikers,Ataque,13,9,Vencedor,8,4,Breach,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+f0rsakeN,Paper Rex,SEA,281,21,/19/,19,2,1689,"168,9",5,6,-1,"0,28",Vision Strikers,KR,Haven,Vision Strikers,Defesa,9,13,Perdedor,5,5,Jett,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+d4v41,Paper Rex,SEA,165,11,/20/,20,5,1136,"113,6",3,2,1,"0,28",Vision Strikers,KR,Haven,Vision Strikers,Defesa,9,13,Perdedor,5,5,Skye,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+mindfreak,Paper Rex,SEA,139,11,/16/,16,6,1400,140,0,0,0,"0,21",Vision Strikers,KR,Haven,Vision Strikers,Defesa,9,13,Perdedor,5,5,Astra,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Benkai,Paper Rex,SEA,122,10,/16/,16,0,880,88,1,2,-1,"0,33",Vision Strikers,KR,Haven,Vision Strikers,Defesa,9,13,Perdedor,5,5,Cypher,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+shiba,Paper Rex,SEA,108,7,/14/,14,6,861,"86,1",0,3,-3,"0,16",Vision Strikers,KR,Haven,Vision Strikers,Defesa,9,13,Perdedor,5,5,Sova,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+BuZz,Vision Strikers,KR,240,19,/20/,20,3,1486,"148,6",7,6,1,"0,19",Paper Rex,SEA,Icebox,Paper Rex,Defesa,13,11,Vencedor,10,3,Jett,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Rb,Vision Strikers,KR,224,20,/15/,15,7,1563,"156,3",0,0,0,"0,28",Paper Rex,SEA,Icebox,Paper Rex,Defesa,13,11,Vencedor,10,3,Sova,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+MaKo,Vision Strikers,KR,213,18,/13/,13,7,1493,"149,3",1,2,-1,"0,27",Paper Rex,SEA,Icebox,Paper Rex,Defesa,13,11,Vencedor,10,3,Viper,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+stax,Vision Strikers,KR,186,19,/14/,14,6,1089,"108,9",0,2,-2,"0,29",Paper Rex,SEA,Icebox,Paper Rex,Defesa,13,11,Vencedor,10,3,Sage,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+k1Ng,Vision Strikers,KR,161,11,/17/,17,3,1208,"120,8",2,4,-2,"0,29",Paper Rex,SEA,Icebox,Paper Rex,Defesa,13,11,Vencedor,10,3,Killjoy,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+f0rsakeN,Paper Rex,SEA,307,27,/18/,18,3,1688,"168,8",9,3,6,"0,3",Vision Strikers,KR,Icebox,Paper Rex,Ataque,11,13,Perdedor,9,2,Jett,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+d4v41,Paper Rex,SEA,199,17,/15/,15,8,1373,"137,3",1,2,-1,"0,31",Vision Strikers,KR,Icebox,Paper Rex,Ataque,11,13,Perdedor,9,2,Sage,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+Benkai,Paper Rex,SEA,188,15,/16/,16,3,1305,"130,5",3,2,1,"0,28",Vision Strikers,KR,Icebox,Paper Rex,Ataque,11,13,Perdedor,9,2,Killjoy,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+mindfreak,Paper Rex,SEA,137,10,/18/,18,11,1013,"101,3",0,1,-1,"0,11",Vision Strikers,KR,Icebox,Paper Rex,Ataque,11,13,Perdedor,9,2,Viper,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+shiba,Paper Rex,SEA,127,10,/20/,20,3,805,"80,5",1,2,-1,"0,22",Vision Strikers,KR,Icebox,Paper Rex,Ataque,11,13,Perdedor,9,2,Sova,11/09/2021,0,Masters Berlin 2021,A,Abertura,3
+murizzz,Vivo Keyd,BR,297,29,/21/,21,4,1855,"185,5",8,5,3,"0,2",Team Envy,NA,Icebox,Vivo Keyd,Ataque,13,15,Perdedor,8,5,Reyna,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+heat,Vivo Keyd,BR,229,25,/21/,21,2,1396,"139,6",5,1,4,"0,25",Team Envy,NA,Icebox,Vivo Keyd,Ataque,13,15,Perdedor,8,5,Jett,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+ntk,Vivo Keyd,BR,175,18,/22/,22,4,1098,"109,8",1,1,0,"0,14",Team Envy,NA,Icebox,Vivo Keyd,Ataque,13,15,Perdedor,8,5,Sova,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+JhoW,Vivo Keyd,BR,172,15,/22/,22,18,1116,"111,6",2,1,1,"0,16",Team Envy,NA,Icebox,Vivo Keyd,Ataque,13,15,Perdedor,8,5,Sage,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+v1xen,Vivo Keyd,BR,170,16,/19/,19,12,1194,"119,4",1,3,-2,"0,26",Team Envy,NA,Icebox,Vivo Keyd,Ataque,13,15,Perdedor,8,5,Viper,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+yay,Team Envy,NA,291,29,/19/,19,4,1945,"194,5",5,3,2,"0,25",Vivo Keyd,BR,Icebox,Vivo Keyd,Defesa,15,13,Vencedor,9,6,Jett,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+crashies,Team Envy,NA,270,26,/18/,18,8,2196,"219,6",1,1,0,"0,3",Vivo Keyd,BR,Icebox,Vivo Keyd,Defesa,15,13,Vencedor,9,6,Sova,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Victor,Team Envy,NA,214,19,/20/,20,6,1443,"144,3",2,3,-1,"0,21",Vivo Keyd,BR,Icebox,Vivo Keyd,Defesa,15,13,Vencedor,9,6,Raze,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Marved,Team Envy,NA,193,17,/23/,23,6,1472,"147,2",1,3,-2,"0,29",Vivo Keyd,BR,Icebox,Vivo Keyd,Defesa,15,13,Vencedor,9,6,Viper,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+FNS,Team Envy,NA,135,14,/23/,23,3,926,"92,6",2,7,-5,"0,14",Vivo Keyd,BR,Icebox,Vivo Keyd,Defesa,15,13,Vencedor,9,6,Killjoy,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+heat,Vivo Keyd,BR,375,26,/16/,16,6,2342,"234,2",9,2,7,"0,21",Team Envy,NA,Bind,Team Envy,Defesa,9,13,Perdedor,4,5,Jett,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+ntk,Vivo Keyd,BR,161,12,/16/,16,7,1111,"111,1",0,1,-1,"0,12",Team Envy,NA,Bind,Team Envy,Defesa,9,13,Perdedor,4,5,Sova,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+v1xen,Vivo Keyd,BR,150,12,/17/,17,1,1083,"108,3",0,1,-1,"0,21",Team Envy,NA,Bind,Team Envy,Defesa,9,13,Perdedor,4,5,Astra,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+murizzz,Vivo Keyd,BR,127,9,/19/,19,5,810,81,2,5,-3,"0,22",Team Envy,NA,Bind,Team Envy,Defesa,9,13,Perdedor,4,5,Raze,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+JhoW,Vivo Keyd,BR,119,10,/14/,14,5,846,"84,6",0,2,-2,"0,21",Team Envy,NA,Bind,Team Envy,Defesa,9,13,Perdedor,4,5,Sage,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+yay,Team Envy,NA,231,18,/14/,14,4,1475,"147,5",5,3,2,"0,32",Vivo Keyd,BR,Bind,Team Envy,Ataque,13,9,Vencedor,7,6,Jett,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+FNS,Team Envy,NA,226,18,/16/,16,8,1712,"171,2",0,1,-1,"0,25",Vivo Keyd,BR,Bind,Team Envy,Ataque,13,9,Vencedor,7,6,Viper,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+crashies,Team Envy,NA,210,16,/13/,13,3,1441,"144,1",1,1,0,"0,28",Vivo Keyd,BR,Bind,Team Envy,Ataque,13,9,Vencedor,7,6,Sova,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Victor,Team Envy,NA,186,14,/12/,12,4,1365,"136,5",2,3,-1,"0,23",Vivo Keyd,BR,Bind,Team Envy,Ataque,13,9,Vencedor,7,6,Raze,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Marved,Team Envy,NA,184,16,/14/,14,4,1338,"133,8",3,3,0,"0,39",Vivo Keyd,BR,Bind,Team Envy,Ataque,13,9,Vencedor,7,6,Astra,11/09/2021,0,Masters Berlin 2021,B,Abertura,3
+nAts,Gambit Esports,EMEA,359,18,/9/,9,5,2351,"235,1",3,0,3,"0,33",Crazy Raccoon,JP,Bind,Gambit Esports,Ataque,13,1,Vencedor,11,2,Viper,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Redgar,Gambit Esports,EMEA,266,15,/6/,6,2,1732,"173,2",3,3,0,"0,48",Crazy Raccoon,JP,Bind,Gambit Esports,Ataque,13,1,Vencedor,11,2,Astra,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+d3ffo,Gambit Esports,EMEA,255,13,/6/,6,0,1478,"147,8",3,1,2,"0,29",Crazy Raccoon,JP,Bind,Gambit Esports,Ataque,13,1,Vencedor,11,2,Jett,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Chronicle,Gambit Esports,EMEA,202,11,/5/,5,7,1435,"143,5",0,1,-1,"0,22",Crazy Raccoon,JP,Bind,Gambit Esports,Ataque,13,1,Vencedor,11,2,Sova,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+sheydos,Gambit Esports,EMEA,126,8,/6/,6,1,807,"80,7",0,0,0,"0,27",Crazy Raccoon,JP,Bind,Gambit Esports,Ataque,13,1,Vencedor,11,2,Skye,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Munchkin,Crazy Raccoon,JP,235,11,/13/,13,1,1411,"141,1",3,2,1,"0,38",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,1,13,Perdedor,0,1,Jett,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Bazzi,Crazy Raccoon,JP,204,8,/12/,12,1,1350,135,1,0,1,"0,31",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,1,13,Perdedor,0,1,Breach,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+neth,Crazy Raccoon,JP,102,4,/13/,13,2,709,"70,9",0,3,-3,"0,12",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,1,13,Perdedor,0,1,Raze,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Fisker,Crazy Raccoon,JP,97,5,/13/,13,0,761,"76,1",1,0,1,"0,5",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,1,13,Perdedor,0,1,Skye,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+ade,Crazy Raccoon,JP,97,4,/14/,14,1,598,"59,8",0,4,-4,"0,19",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,1,13,Perdedor,0,1,Astra,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+sheydos,Gambit Esports,EMEA,312,19,/3/,3,2,1994,"199,4",0,0,0,"0,3",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,13,1,Vencedor,2,11,Reyna,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Redgar,Gambit Esports,EMEA,260,14,/5/,5,6,1709,"170,9",2,1,1,"0,54",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,13,1,Vencedor,2,11,Sage,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Chronicle,Gambit Esports,EMEA,252,13,/5/,5,3,1654,"165,4",1,2,-1,"0,26",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,13,1,Vencedor,2,11,Sova,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+nAts,Gambit Esports,EMEA,241,12,/6/,6,2,1509,"150,9",1,2,-1,"0,31",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,13,1,Vencedor,2,11,Viper,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+d3ffo,Gambit Esports,EMEA,212,9,/5/,5,5,1294,"129,4",4,1,3,"0,13",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,13,1,Vencedor,2,11,Jett,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Bazzi,Crazy Raccoon,JP,207,7,/12/,12,2,1513,"151,3",3,1,2,"0,19",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,1,13,Perdedor,1,0,Sova,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Munchkin,Crazy Raccoon,JP,175,8,/14/,14,1,1134,"113,4",2,5,-3,"0,12",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,1,13,Perdedor,1,0,Jett,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+ade,Crazy Raccoon,JP,88,4,/14/,14,3,646,"64,6",0,0,0,"0,11",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,1,13,Perdedor,1,0,Viper,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+neth,Crazy Raccoon,JP,75,3,/14/,14,3,605,"60,5",0,1,-1,"0,15",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,1,13,Perdedor,1,0,Sage,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+Fisker,Crazy Raccoon,JP,51,2,/14/,14,1,325,"32,5",1,1,0,"0,4",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,1,13,Perdedor,1,0,Skye,11/09/2021,0,Masters Berlin 2021,C,Abertura,3
+keznit,KRÜ,LATAM,271,20,/16/,16,4,1754,"175,4",3,1,2,"0,51",Zeta Division,JP,Ascent,KRÜ,Defesa,13,8,Vencedor,2,11,Skye,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+delz1k,KRÜ,LATAM,250,19,/12/,12,8,1777,"177,7",1,1,0,"0,24",Zeta Division,JP,Ascent,KRÜ,Defesa,13,8,Vencedor,2,11,Astra,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+NagZ,KRÜ,LATAM,181,13,/14/,14,2,1216,"121,6",4,2,2,"0,24",Zeta Division,JP,Ascent,KRÜ,Defesa,13,8,Vencedor,2,11,Jett,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Mazino,KRÜ,LATAM,162,14,/12/,12,1,1078,"107,8",3,5,-2,"0,28",Zeta Division,JP,Ascent,KRÜ,Defesa,13,8,Vencedor,2,11,Killjoy,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Klaus,KRÜ,LATAM,144,10,/11/,11,2,1013,"101,3",1,0,1,"0,13",Zeta Division,JP,Ascent,KRÜ,Defesa,13,8,Vencedor,2,11,Sova,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Laz,Zeta Division,JP,278,20,/15/,15,7,1654,"165,4",4,2,2,"0,42",KRÜ,LATAM,Ascent,KRÜ,Ataque,8,13,Perdedor,1,7,Sova,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+takej,Zeta Division,JP,206,16,/16/,16,2,1369,"136,9",3,1,2,"0,38",KRÜ,LATAM,Ascent,KRÜ,Ataque,8,13,Perdedor,1,7,Reyna,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+crow,Zeta Division,JP,184,14,/15/,15,4,1167,"116,7",0,2,-2,"0,34",KRÜ,LATAM,Ascent,KRÜ,Ataque,8,13,Perdedor,1,7,Breach,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+makiba,Zeta Division,JP,111,7,/14/,14,9,814,"81,4",0,2,-2,"0,24",KRÜ,LATAM,Ascent,KRÜ,Ataque,8,13,Perdedor,1,7,Astra,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Reita,Zeta Division,JP,107,8,/16/,16,1,687,"68,7",2,5,-3,"0,2",KRÜ,LATAM,Ascent,KRÜ,Ataque,8,13,Perdedor,1,7,Jett,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+NagZ,KRÜ,LATAM,284,15,/14/,14,6,1712,"171,2",7,2,5,"0,1",Zeta Division,JP,Split,Zeta Division,Defesa,5,13,Perdedor,0,5,Jett,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Mazino,KRÜ,LATAM,231,15,/15/,15,6,1583,"158,3",0,1,-1,"0,21",Zeta Division,JP,Split,Zeta Division,Defesa,5,13,Perdedor,0,5,Sage,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+keznit,KRÜ,LATAM,173,9,/19/,19,5,1363,"136,3",1,3,-2,"0,13",Zeta Division,JP,Split,Zeta Division,Defesa,5,13,Perdedor,0,5,Raze,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+delz1k,KRÜ,LATAM,128,8,/15/,15,3,883,"88,3",1,2,-1,"0,36",Zeta Division,JP,Split,Zeta Division,Defesa,5,13,Perdedor,0,5,Astra,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Klaus,KRÜ,LATAM,106,5,/16/,16,2,689,"68,9",0,1,-1,"0,08",Zeta Division,JP,Split,Zeta Division,Defesa,5,13,Perdedor,0,5,Killjoy,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+takej,Zeta Division,JP,297,22,/8/,8,8,1908,"190,8",1,1,0,"0,31",KRÜ,LATAM,Split,Zeta Division,Ataque,13,5,Vencedor,7,6,Sage,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Laz,Zeta Division,JP,283,20,/9/,9,4,1659,"165,9",2,1,1,"0,23",KRÜ,LATAM,Split,Zeta Division,Ataque,13,5,Vencedor,7,6,Skye,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Reita,Zeta Division,JP,256,16,/16/,16,1,1441,"144,1",3,5,-2,"0,14",KRÜ,LATAM,Split,Zeta Division,Ataque,13,5,Vencedor,7,6,Jett,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+crow,Zeta Division,JP,199,12,/8/,8,5,1125,"112,5",1,0,1,"0,2",KRÜ,LATAM,Split,Zeta Division,Ataque,13,5,Vencedor,7,6,Viper,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+barce,Zeta Division,JP,144,9,/11/,11,7,999,"99,9",2,2,0,"0,15",KRÜ,LATAM,Split,Zeta Division,Ataque,13,5,Vencedor,7,6,Brimstone,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+keznit,KRÜ,LATAM,318,22,/12/,12,4,1999,"199,9",3,3,0,"0,19",Zeta Division,JP,Bind,KRÜ,Defesa,13,7,Vencedor,6,7,Raze,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Klaus,KRÜ,LATAM,238,16,/10/,10,8,1622,"162,2",4,0,4,"0,22",Zeta Division,JP,Bind,KRÜ,Defesa,13,7,Vencedor,6,7,Skye,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+NagZ,KRÜ,LATAM,208,15,/10/,10,4,1273,"127,3",4,1,3,"0,2",Zeta Division,JP,Bind,KRÜ,Defesa,13,7,Vencedor,6,7,Sage,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Mazino,KRÜ,LATAM,179,15,/13/,13,14,1157,"115,7",3,2,1,"0,19",Zeta Division,JP,Bind,KRÜ,Defesa,13,7,Vencedor,6,7,Viper,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+delz1k,KRÜ,LATAM,138,9,/13/,13,5,965,"96,5",0,0,0,"0,23",Zeta Division,JP,Bind,KRÜ,Defesa,13,7,Vencedor,6,7,Brimstone,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+takej,Zeta Division,JP,229,15,/14/,14,5,1514,"151,4",3,2,1,"0,27",KRÜ,LATAM,Bind,KRÜ,Ataque,7,13,Perdedor,5,2,Reyna,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Laz,Zeta Division,JP,212,14,/17/,17,2,1355,"135,5",2,4,-2,"0,43",KRÜ,LATAM,Bind,KRÜ,Ataque,7,13,Perdedor,5,2,Skye,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+crow,Zeta Division,JP,158,11,/13/,13,6,1028,"102,8",0,2,-2,"0,12",KRÜ,LATAM,Bind,KRÜ,Ataque,7,13,Perdedor,5,2,Breach,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+Reita,Zeta Division,JP,143,10,/17/,17,2,837,"83,7",1,5,-4,"0,18",KRÜ,LATAM,Bind,KRÜ,Ataque,7,13,Perdedor,5,2,Jett,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+makiba,Zeta Division,JP,120,8,/16/,16,5,842,"84,2",0,1,-1,"0,17",KRÜ,LATAM,Bind,KRÜ,Ataque,7,13,Perdedor,5,2,Astra,12/09/2021,0,Masters Berlin 2021,B,Abertura,3
+ShahZaM,Sentinels,NA,369,26,/11/,11,4,2264,"226,4",4,0,4,"0,24",G2 eSports,EMEA,Split,Sentinels,Ataque,13,6,Vencedor,8,5,Jett,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,203,14,/10/,10,9,1353,"135,3",2,1,1,"0,15",G2 eSports,EMEA,Split,Sentinels,Ataque,13,6,Vencedor,8,5,Astra,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,202,14,/12/,12,6,1365,"136,5",4,2,2,"0,27",G2 eSports,EMEA,Split,Sentinels,Ataque,13,6,Vencedor,8,5,Sage,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,169,11,/10/,10,4,1072,"107,2",3,2,1,"0,21",G2 eSports,EMEA,Split,Sentinels,Ataque,13,6,Vencedor,8,5,Reyna,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,160,11,/11/,11,4,1053,"105,3",0,1,-1,"0,13",G2 eSports,EMEA,Split,Sentinels,Ataque,13,6,Vencedor,8,5,Viper,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,252,13,/17/,17,6,1938,"193,8",1,4,-3,"0,13",Sentinels,NA,Split,Sentinels,Defesa,6,13,Perdedor,2,4,Raze,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,217,14,/15/,15,0,1537,"153,7",1,3,-2,"0,21",Sentinels,NA,Split,Sentinels,Defesa,6,13,Perdedor,2,4,Killjoy,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,174,11,/14/,14,1,1171,"117,1",0,2,-2,"0,36",Sentinels,NA,Split,Sentinels,Defesa,6,13,Perdedor,2,4,Astra,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,165,10,/15/,15,1,1023,"102,3",3,3,0,"0,31",Sentinels,NA,Split,Sentinels,Defesa,6,13,Perdedor,2,4,Jett,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,108,6,/15/,15,7,884,"88,4",1,1,0,"0,13",Sentinels,NA,Split,Sentinels,Defesa,6,13,Perdedor,2,4,Sage,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,327,24,/14/,14,4,2121,"212,1",3,0,3,"0,24",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,8,13,Perdedor,4,4,Reyna,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,192,15,/15/,15,2,1268,"126,8",1,1,0,"0,2",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,8,13,Perdedor,4,4,Viper,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,174,13,/15/,15,3,1233,"123,3",2,0,2,"0,23",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,8,13,Perdedor,4,4,Sage,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,155,12,/16/,16,0,842,"84,2",5,7,-2,"0,28",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,8,13,Perdedor,4,4,Jett,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,111,7,/18/,18,7,822,"82,2",1,1,0,"0,15",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,8,13,Perdedor,4,4,Sova,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,317,22,/12/,12,9,2070,207,5,2,3,"0,14",Sentinels,NA,Icebox,G2 eSports,Ataque,13,8,Vencedor,8,5,Raze,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,265,20,/17/,17,3,1724,"172,4",4,3,1,"0,24",Sentinels,NA,Icebox,G2 eSports,Ataque,13,8,Vencedor,8,5,Jett,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,187,15,/12/,12,4,1333,"133,3",0,2,-2,"0,26",Sentinels,NA,Icebox,G2 eSports,Ataque,13,8,Vencedor,8,5,Sova,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,164,12,/15/,15,5,1102,"110,2",0,3,-3,"0,18",Sentinels,NA,Icebox,G2 eSports,Ataque,13,8,Vencedor,8,5,Viper,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,123,9,/15/,15,7,888,"88,8",0,2,-2,"0,21",Sentinels,NA,Icebox,G2 eSports,Ataque,13,8,Vencedor,8,5,Sage,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,360,27,/12/,12,7,2339,"233,9",6,4,2,"0,2",G2 eSports,EMEA,Haven,Sentinels,Defesa,13,8,Vencedor,2,11,Phoenix,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,249,19,/8/,8,2,1418,"141,8",6,1,5,"0,18",G2 eSports,EMEA,Haven,Sentinels,Defesa,13,8,Vencedor,2,11,Jett,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,195,14,/14/,14,6,1497,"149,7",0,0,0,"0,24",G2 eSports,EMEA,Haven,Sentinels,Defesa,13,8,Vencedor,2,11,Sova,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,155,11,/12/,12,8,1109,"110,9",0,0,0,"0,2",G2 eSports,EMEA,Haven,Sentinels,Defesa,13,8,Vencedor,2,11,Astra,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,138,10,/13/,13,8,979,"97,9",1,3,-2,"0,22",G2 eSports,EMEA,Haven,Sentinels,Defesa,13,8,Vencedor,2,11,Cypher,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,189,12,/17/,17,3,1333,"133,3",2,1,1,"0,29",Sentinels,NA,Haven,Sentinels,Ataque,8,13,Perdedor,1,7,Sage,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,172,13,/15/,15,1,1096,"109,6",1,1,0,"0,27",Sentinels,NA,Haven,Sentinels,Ataque,8,13,Perdedor,1,7,Astra,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,171,12,/16/,16,4,1228,"122,8",1,3,-2,"0,2",Sentinels,NA,Haven,Sentinels,Ataque,8,13,Perdedor,1,7,Killjoy,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,168,14,/17/,17,1,1250,125,3,4,-1,"0,26",Sentinels,NA,Haven,Sentinels,Ataque,8,13,Perdedor,1,7,Jett,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,126,8,/16/,16,10,1033,"103,3",1,4,-3,"0,21",Sentinels,NA,Haven,Sentinels,Ataque,8,13,Perdedor,1,7,Skye,12/09/2021,0,Masters Berlin 2021,D,Abertura,3
+d3ffo,Gambit Esports,EMEA,284,19,/14/,14,3,1632,"163,2",5,1,4,"0,24",100 Thieves,NA,Ascent,Gambit Esports,Ataque,13,5,Vencedor,7,6,Jett,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Redgar,Gambit Esports,EMEA,238,19,/9/,9,6,1321,"132,1",2,0,2,"0,18",100 Thieves,NA,Ascent,Gambit Esports,Ataque,13,5,Vencedor,7,6,Astra,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+sheydos,Gambit Esports,EMEA,218,13,/11/,11,8,1426,"142,6",2,1,1,"0,14",100 Thieves,NA,Ascent,Gambit Esports,Ataque,13,5,Vencedor,7,6,Skye,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+nAts,Gambit Esports,EMEA,178,12,/12/,12,7,1346,"134,6",3,3,0,"0,27",100 Thieves,NA,Ascent,Gambit Esports,Ataque,13,5,Vencedor,7,6,Cypher,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Chronicle,Gambit Esports,EMEA,157,8,/11/,11,13,1286,"128,6",1,0,1,"0,27",100 Thieves,NA,Ascent,Gambit Esports,Ataque,13,5,Vencedor,7,6,Sova,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Ethan,100 Thieves,NA,271,16,/13/,13,4,1841,"184,1",2,3,-1,"0,25",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,5,13,Perdedor,0,5,Skye,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Asuna,100 Thieves,NA,220,13,/15/,15,0,1384,"138,4",3,3,0,"0,28",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,5,13,Perdedor,0,5,Jett,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+nitr0,100 Thieves,NA,202,13,/14/,14,5,1231,"123,1",0,1,-1,"0,23",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,5,13,Perdedor,0,5,Omen,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Hiko,100 Thieves,NA,161,9,/13/,13,5,1117,"111,7",0,2,-2,"0,07",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,5,13,Perdedor,0,5,Sova,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+steel,100 Thieves,NA,111,6,/16/,16,3,833,"83,3",0,4,-4,"0,18",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,5,13,Perdedor,0,5,Killjoy,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+sheydos,Gambit Esports,EMEA,289,26,/15/,15,3,1868,"186,8",4,1,3,"0,24",100 Thieves,NA,Icebox,100 Thieves,Ataque,11,13,Perdedor,9,2,Reyna,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+d3ffo,Gambit Esports,EMEA,267,23,/15/,15,5,1564,"156,4",3,1,2,"0,19",100 Thieves,NA,Icebox,100 Thieves,Ataque,11,13,Perdedor,9,2,Jett,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+nAts,Gambit Esports,EMEA,182,15,/15/,15,12,1248,"124,8",3,5,-2,"0,2",100 Thieves,NA,Icebox,100 Thieves,Ataque,11,13,Perdedor,9,2,Viper,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Chronicle,Gambit Esports,EMEA,159,12,/17/,17,12,1165,"116,5",0,1,-1,"0,23",100 Thieves,NA,Icebox,100 Thieves,Ataque,11,13,Perdedor,9,2,Sova,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Redgar,Gambit Esports,EMEA,134,11,/20/,20,9,933,"93,3",4,2,2,"0,38",100 Thieves,NA,Icebox,100 Thieves,Ataque,11,13,Perdedor,9,2,Sage,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Asuna,100 Thieves,NA,271,23,/19/,19,4,1719,"171,9",2,7,-5,"0,24",Gambit Esports,EMEA,Icebox,100 Thieves,Defesa,13,11,Vencedor,10,3,Reyna,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+steel,100 Thieves,NA,208,16,/20/,20,4,1354,"135,4",1,2,-1,"0,27",Gambit Esports,EMEA,Icebox,100 Thieves,Defesa,13,11,Vencedor,10,3,Killjoy,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Ethan,100 Thieves,NA,207,17,/18/,18,3,1590,159,6,3,3,"0,32",Gambit Esports,EMEA,Icebox,100 Thieves,Defesa,13,11,Vencedor,10,3,Omen,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Hiko,100 Thieves,NA,165,12,/14/,14,5,1209,"120,9",0,1,-1,"0,29",Gambit Esports,EMEA,Icebox,100 Thieves,Defesa,13,11,Vencedor,10,3,Sova,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+nitr0,100 Thieves,NA,161,14,/16/,16,11,1040,104,1,1,0,"0,14",Gambit Esports,EMEA,Icebox,100 Thieves,Defesa,13,11,Vencedor,10,3,Viper,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+sheydos,Gambit Esports,EMEA,265,23,/17/,17,6,1654,"165,4",4,1,3,"0,43",100 Thieves,NA,Split,Gambit Esports,Ataque,10,13,Perdedor,3,7,Skye,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Chronicle,Gambit Esports,EMEA,223,18,/17/,17,8,1520,152,2,2,0,"0,17",100 Thieves,NA,Split,Gambit Esports,Ataque,10,13,Perdedor,3,7,Viper,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+nAts,Gambit Esports,EMEA,208,17,/15/,15,6,1409,"140,9",2,2,0,"0,35",100 Thieves,NA,Split,Gambit Esports,Ataque,10,13,Perdedor,3,7,Cypher,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Redgar,Gambit Esports,EMEA,152,11,/17/,17,7,1116,"111,6",0,1,-1,"0,28",100 Thieves,NA,Split,Gambit Esports,Ataque,10,13,Perdedor,3,7,Astra,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+d3ffo,Gambit Esports,EMEA,142,11,/18/,18,3,875,"87,5",2,7,-5,"0,18",100 Thieves,NA,Split,Gambit Esports,Ataque,10,13,Perdedor,3,7,Jett,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Asuna,100 Thieves,NA,301,23,/21/,21,6,1717,"171,7",10,3,7,"0,24",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,10,Vencedor,4,9,Jett,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Hiko,100 Thieves,NA,218,19,/12/,12,5,2258,"225,8",2,0,2,"0,34",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,10,Vencedor,4,9,Viper,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+nitr0,100 Thieves,NA,207,15,/12/,12,13,1956,"195,6",1,1,0,"0,27",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,10,Vencedor,4,9,Astra,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+Ethan,100 Thieves,NA,164,15,/18/,18,4,1125,"112,5",0,3,-3,"0,26",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,10,Vencedor,4,9,Skye,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+steel,100 Thieves,NA,151,12,/17/,17,10,985,"98,5",0,3,-3,"0,12",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,10,Vencedor,4,9,Kay/O,12/09/2021,0,Masters Berlin 2021,C,Vencedor,3
+yay,Team Envy,NA,349,26,/15/,15,4,2231,"223,1",5,1,4,"0,2",KRÜ,LATAM,Icebox,KRÜ,Defesa,13,9,Vencedor,7,6,Jett,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Victor,Team Envy,NA,294,23,/15/,15,7,1947,"194,7",3,3,0,"0,23",KRÜ,LATAM,Icebox,KRÜ,Defesa,13,9,Vencedor,7,6,Raze,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Marved,Team Envy,NA,202,15,/16/,16,8,1481,"148,1",0,4,-4,"0,34",KRÜ,LATAM,Icebox,KRÜ,Defesa,13,9,Vencedor,7,6,Viper,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+crashies,Team Envy,NA,160,13,/14/,14,5,1566,"156,6",2,2,0,"0,22",KRÜ,LATAM,Icebox,KRÜ,Defesa,13,9,Vencedor,7,6,Sova,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+FNS,Team Envy,NA,160,12,/15/,15,3,1137,"113,7",0,2,-2,"0,17",KRÜ,LATAM,Icebox,KRÜ,Defesa,13,9,Vencedor,7,6,Killjoy,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+NagZ,KRÜ,LATAM,255,20,/16/,16,2,1569,"156,9",5,2,3,"0,27",Team Envy,NA,Icebox,KRÜ,Ataque,9,13,Perdedor,6,3,Jett,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+keznit,KRÜ,LATAM,222,18,/20/,20,2,1366,"136,6",3,2,1,"0,46",Team Envy,NA,Icebox,KRÜ,Ataque,9,13,Perdedor,6,3,Reyna,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Mazino,KRÜ,LATAM,218,16,/18/,18,5,1427,"142,7",2,2,0,"0,25",Team Envy,NA,Icebox,KRÜ,Ataque,9,13,Perdedor,6,3,Viper,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Klaus,KRÜ,LATAM,167,12,/18/,18,7,1165,"116,5",1,1,0,"0,22",Team Envy,NA,Icebox,KRÜ,Ataque,9,13,Perdedor,6,3,Sova,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+delz1k,KRÜ,LATAM,104,8,/17/,17,2,806,"80,6",1,3,-2,"0,28",Team Envy,NA,Icebox,KRÜ,Ataque,9,13,Perdedor,6,3,Sage,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+crashies,Team Envy,NA,295,16,/5/,5,9,1978,"197,8",1,0,1,"0,45",KRÜ,LATAM,Ascent,Team Envy,Ataque,13,2,Vencedor,10,3,Sova,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+yay,Team Envy,NA,294,17,/11/,11,4,1890,189,4,0,4,"0,23",KRÜ,LATAM,Ascent,Team Envy,Ataque,13,2,Vencedor,10,3,Jett,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Marved,Team Envy,NA,239,14,/5/,5,6,1345,"134,5",1,3,-2,"0,19",KRÜ,LATAM,Ascent,Team Envy,Ataque,13,2,Vencedor,10,3,Astra,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Victor,Team Envy,NA,235,13,/11/,11,6,1557,"155,7",2,3,-1,"0,22",KRÜ,LATAM,Ascent,Team Envy,Ataque,13,2,Vencedor,10,3,Skye,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+FNS,Team Envy,NA,119,7,/7/,7,2,858,"85,8",0,1,-1,"0,1",KRÜ,LATAM,Ascent,Team Envy,Ataque,13,2,Vencedor,10,3,Killjoy,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Klaus,KRÜ,LATAM,239,11,/13/,13,2,1719,"171,9",0,0,0,"0,28",Team Envy,NA,Ascent,Team Envy,Defesa,2,13,Perdedor,0,2,Sova,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+delz1k,KRÜ,LATAM,219,12,/12/,12,1,1252,"125,2",2,2,0,"0,36",Team Envy,NA,Ascent,Team Envy,Defesa,2,13,Perdedor,0,2,Astra,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+NagZ,KRÜ,LATAM,176,7,/14/,14,2,1133,"113,3",3,3,0,"0,07",Team Envy,NA,Ascent,Team Envy,Defesa,2,13,Perdedor,0,2,Jett,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+Mazino,KRÜ,LATAM,132,5,/14/,14,3,1049,"104,9",1,1,0,"0,18",Team Envy,NA,Ascent,Team Envy,Defesa,2,13,Perdedor,0,2,Killjoy,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+keznit,KRÜ,LATAM,80,4,/14/,14,3,566,"56,6",1,2,-1,"0,43",Team Envy,NA,Ascent,Team Envy,Defesa,2,13,Perdedor,0,2,Skye,13/09/2021,0,Masters Berlin 2021,B,Vencedor,3
+BuZz,Vision Strikers,KR,352,27,/10/,10,1,2150,215,8,4,4,"0,24",Acend,EMEA,Haven,Vision Strikers,Defesa,13,7,Vencedor,5,8,Jett,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+Rb,Vision Strikers,KR,234,17,/9/,9,9,1504,"150,4",1,0,1,"0,25",Acend,EMEA,Haven,Vision Strikers,Defesa,13,7,Vencedor,5,8,Skye,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+k1Ng,Vision Strikers,KR,181,11,/13/,13,9,1395,"139,5",1,2,-1,"0,24",Acend,EMEA,Haven,Vision Strikers,Defesa,13,7,Vencedor,5,8,Killjoy,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+MaKo,Vision Strikers,KR,156,13,/7/,7,11,1095,"109,5",0,1,-1,"0,23",Acend,EMEA,Haven,Vision Strikers,Defesa,13,7,Vencedor,5,8,Astra,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+stax,Vision Strikers,KR,153,11,/10/,10,12,1119,"111,9",2,1,1,"0,29",Acend,EMEA,Haven,Vision Strikers,Defesa,13,7,Vencedor,5,8,Breach,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+cNed,Acend,EMEA,177,13,/15/,15,0,1128,"112,8",1,3,-2,"0,3",Vision Strikers,KR,Haven,Vision Strikers,Ataque,7,13,Perdedor,4,3,Jett,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+zeek,Acend,EMEA,172,11,/17/,17,2,1028,"102,8",6,2,4,"0,16",Vision Strikers,KR,Haven,Vision Strikers,Ataque,7,13,Perdedor,4,3,Phoenix,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+Kiles,Acend,EMEA,172,11,/16/,16,2,1173,"117,3",0,0,0,"0,26",Vision Strikers,KR,Haven,Vision Strikers,Ataque,7,13,Perdedor,4,3,Killjoy,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+starxo,Acend,EMEA,126,9,/16/,16,0,819,"81,9",0,2,-2,"0,15",Vision Strikers,KR,Haven,Vision Strikers,Ataque,7,13,Perdedor,4,3,Skye,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+BONECOLD,Acend,EMEA,76,5,/16/,16,7,543,"54,3",1,5,-4,"0,17",Vision Strikers,KR,Haven,Vision Strikers,Ataque,7,13,Perdedor,4,3,Omen,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+MaKo,Vision Strikers,KR,307,24,/14/,14,10,1935,"193,5",1,2,-1,"0,26",Acend,EMEA,Icebox,Acend,Ataque,13,9,Vencedor,7,6,Viper,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+Rb,Vision Strikers,KR,194,16,/11/,11,8,1405,"140,5",3,2,1,"0,28",Acend,EMEA,Icebox,Acend,Ataque,13,9,Vencedor,7,6,Sova,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+stax,Vision Strikers,KR,190,17,/13/,13,4,1230,123,3,5,-2,"0,35",Acend,EMEA,Icebox,Acend,Ataque,13,9,Vencedor,7,6,Sage,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+k1Ng,Vision Strikers,KR,189,14,/15/,15,4,1389,"138,9",1,1,0,"0,23",Acend,EMEA,Icebox,Acend,Ataque,13,9,Vencedor,7,6,Killjoy,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+BuZz,Vision Strikers,KR,155,13,/17/,17,2,990,99,3,1,2,"0,11",Acend,EMEA,Icebox,Acend,Ataque,13,9,Vencedor,7,6,Jett,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+cNed,Acend,EMEA,270,21,/17/,17,3,1785,"178,5",1,2,-1,"0,18",Vision Strikers,KR,Icebox,Acend,Defesa,9,13,Perdedor,4,5,Jett,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+BONECOLD,Acend,EMEA,261,21,/15/,15,4,1612,"161,2",1,1,0,"0,41",Vision Strikers,KR,Icebox,Acend,Defesa,9,13,Perdedor,4,5,Viper,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+zeek,Acend,EMEA,230,15,/18/,18,8,1726,"172,6",6,2,4,"0,2",Vision Strikers,KR,Icebox,Acend,Defesa,9,13,Perdedor,4,5,Reyna,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+starxo,Acend,EMEA,121,7,/14/,14,10,922,"92,2",3,3,0,"0,18",Vision Strikers,KR,Icebox,Acend,Defesa,9,13,Perdedor,4,5,Sage,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+Kiles,Acend,EMEA,69,6,/20/,20,3,464,"46,4",0,3,-3,"0,28",Vision Strikers,KR,Icebox,Acend,Defesa,9,13,Perdedor,4,5,Sova,13/09/2021,0,Masters Berlin 2021,A,Vencedor,3
+Efina,F4Q,KR,263,18,/18/,18,4,1955,"195,5",2,3,-1,"0,18",Sentinels,NA,Split,F4Q,Ataque,9,13,Perdedor,5,4,Killjoy,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,199,14,/19/,19,3,1816,"181,6",6,3,3,"0,17",Sentinels,NA,Split,F4Q,Ataque,9,13,Perdedor,5,4,Raze,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,195,16,/15/,15,9,1221,"122,1",3,1,2,"0,28",Sentinels,NA,Split,F4Q,Ataque,9,13,Perdedor,5,4,Astra,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,174,13,/19/,19,10,1143,"114,3",0,1,-1,"0,19",Sentinels,NA,Split,F4Q,Ataque,9,13,Perdedor,5,4,Sage,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,135,11,/17/,17,8,963,"96,3",0,3,-3,"0,18",Sentinels,NA,Split,F4Q,Ataque,9,13,Perdedor,5,4,Skye,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,321,26,/15/,15,5,1906,"190,6",4,1,3,"0,18",F4Q,KR,Split,F4Q,Defesa,13,9,Vencedor,6,7,Jett,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,290,22,/16/,16,8,2869,"286,9",4,1,3,"0,21",F4Q,KR,Split,F4Q,Defesa,13,9,Vencedor,6,7,Reyna,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,217,19,/13/,13,4,1420,142,0,3,-3,"0,37",F4Q,KR,Split,F4Q,Defesa,13,9,Vencedor,6,7,Sage,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,145,11,/15/,15,7,992,"99,2",2,3,-1,"0,29",F4Q,KR,Split,F4Q,Defesa,13,9,Vencedor,6,7,Cypher,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,136,10,/13/,13,9,938,"93,8",1,3,-2,"0,1",F4Q,KR,Split,F4Q,Defesa,13,9,Vencedor,6,7,Astra,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,206,10,/12/,12,5,1531,"153,1",3,2,1,"0,24",Sentinels,NA,Breeze,Sentinels,Defesa,4,13,Perdedor,0,4,Jett,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,175,10,/15/,15,2,1195,"119,5",1,2,-1,"0,69",Sentinels,NA,Breeze,Sentinels,Defesa,4,13,Perdedor,0,4,Viper,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,172,11,/12/,12,1,1224,"122,4",1,4,-3,"0,28",Sentinels,NA,Breeze,Sentinels,Defesa,4,13,Perdedor,0,4,Killjoy,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,133,8,/15/,15,2,861,"86,1",2,2,0,"0,33",Sentinels,NA,Breeze,Sentinels,Defesa,4,13,Perdedor,0,4,Skye,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,106,5,/15/,15,1,799,"79,9",0,0,0,"0,24",Sentinels,NA,Breeze,Sentinels,Defesa,4,13,Perdedor,0,4,Reyna,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,478,32,/7/,7,1,2826,"282,6",4,0,4,"0,35",F4Q,KR,Breeze,Sentinels,Ataque,13,4,Vencedor,8,5,Jett,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,180,11,/10/,10,3,1208,"120,8",2,2,0,"0,23",F4Q,KR,Breeze,Sentinels,Ataque,13,4,Vencedor,8,5,Skye,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,147,8,/9/,9,3,1061,"106,1",1,1,0,"0,32",F4Q,KR,Breeze,Sentinels,Ataque,13,4,Vencedor,8,5,Sova,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,145,9,/10/,10,3,969,"96,9",1,1,0,"0,18",F4Q,KR,Breeze,Sentinels,Ataque,13,4,Vencedor,8,5,Killjoy,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,120,8,/8/,8,4,789,"78,9",2,3,-1,"0,21",F4Q,KR,Breeze,Sentinels,Ataque,13,4,Vencedor,8,5,Viper,13/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,224,12,/14/,14,3,1586,"158,6",1,0,1,"0,41",G2 eSports,EMEA,Bind,F4Q,Defesa,3,13,Perdedor,0,3,Sova,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,194,10,/13/,13,0,1370,137,2,3,-1,"0,4",G2 eSports,EMEA,Bind,F4Q,Defesa,3,13,Perdedor,0,3,Killjoy,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,150,6,/14/,14,4,1049,"104,9",2,3,-1,"0,2",G2 eSports,EMEA,Bind,F4Q,Defesa,3,13,Perdedor,0,3,Raze,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,112,5,/14/,14,2,696,"69,6",0,1,-1,"0,07",G2 eSports,EMEA,Bind,F4Q,Defesa,3,13,Perdedor,0,3,Skye,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,67,3,/16/,16,2,393,"39,3",1,2,-1,"0,07",G2 eSports,EMEA,Bind,F4Q,Defesa,3,13,Perdedor,0,3,Astra,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,293,18,/12/,12,0,1648,"164,8",2,1,1,"0,49",F4Q,KR,Bind,F4Q,Ataque,13,3,Vencedor,9,4,Skye,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,285,16,/7/,7,6,1700,170,4,3,1,"0,2",F4Q,KR,Bind,F4Q,Ataque,13,3,Vencedor,9,4,Raze,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,246,15,/8/,8,7,1563,"156,3",3,1,2,"0,32",F4Q,KR,Bind,F4Q,Ataque,13,3,Vencedor,9,4,Viper,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,189,10,/6/,6,13,1296,"129,6",0,1,-1,"0,19",F4Q,KR,Bind,F4Q,Ataque,13,3,Vencedor,9,4,Sova,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,167,12,/4/,4,5,953,"95,3",1,1,0,"0,14",F4Q,KR,Bind,F4Q,Ataque,13,3,Vencedor,9,4,Astra,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,225,14,/15/,15,4,2047,"204,7",4,2,2,"0,13",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,6,13,Perdedor,3,3,Raze,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,199,12,/17/,17,5,1323,"132,3",3,1,2,"0,31",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,6,13,Perdedor,3,3,Sova,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,183,14,/15/,15,2,1114,"111,4",1,1,0,"0,31",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,6,13,Perdedor,3,3,Astra,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,166,11,/14/,14,2,1602,"160,2",1,4,-3,"0,24",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,6,13,Perdedor,3,3,Killjoy,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,117,7,/15/,15,4,817,"81,7",0,2,-2,"0,05",G2 eSports,EMEA,Ascent,G2 eSports,Defesa,6,13,Perdedor,3,3,Skye,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,276,20,/11/,11,10,1785,"178,5",3,0,3,"0,25",F4Q,KR,Ascent,G2 eSports,Ataque,13,6,Vencedor,9,4,Sage,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,219,15,/11/,11,8,1412,"141,2",3,2,1,"0,24",F4Q,KR,Ascent,G2 eSports,Ataque,13,6,Vencedor,9,4,Sova,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,204,15,/14/,14,7,1369,"136,9",1,3,-2,"0,28",F4Q,KR,Ascent,G2 eSports,Ataque,13,6,Vencedor,9,4,Astra,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,188,14,/12/,12,1,1397,"139,7",2,2,0,"0,38",F4Q,KR,Ascent,G2 eSports,Ataque,13,6,Vencedor,9,4,Jett,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,177,12,/10/,10,3,1185,"118,5",1,2,-1,"0,26",F4Q,KR,Ascent,G2 eSports,Ataque,13,6,Vencedor,9,4,Skye,14/09/2021,0,Masters Berlin 2021,D,Abertura,3
+heat,Vivo Keyd,BR,362,24,/8/,8,1,2139,"213,9",6,1,5,"0,34",Zeta Division,JP,Breeze,Vivo Keyd,Ataque,13,3,Vencedor,9,4,Jett,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+murizzz,Vivo Keyd,BR,273,14,/6/,6,9,1978,"197,8",2,1,1,"0,2",Zeta Division,JP,Breeze,Vivo Keyd,Ataque,13,3,Vencedor,9,4,Reyna,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+ntk,Vivo Keyd,BR,168,10,/9/,9,1,1078,"107,8",2,2,0,"0,16",Zeta Division,JP,Breeze,Vivo Keyd,Ataque,13,3,Vencedor,9,4,Sova,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+v1xen,Vivo Keyd,BR,142,8,/5/,5,6,1114,"111,4",0,0,0,"0,21",Zeta Division,JP,Breeze,Vivo Keyd,Ataque,13,3,Vencedor,9,4,Viper,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+JhoW,Vivo Keyd,BR,130,8,/8/,8,2,721,"72,1",1,1,0,"0,11",Zeta Division,JP,Breeze,Vivo Keyd,Ataque,13,3,Vencedor,9,4,Killjoy,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+crow,Zeta Division,JP,175,10,/12/,12,4,1844,"184,4",1,2,-1,"0,24",Vivo Keyd,BR,Breeze,Vivo Keyd,Defesa,3,13,Perdedor,0,3,Sova,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+Laz,Zeta Division,JP,155,8,/12/,12,1,1656,"165,6",3,0,3,"0,38",Vivo Keyd,BR,Breeze,Vivo Keyd,Defesa,3,13,Perdedor,0,3,Cypher,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+takej,Zeta Division,JP,145,8,/14/,14,4,1516,"151,6",0,2,-2,"0,29",Vivo Keyd,BR,Breeze,Vivo Keyd,Defesa,3,13,Perdedor,0,3,Skye,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+Reita,Zeta Division,JP,138,7,/12/,12,4,1599,"159,9",1,3,-2,"0,24",Vivo Keyd,BR,Breeze,Vivo Keyd,Defesa,3,13,Perdedor,0,3,Jett,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+makiba,Zeta Division,JP,100,3,/14/,14,3,811,"81,1",0,4,-4,"0,17",Vivo Keyd,BR,Breeze,Vivo Keyd,Defesa,3,13,Perdedor,0,3,Viper,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+heat,Vivo Keyd,BR,371,23,/8/,8,3,2322,"232,2",4,2,2,"0,37",Zeta Division,JP,Split,Zeta Division,Defesa,13,4,Vencedor,3,10,Jett,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+murizzz,Vivo Keyd,BR,315,20,/10/,10,0,1877,"187,7",5,1,4,"0,21",Zeta Division,JP,Split,Zeta Division,Defesa,13,4,Vencedor,3,10,Raze,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+ntk,Vivo Keyd,BR,212,13,/9/,9,7,1356,"135,6",2,0,2,"0,19",Zeta Division,JP,Split,Zeta Division,Defesa,13,4,Vencedor,3,10,Sage,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+JhoW,Vivo Keyd,BR,157,9,/9/,9,4,1018,"101,8",0,0,0,"0,16",Zeta Division,JP,Split,Zeta Division,Defesa,13,4,Vencedor,3,10,Killjoy,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+v1xen,Vivo Keyd,BR,105,7,/7/,7,7,709,"70,9",2,1,1,"0,13",Zeta Division,JP,Split,Zeta Division,Defesa,13,4,Vencedor,3,10,Astra,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+Laz,Zeta Division,JP,315,19,/13/,13,4,1701,"170,1",1,1,0,"0,31",Vivo Keyd,BR,Split,Zeta Division,Ataque,4,13,Perdedor,2,2,Skye,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+takej,Zeta Division,JP,171,9,/15/,15,4,1175,"117,5",1,3,-2,"0,23",Vivo Keyd,BR,Split,Zeta Division,Ataque,4,13,Perdedor,2,2,Sage,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+Reita,Zeta Division,JP,119,6,/13/,13,3,946,"94,6",0,5,-5,"0,09",Vivo Keyd,BR,Split,Zeta Division,Ataque,4,13,Perdedor,2,2,Jett,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+crow,Zeta Division,JP,109,5,/14/,14,6,767,"76,7",1,1,0,"0,13",Vivo Keyd,BR,Split,Zeta Division,Ataque,4,13,Perdedor,2,2,Viper,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+barce,Zeta Division,JP,83,4,/17/,17,5,496,"49,6",1,3,-2,"0,16",Vivo Keyd,BR,Split,Zeta Division,Ataque,4,13,Perdedor,2,2,Brimstone,14/09/2021,0,Masters Berlin 2021,B,Eliminação,3
+neth,Crazy Raccoon,JP,260,19,/14/,14,2,1706,"170,6",4,0,4,"0,15",Havan Liberty,BR,Haven,Havan Liberty,Ataque,13,9,Vencedor,6,7,Raze,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Medusa,Crazy Raccoon,JP,217,18,/13/,13,4,1262,"126,2",4,3,1,"0,3",Havan Liberty,BR,Haven,Havan Liberty,Ataque,13,9,Vencedor,6,7,Cypher,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Munchkin,Crazy Raccoon,JP,207,18,/15/,15,2,1300,130,3,5,-2,"0,18",Havan Liberty,BR,Haven,Havan Liberty,Ataque,13,9,Vencedor,6,7,Jett,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+ade,Crazy Raccoon,JP,206,16,/15/,15,8,1386,"138,6",0,1,-1,"0,23",Havan Liberty,BR,Haven,Havan Liberty,Ataque,13,9,Vencedor,6,7,Brimstone,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Fisker,Crazy Raccoon,JP,128,10,/16/,16,7,912,"91,2",0,2,-2,"0,21",Havan Liberty,BR,Haven,Havan Liberty,Ataque,13,9,Vencedor,6,7,Skye,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+krain,Havan Liberty,BR,267,18,/17/,17,10,1817,"181,7",3,0,3,"0,27",Crazy Raccoon,JP,Haven,Havan Liberty,Defesa,9,13,Perdedor,5,4,Breach,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+liazzi,Havan Liberty,BR,224,17,/15/,15,1,1488,"148,8",3,2,1,"0,24",Crazy Raccoon,JP,Haven,Havan Liberty,Defesa,9,13,Perdedor,5,4,Jett,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+pleets,Havan Liberty,BR,188,14,/16/,16,6,1318,"131,8",2,5,-3,"0,19",Crazy Raccoon,JP,Haven,Havan Liberty,Defesa,9,13,Perdedor,5,4,Astra,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+shion,Havan Liberty,BR,156,12,/18/,18,1,972,"97,2",2,2,0,"0,2",Crazy Raccoon,JP,Haven,Havan Liberty,Defesa,9,13,Perdedor,5,4,Skye,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Myssen,Havan Liberty,BR,151,11,/15/,15,3,1149,"114,9",1,2,-1,"0,41",Crazy Raccoon,JP,Haven,Havan Liberty,Defesa,9,13,Perdedor,5,4,Cypher,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Fisker,Crazy Raccoon,JP,268,21,/12/,12,12,1719,"171,9",1,1,0,"0,23",Havan Liberty,BR,Split,Crazy Raccoon,Defesa,13,8,Vencedor,9,4,Skye,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Munchkin,Crazy Raccoon,JP,266,18,/18/,18,3,1609,"160,9",4,2,2,"0,17",Havan Liberty,BR,Split,Crazy Raccoon,Defesa,13,8,Vencedor,9,4,Jett,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Medusa,Crazy Raccoon,JP,203,15,/17/,17,1,1220,122,4,5,-1,"0,15",Havan Liberty,BR,Split,Crazy Raccoon,Defesa,13,8,Vencedor,9,4,Cypher,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+ade,Crazy Raccoon,JP,195,17,/12/,12,9,1399,"139,9",1,1,0,"0,22",Havan Liberty,BR,Split,Crazy Raccoon,Defesa,13,8,Vencedor,9,4,Viper,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+neth,Crazy Raccoon,JP,187,16,/11/,11,7,1195,"119,5",1,1,0,"0,18",Havan Liberty,BR,Split,Crazy Raccoon,Defesa,13,8,Vencedor,9,4,Astra,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+shion,Havan Liberty,BR,335,24,/19/,19,3,2130,213,6,4,2,"0,12",Crazy Raccoon,JP,Split,Crazy Raccoon,Ataque,8,13,Perdedor,5,3,Raze,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+pleets,Havan Liberty,BR,198,13,/18/,18,6,1255,"125,5",3,1,2,"0,08",Crazy Raccoon,JP,Split,Crazy Raccoon,Ataque,8,13,Perdedor,5,3,Astra,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+liazzi,Havan Liberty,BR,175,12,/17/,17,4,1321,"132,1",0,3,-3,"0,2",Crazy Raccoon,JP,Split,Crazy Raccoon,Ataque,8,13,Perdedor,5,3,Killjoy,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+Myssen,Havan Liberty,BR,164,13,/15/,15,5,1116,"111,6",1,0,1,"0,5",Crazy Raccoon,JP,Split,Crazy Raccoon,Ataque,8,13,Perdedor,5,3,Viper,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+krain,Havan Liberty,BR,111,8,/18/,18,2,795,"79,5",0,3,-3,"0,07",Crazy Raccoon,JP,Split,Crazy Raccoon,Ataque,8,13,Perdedor,5,3,Skye,14/09/2021,0,Masters Berlin 2021,C,Eliminação,3
+d4v41,Paper Rex,SEA,277,25,/15/,15,6,1924,"192,4",4,1,3,"0,33",SuperMassive Blaze,EMEA,Haven,SuperMassive Blaze,Ataque,14,12,Vencedor,8,6,Skye,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+shiba,Paper Rex,SEA,206,18,/14/,14,14,1358,"135,8",1,0,1,"0,21",SuperMassive Blaze,EMEA,Haven,SuperMassive Blaze,Ataque,14,12,Vencedor,8,6,Sova,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+f0rsakeN,Paper Rex,SEA,196,18,/19/,19,1,1202,"120,2",5,9,-4,"0,37",SuperMassive Blaze,EMEA,Haven,SuperMassive Blaze,Ataque,14,12,Vencedor,8,6,Jett,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+mindfreak,Paper Rex,SEA,154,15,/18/,18,4,1808,"180,8",2,1,1,"0,2",SuperMassive Blaze,EMEA,Haven,SuperMassive Blaze,Ataque,14,12,Vencedor,8,6,Astra,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Benkai,Paper Rex,SEA,135,10,/15/,15,8,1363,"136,3",3,0,3,"0,22",SuperMassive Blaze,EMEA,Haven,SuperMassive Blaze,Ataque,14,12,Vencedor,8,6,Cypher,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+pAura,SuperMassive Blaze,EMEA,215,18,/19/,19,5,1390,139,5,5,0,"0,29",Paper Rex,SEA,Haven,SuperMassive Blaze,Defesa,12,14,Perdedor,7,5,Killjoy,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Izzy,SuperMassive Blaze,EMEA,205,21,/17/,17,1,1370,137,2,5,-3,"0,19",Paper Rex,SEA,Haven,SuperMassive Blaze,Defesa,12,14,Perdedor,7,5,Jett,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Brave,SuperMassive Blaze,EMEA,183,15,/17/,17,10,1445,"144,5",2,3,-1,"0,33",Paper Rex,SEA,Haven,SuperMassive Blaze,Defesa,12,14,Perdedor,7,5,Omen,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Turko,SuperMassive Blaze,EMEA,148,14,/16/,16,4,1410,141,1,0,1,"0,39",Paper Rex,SEA,Haven,SuperMassive Blaze,Defesa,12,14,Perdedor,7,5,Sage,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+russ,SuperMassive Blaze,EMEA,141,13,/17/,17,4,1147,"114,7",1,2,-1,"0,33",Paper Rex,SEA,Haven,SuperMassive Blaze,Defesa,12,14,Perdedor,7,5,Sova,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+d4v41,Paper Rex,SEA,175,8,/14/,14,4,1178,"117,8",0,2,-2,"0,18",SuperMassive Blaze,EMEA,Breeze,Paper Rex,Defesa,2,13,Perdedor,2,0,Skye,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+mindfreak,Paper Rex,SEA,160,8,/13/,13,2,1004,"100,4",1,3,-2,"0,19",SuperMassive Blaze,EMEA,Breeze,Paper Rex,Defesa,2,13,Perdedor,2,0,Viper,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+f0rsakeN,Paper Rex,SEA,154,6,/15/,15,2,1224,"122,4",2,6,-4,"0,39",SuperMassive Blaze,EMEA,Breeze,Paper Rex,Defesa,2,13,Perdedor,2,0,Jett,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Benkai,Paper Rex,SEA,106,5,/13/,13,2,703,"70,3",0,0,0,"0,12",SuperMassive Blaze,EMEA,Breeze,Paper Rex,Defesa,2,13,Perdedor,2,0,Killjoy,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+shiba,Paper Rex,SEA,28,0,/13/,13,3,285,"28,5",0,1,-1,0,SuperMassive Blaze,EMEA,Breeze,Paper Rex,Defesa,2,13,Perdedor,2,0,Sova,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Brave,SuperMassive Blaze,EMEA,284,14,/7/,7,5,1675,"167,5",3,0,3,"0,27",Paper Rex,SEA,Breeze,Paper Rex,Ataque,13,2,Vencedor,3,10,Viper,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+russ,SuperMassive Blaze,EMEA,268,16,/4/,4,3,1787,"178,7",2,0,2,"0,32",Paper Rex,SEA,Breeze,Paper Rex,Ataque,13,2,Vencedor,3,10,Sova,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+pAura,SuperMassive Blaze,EMEA,259,16,/6/,6,3,1568,"156,8",2,2,0,"0,38",Paper Rex,SEA,Breeze,Paper Rex,Ataque,13,2,Vencedor,3,10,Cypher,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Izzy,SuperMassive Blaze,EMEA,217,13,/6/,6,3,1497,"149,7",4,1,3,"0,19",Paper Rex,SEA,Breeze,Paper Rex,Ataque,13,2,Vencedor,3,10,Jett,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Turko,SuperMassive Blaze,EMEA,169,9,/4/,4,5,1206,"120,6",1,0,1,"0,33",Paper Rex,SEA,Breeze,Paper Rex,Ataque,13,2,Vencedor,3,10,Skye,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+f0rsakeN,Paper Rex,SEA,200,16,/19/,19,3,1286,"128,6",5,3,2,"0,29",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,4,6,Reyna,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Benkai,Paper Rex,SEA,194,15,/13/,13,1,1337,"133,7",2,2,0,"0,24",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,4,6,Killjoy,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+shiba,Paper Rex,SEA,175,13,/16/,16,5,1174,"117,4",2,3,-1,"0,27",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,4,6,Sage,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+mindfreak,Paper Rex,SEA,173,14,/17/,17,2,1090,109,0,0,0,"0,14",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,4,6,Astra,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+d4v41,Paper Rex,SEA,137,10,/19/,19,5,979,"97,9",3,3,0,"0,14",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,4,6,Jett,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Brave,SuperMassive Blaze,EMEA,250,23,/13/,13,6,1616,"161,6",3,1,2,"0,43",Paper Rex,SEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,6,7,Astra,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Izzy,SuperMassive Blaze,EMEA,238,18,/16/,16,5,1555,"155,5",4,5,-1,"0,11",Paper Rex,SEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,6,7,Raze,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+Turko,SuperMassive Blaze,EMEA,232,19,/13/,13,8,1322,"132,2",3,1,2,"0,17",Paper Rex,SEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,6,7,Sage,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+russ,SuperMassive Blaze,EMEA,228,18,/15/,15,7,1432,"143,2",0,1,-1,"0,29",Paper Rex,SEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,6,7,Skye,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+pAura,SuperMassive Blaze,EMEA,72,6,/11/,11,4,571,"57,1",1,4,-3,"0,41",Paper Rex,SEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,6,7,Cypher,15/09/2021,0,Masters Berlin 2021,A,Eliminação,3
+keloqz,G2 eSports,EMEA,376,23,/5/,5,4,2333,"233,3",5,0,5,"0,26",Sentinels,NA,Icebox,G2 eSports,Ataque,13,3,Vencedor,9,4,Jett,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,315,17,/8/,8,4,1958,"195,8",2,1,1,"0,21",Sentinels,NA,Icebox,G2 eSports,Ataque,13,3,Vencedor,9,4,Raze,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,211,11,/10/,10,8,1502,"150,2",2,1,1,"0,13",Sentinels,NA,Icebox,G2 eSports,Ataque,13,3,Vencedor,9,4,Viper,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,172,10,/10/,10,8,1103,"110,3",1,2,-1,"0,13",Sentinels,NA,Icebox,G2 eSports,Ataque,13,3,Vencedor,9,4,Sova,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,149,11,/5/,5,9,914,"91,4",2,0,2,"0,23",Sentinels,NA,Icebox,G2 eSports,Ataque,13,3,Vencedor,9,4,Sage,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,219,11,/14/,14,2,1247,"124,7",2,2,0,"0,11",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,3,13,Perdedor,0,3,Jett,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,201,10,/14/,14,3,1406,"140,6",0,4,-4,"0,21",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,3,13,Perdedor,0,3,Reyna,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,174,9,/15/,15,5,1148,"114,8",1,3,-2,"0,34",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,3,13,Perdedor,0,3,Sage,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,147,7,/14/,14,0,858,"85,8",1,2,-1,"0,25",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,3,13,Perdedor,0,3,Sova,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,59,1,/15/,15,5,523,"52,3",0,1,-1,"0,1",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,3,13,Perdedor,0,3,Viper,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+AvovA,G2 eSports,EMEA,285,26,/16/,16,6,1854,"185,4",1,1,0,"0,3",Sentinels,NA,Split,Sentinels,Defesa,13,11,Vencedor,5,8,Astra,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Mixwell,G2 eSports,EMEA,237,17,/19/,19,9,1725,"172,5",5,6,-1,"0,18",Sentinels,NA,Split,Sentinels,Defesa,13,11,Vencedor,5,8,Raze,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+nukkye,G2 eSports,EMEA,228,20,/12/,12,7,1520,152,1,2,-1,"0,27",Sentinels,NA,Split,Sentinels,Defesa,13,11,Vencedor,5,8,Reyna,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keloqz,G2 eSports,EMEA,225,19,/17/,17,3,1588,"158,8",4,2,2,"0,22",Sentinels,NA,Split,Sentinels,Defesa,13,11,Vencedor,5,8,Sage,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+koldamenta,G2 eSports,EMEA,148,12,/16/,16,5,1082,"108,2",1,1,0,"0,19",Sentinels,NA,Split,Sentinels,Defesa,13,11,Vencedor,5,8,Killjoy,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,221,18,/16/,16,4,1484,"148,4",3,1,2,"0,23",G2 eSports,EMEA,Split,Sentinels,Ataque,11,13,Perdedor,4,7,Viper,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,217,18,/20/,20,9,1450,145,5,4,1,"0,19",G2 eSports,EMEA,Split,Sentinels,Ataque,11,13,Perdedor,4,7,Sage,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,208,17,/22/,22,5,1320,132,1,4,-3,"0,18",G2 eSports,EMEA,Split,Sentinels,Ataque,11,13,Perdedor,4,7,Reyna,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,177,14,/19/,19,2,1165,"116,5",2,1,1,"0,17",G2 eSports,EMEA,Split,Sentinels,Ataque,11,13,Perdedor,4,7,Jett,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,155,13,/17/,17,9,1057,"105,7",1,2,-1,"0,12",G2 eSports,EMEA,Split,Sentinels,Ataque,11,13,Perdedor,4,7,Astra,15/09/2021,0,Masters Berlin 2021,D,Abertura,3
+keznit,KRÜ,LATAM,360,31,/18/,18,8,2183,"218,3",5,2,3,"0,15",Vivo Keyd,BR,Split,Vivo Keyd,Defesa,13,11,Vencedor,6,7,Raze,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+Klaus,KRÜ,LATAM,248,22,/11/,11,2,2490,249,3,1,2,"0,19",Vivo Keyd,BR,Split,Vivo Keyd,Defesa,13,11,Vencedor,6,7,Killjoy,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+NagZ,KRÜ,LATAM,183,15,/20/,20,4,1261,"126,1",2,3,-1,"0,22",Vivo Keyd,BR,Split,Vivo Keyd,Defesa,13,11,Vencedor,6,7,Jett,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+delz1k,KRÜ,LATAM,135,12,/17/,17,6,1448,"144,8",0,2,-2,"0,23",Vivo Keyd,BR,Split,Vivo Keyd,Defesa,13,11,Vencedor,6,7,Astra,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+Mazino,KRÜ,LATAM,124,11,/17/,17,9,748,"74,8",1,5,-4,"0,18",Vivo Keyd,BR,Split,Vivo Keyd,Defesa,13,11,Vencedor,6,7,Sage,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+v1xen,Vivo Keyd,BR,226,21,/17/,17,10,1485,"148,5",0,0,0,"0,28",KRÜ,LATAM,Split,Vivo Keyd,Ataque,11,13,Perdedor,5,6,Astra,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+murizzz,Vivo Keyd,BR,221,15,/22/,22,5,1700,170,4,4,0,"0,22",KRÜ,LATAM,Split,Vivo Keyd,Ataque,11,13,Perdedor,5,6,Raze,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+JhoW,Vivo Keyd,BR,193,17,/14/,14,6,1258,"125,8",3,1,2,"0,13",KRÜ,LATAM,Split,Vivo Keyd,Ataque,11,13,Perdedor,5,6,Killjoy,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+heat,Vivo Keyd,BR,184,16,/19/,19,2,1382,"138,2",2,1,1,"0,31",KRÜ,LATAM,Split,Vivo Keyd,Ataque,11,13,Perdedor,5,6,Jett,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+ntk,Vivo Keyd,BR,183,14,/19/,19,8,1275,"127,5",4,5,-1,"0,17",KRÜ,LATAM,Split,Vivo Keyd,Ataque,11,13,Perdedor,5,6,Sage,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+delz1k,KRÜ,LATAM,260,23,/17/,17,4,1723,"172,3",2,3,-1,"0,35",Vivo Keyd,BR,Haven,KRÜ,Ataque,13,11,Vencedor,4,9,Astra,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+NagZ,KRÜ,LATAM,217,18,/13/,13,5,1440,144,5,1,4,"0,29",Vivo Keyd,BR,Haven,KRÜ,Ataque,13,11,Vencedor,4,9,Jett,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+Mazino,KRÜ,LATAM,205,16,/16/,16,11,1363,"136,3",3,2,1,"0,17",Vivo Keyd,BR,Haven,KRÜ,Ataque,13,11,Vencedor,4,9,Sage,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+keznit,KRÜ,LATAM,181,18,/14/,14,10,1238,"123,8",2,1,1,"0,24",Vivo Keyd,BR,Haven,KRÜ,Ataque,13,11,Vencedor,4,9,Skye,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+Klaus,KRÜ,LATAM,148,10,/16/,16,8,1048,"104,8",3,2,1,"0,18",Vivo Keyd,BR,Haven,KRÜ,Ataque,13,11,Vencedor,4,9,Killjoy,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+v1xen,Vivo Keyd,BR,204,19,/12/,12,4,1464,"146,4",0,0,0,"0,38",KRÜ,LATAM,Haven,KRÜ,Defesa,11,13,Perdedor,3,8,Astra,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+murizzz,Vivo Keyd,BR,201,16,/17/,17,7,1354,"135,4",2,4,-2,"0,22",KRÜ,LATAM,Haven,KRÜ,Defesa,11,13,Perdedor,3,8,Phoenix,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+JhoW,Vivo Keyd,BR,196,15,/19/,19,7,1281,"128,1",3,3,0,"0,1",KRÜ,LATAM,Haven,KRÜ,Defesa,11,13,Perdedor,3,8,Killjoy,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+ntk,Vivo Keyd,BR,169,14,/18/,18,5,1133,"113,3",0,2,-2,"0,26",KRÜ,LATAM,Haven,KRÜ,Defesa,11,13,Perdedor,3,8,Sova,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+heat,Vivo Keyd,BR,161,12,/19/,19,3,1093,"109,3",4,6,-2,"0,26",KRÜ,LATAM,Haven,KRÜ,Defesa,11,13,Perdedor,3,8,Jett,15/09/2021,0,Masters Berlin 2021,B,Decisão,3
+zeek,Acend,EMEA,265,16,/13/,13,5,2158,"215,8",0,0,0,"0,08",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,6,13,Perdedor,1,5,Sova,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+cNed,Acend,EMEA,222,13,/20/,20,4,1425,"142,5",4,5,-1,"0,15",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,6,13,Perdedor,1,5,Jett,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Kiles,Acend,EMEA,195,12,/16/,16,8,1335,"133,5",2,1,1,"0,23",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,6,13,Perdedor,1,5,Killjoy,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+starxo,Acend,EMEA,178,12,/15/,15,7,1280,128,1,2,-1,"0,24",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,6,13,Perdedor,1,5,Sage,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+BONECOLD,Acend,EMEA,101,8,/14/,14,6,1143,"114,3",0,4,-4,"0,17",SuperMassive Blaze,EMEA,Ascent,SuperMassive Blaze,Defesa,6,13,Perdedor,1,5,Astra,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Izzy,SuperMassive Blaze,EMEA,344,26,/12/,12,3,2028,"202,8",5,1,4,"0,28",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,13,6,Vencedor,7,6,Jett,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+russ,SuperMassive Blaze,EMEA,271,17,/14/,14,9,1923,"192,3",3,0,3,"0,28",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,13,6,Vencedor,7,6,Sova,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Brave,SuperMassive Blaze,EMEA,194,13,/13/,13,9,1282,"128,2",2,2,0,"0,33",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,13,6,Vencedor,7,6,Omen,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Turko,SuperMassive Blaze,EMEA,150,12,/11/,11,9,975,"97,5",2,1,1,"0,27",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,13,6,Vencedor,7,6,Sage,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+pAura,SuperMassive Blaze,EMEA,146,10,/11/,11,4,1077,"107,7",0,3,-3,"0,29",Acend,EMEA,Ascent,SuperMassive Blaze,Ataque,13,6,Vencedor,7,6,Killjoy,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+cNed,Acend,EMEA,279,21,/11/,11,10,1601,"160,1",3,2,1,"0,22",SuperMassive Blaze,EMEA,Bind,Acend,Defesa,13,7,Vencedor,4,9,Sage,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+starxo,Acend,EMEA,263,20,/12/,12,8,1672,"167,2",1,0,1,"0,23",SuperMassive Blaze,EMEA,Bind,Acend,Defesa,13,7,Vencedor,4,9,Skye,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+BONECOLD,Acend,EMEA,253,18,/12/,12,6,1605,"160,5",3,3,0,"0,36",SuperMassive Blaze,EMEA,Bind,Acend,Defesa,13,7,Vencedor,4,9,Brimstone,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+zeek,Acend,EMEA,196,14,/10/,10,6,1185,"118,5",3,3,0,"0,12",SuperMassive Blaze,EMEA,Bind,Acend,Defesa,13,7,Vencedor,4,9,Raze,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Kiles,Acend,EMEA,146,11,/11/,11,10,919,"91,9",1,1,0,"0,25",SuperMassive Blaze,EMEA,Bind,Acend,Defesa,13,7,Vencedor,4,9,Viper,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Brave,SuperMassive Blaze,EMEA,238,13,/17/,17,7,1858,"185,8",2,0,2,"0,25",Acend,EMEA,Bind,Acend,Ataque,7,13,Perdedor,3,4,Astra,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+russ,SuperMassive Blaze,EMEA,225,15,/17/,17,4,1445,"144,5",1,2,-1,"0,35",Acend,EMEA,Bind,Acend,Ataque,7,13,Perdedor,3,4,Sova,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+pAura,SuperMassive Blaze,EMEA,167,13,/17/,17,7,1072,"107,2",2,2,0,"0,32",Acend,EMEA,Bind,Acend,Ataque,7,13,Perdedor,3,4,Viper,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Izzy,SuperMassive Blaze,EMEA,125,8,/19/,19,4,796,"79,6",4,6,-2,"0,17",Acend,EMEA,Bind,Acend,Ataque,7,13,Perdedor,3,4,Jett,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Turko,SuperMassive Blaze,EMEA,97,7,/14/,14,3,683,"68,3",0,1,-1,"0,27",Acend,EMEA,Bind,Acend,Ataque,7,13,Perdedor,3,4,Skye,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+zeek,Acend,EMEA,348,27,/16/,16,6,2132,"213,2",7,2,5,"0,12",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,7,6,Raze,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+cNed,Acend,EMEA,301,24,/15/,15,6,1912,"191,2",3,3,0,"0,21",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,7,6,Jett,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+starxo,Acend,EMEA,218,18,/16/,16,12,1517,"151,7",0,1,-1,"0,21",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,7,6,Sage,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Kiles,Acend,EMEA,144,13,/15/,15,3,1016,"101,6",2,0,2,"0,25",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,7,6,Cypher,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+BONECOLD,Acend,EMEA,138,12,/19/,19,5,1019,"101,9",0,5,-5,"0,4",SuperMassive Blaze,EMEA,Split,SuperMassive Blaze,Defesa,13,10,Vencedor,7,6,Omen,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+russ,SuperMassive Blaze,EMEA,251,20,/19/,19,7,1776,"177,6",3,1,2,"0,26",Acend,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,6,4,Skye,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Izzy,SuperMassive Blaze,EMEA,215,18,/20/,20,2,1297,"129,7",3,3,0,"0,19",Acend,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,6,4,Raze,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+pAura,SuperMassive Blaze,EMEA,214,14,/20/,20,10,1530,153,3,4,-1,"0,29",Acend,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,6,4,Cypher,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Turko,SuperMassive Blaze,EMEA,173,16,/15/,15,11,1287,"128,7",0,0,0,"0,41",Acend,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,6,4,Sage,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+Brave,SuperMassive Blaze,EMEA,159,12,/20/,20,7,1042,"104,2",2,4,-2,"0,23",Acend,EMEA,Split,SuperMassive Blaze,Ataque,10,13,Perdedor,6,4,Astra,16/09/2021,0,Masters Berlin 2021,A,Decisão,3
+nAts,Gambit Esports,EMEA,387,30,/10/,10,5,2397,"239,7",5,0,5,"0,33",Crazy Raccoon,JP,Ascent,Gambit Esports,Ataque,13,8,Vencedor,5,8,Cypher,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+sheydos,Gambit Esports,EMEA,232,19,/14/,14,4,1417,"141,7",4,1,3,"0,21",Crazy Raccoon,JP,Ascent,Gambit Esports,Ataque,13,8,Vencedor,5,8,Skye,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Chronicle,Gambit Esports,EMEA,191,15,/10/,10,9,1369,"136,9",2,0,2,"0,23",Crazy Raccoon,JP,Ascent,Gambit Esports,Ataque,13,8,Vencedor,5,8,Sova,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+d3ffo,Gambit Esports,EMEA,175,12,/12/,12,3,1184,"118,4",6,1,5,"0,35",Crazy Raccoon,JP,Ascent,Gambit Esports,Ataque,13,8,Vencedor,5,8,Jett,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Redgar,Gambit Esports,EMEA,157,12,/15/,15,9,1331,"133,1",1,1,0,"0,24",Crazy Raccoon,JP,Ascent,Gambit Esports,Ataque,13,8,Vencedor,5,8,Astra,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+neth,Crazy Raccoon,JP,289,22,/18/,18,4,1629,"162,9",1,1,0,"0,27",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,8,13,Perdedor,1,7,Astra,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Medusa,Crazy Raccoon,JP,232,17,/18/,18,5,1434,"143,4",2,2,0,"0,27",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,8,13,Perdedor,1,7,Cypher,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+ade,Crazy Raccoon,JP,133,9,/16/,16,4,878,"87,8",0,4,-4,"0,21",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,8,13,Perdedor,1,7,Viper,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Fisker,Crazy Raccoon,JP,98,6,/20/,20,6,730,73,0,5,-5,"0,38",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,8,13,Perdedor,1,7,Skye,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Munchkin,Crazy Raccoon,JP,89,7,/16/,16,4,642,"64,2",0,6,-6,"0,04",Gambit Esports,EMEA,Ascent,Gambit Esports,Defesa,8,13,Perdedor,1,7,Raze,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+d3ffo,Gambit Esports,EMEA,271,25,/20/,20,2,1558,"155,8",4,4,0,"0,31",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,14,12,Vencedor,9,5,Jett,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+nAts,Gambit Esports,EMEA,236,20,/20/,20,11,1647,"164,7",3,5,-2,"0,37",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,14,12,Vencedor,9,5,Viper,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Chronicle,Gambit Esports,EMEA,221,20,/18/,18,2,1470,147,0,4,-4,"0,34",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,14,12,Vencedor,9,5,Sova,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+sheydos,Gambit Esports,EMEA,167,15,/16/,16,2,1076,"107,6",3,1,2,"0,25",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,14,12,Vencedor,9,5,Reyna,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Redgar,Gambit Esports,EMEA,152,13,/19/,19,12,1035,"103,5",2,0,2,"0,32",Crazy Raccoon,JP,Icebox,Crazy Raccoon,Defesa,14,12,Vencedor,9,5,Sage,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Fisker,Crazy Raccoon,JP,243,23,/22/,22,3,1572,"157,2",6,5,1,"0,39",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,12,14,Perdedor,8,4,Jett,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Munchkin,Crazy Raccoon,JP,227,20,/19/,19,6,1514,"151,4",2,4,-2,"0,2",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,12,14,Perdedor,8,4,Reyna,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+Bazzi,Crazy Raccoon,JP,223,19,/19/,19,8,1403,"140,3",4,2,2,"0,21",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,12,14,Perdedor,8,4,Sova,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+ade,Crazy Raccoon,JP,183,16,/14/,14,9,1205,"120,5",0,0,0,"0,33",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,12,14,Perdedor,8,4,Viper,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+neth,Crazy Raccoon,JP,162,15,/19/,19,9,1053,"105,3",2,1,1,"0,29",Gambit Esports,EMEA,Icebox,Crazy Raccoon,Ataque,12,14,Perdedor,8,4,Sage,16/09/2021,0,Masters Berlin 2021,C,Decisão,3
+TenZ,Sentinels,NA,391,24,/7/,7,4,2516,"251,6",5,1,4,"0,2",F4Q,KR,Breeze,Sentinels,Ataque,13,3,Vencedor,10,3,Jett,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,266,17,/8/,8,8,1819,"181,9",1,0,1,"0,2",F4Q,KR,Breeze,Sentinels,Ataque,13,3,Vencedor,10,3,Sova,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,203,12,/9/,9,2,1183,"118,3",4,1,3,"0,14",F4Q,KR,Breeze,Sentinels,Ataque,13,3,Vencedor,10,3,Killjoy,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,167,9,/9/,9,8,1134,"113,4",2,2,0,"0,17",F4Q,KR,Breeze,Sentinels,Ataque,13,3,Vencedor,10,3,Skye,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,147,8,/9/,9,12,1182,"118,2",0,0,0,"0,26",F4Q,KR,Breeze,Sentinels,Ataque,13,3,Vencedor,10,3,Viper,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,259,15,/13/,13,1,1496,"149,6",0,3,-3,"0,17",Sentinels,NA,Breeze,Sentinels,Defesa,3,13,Perdedor,1,2,Jett,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,183,10,/13/,13,1,1166,"116,6",1,3,-2,"0,29",Sentinels,NA,Breeze,Sentinels,Defesa,3,13,Perdedor,1,2,Killjoy,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,163,8,/16/,16,4,1158,"115,8",2,2,0,"0,2",Sentinels,NA,Breeze,Sentinels,Defesa,3,13,Perdedor,1,2,Skye,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,137,6,/14/,14,2,1094,"109,4",1,3,-2,"0,27",Sentinels,NA,Breeze,Sentinels,Defesa,3,13,Perdedor,1,2,Yoru,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,70,3,/14/,14,2,533,"53,3",0,1,-1,"0,27",Sentinels,NA,Breeze,Sentinels,Defesa,3,13,Perdedor,1,2,Viper,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,238,19,/17/,17,5,1463,"146,3",0,1,-1,"0,16",F4Q,KR,Split,F4Q,Defesa,9,13,Perdedor,2,7,Astra,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,201,13,/16/,16,8,1371,"137,1",3,2,1,"0,15",F4Q,KR,Split,F4Q,Defesa,9,13,Perdedor,2,7,Sage,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,174,14,/19/,19,2,1071,"107,1",1,6,-5,"0,16",F4Q,KR,Split,F4Q,Defesa,9,13,Perdedor,2,7,Reyna,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,146,11,/17/,17,6,945,"94,5",3,2,1,"0,18",F4Q,KR,Split,F4Q,Defesa,9,13,Perdedor,2,7,Cypher,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,127,8,/16/,16,5,869,"86,9",0,4,-4,"0,11",F4Q,KR,Split,F4Q,Defesa,9,13,Perdedor,2,7,Jett,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,321,26,/14/,14,3,1995,"199,5",9,4,5,"0,15",Sentinels,NA,Split,F4Q,Ataque,13,9,Vencedor,5,8,Raze,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,294,22,/14/,14,5,1929,"192,9",2,0,2,"0,21",Sentinels,NA,Split,F4Q,Ataque,13,9,Vencedor,5,8,Reyna,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,210,16,/12/,12,10,1507,"150,7",1,1,0,"0,32",Sentinels,NA,Split,F4Q,Ataque,13,9,Vencedor,5,8,Sage,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,203,14,/12/,12,14,1446,"144,6",2,1,1,"0,2",Sentinels,NA,Split,F4Q,Ataque,13,9,Vencedor,5,8,Astra,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,79,7,/13/,13,1,515,"51,5",1,1,0,"0,24",Sentinels,NA,Split,F4Q,Ataque,13,9,Vencedor,5,8,Killjoy,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+SicK,Sentinels,NA,321,19,/12/,12,5,2152,"215,2",3,1,2,"0,28",F4Q,KR,Haven,Sentinels,Lado de Início,13,4,Vencedor,10,3,Phoenix,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+TenZ,Sentinels,NA,303,18,/14/,14,5,1811,"181,1",4,4,0,"0,23",F4Q,KR,Haven,Sentinels,Lado de Início,13,4,Vencedor,10,3,Jett,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+ShahZaM,Sentinels,NA,197,13,/6/,6,7,1395,"139,5",2,0,2,"0,24",F4Q,KR,Haven,Sentinels,Lado de Início,13,4,Vencedor,10,3,Sova,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zombs,Sentinels,NA,157,11,/9/,9,8,1198,"119,8",0,0,0,"0,26",F4Q,KR,Haven,Sentinels,Lado de Início,13,4,Vencedor,10,3,Astra,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+dapr,Sentinels,NA,142,9,/10/,10,3,1108,"110,8",1,2,-1,"0,12",F4Q,KR,Haven,Sentinels,Lado de Início,13,4,Vencedor,10,3,Cypher,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Bunny,F4Q,KR,254,14,/14/,14,3,1596,"159,6",2,1,1,"0,15",Sentinels,NA,Haven,Sentinels,Lado de Início,4,13,Perdedor,2,2,Raze,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+zunba,F4Q,KR,206,14,/13/,13,6,1487,"148,7",1,2,-1,"0,34",Sentinels,NA,Haven,Sentinels,Lado de Início,4,13,Perdedor,2,2,Astra,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+fiveK,F4Q,KR,194,10,/15/,15,6,1475,"147,5",2,1,1,"0,31",Sentinels,NA,Haven,Sentinels,Lado de Início,4,13,Perdedor,2,2,Reyna,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Esperanza,F4Q,KR,128,7,/14/,14,2,940,94,2,2,0,"0,43",Sentinels,NA,Haven,Sentinels,Lado de Início,4,13,Perdedor,2,2,Sova,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+Efina,F4Q,KR,105,6,/14/,14,3,811,"81,1",0,4,-4,"0,22",Sentinels,NA,Haven,Sentinels,Lado de Início,4,13,Perdedor,2,2,Killjoy,16/09/2021,0,Masters Berlin 2021,D,Abertura,3
+stax,Vision Strikers,KR,212,12,/15/,15,7,1209,"120,9",1,0,1,"0,37",Gambit Esports,EMEA,Bind,Vision Strikers,Defesa,2,13,Perdedor,10,3,Breach,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+MaKo,Vision Strikers,KR,178,7,/13/,13,3,1397,"139,7",2,2,0,"0,42",Gambit Esports,EMEA,Bind,Vision Strikers,Defesa,2,13,Perdedor,10,3,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Lakia,Vision Strikers,KR,147,7,/14/,14,1,1141,"114,1",1,2,-1,"0,33",Gambit Esports,EMEA,Bind,Vision Strikers,Defesa,2,13,Perdedor,10,3,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+BuZz,Vision Strikers,KR,127,7,/13/,13,1,837,"83,7",1,3,-2,"0,19",Gambit Esports,EMEA,Bind,Vision Strikers,Defesa,2,13,Perdedor,10,3,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Rb,Vision Strikers,KR,57,1,/14/,14,5,480,48,1,2,-1,0,Gambit Esports,EMEA,Bind,Vision Strikers,Defesa,2,13,Perdedor,10,3,Raze,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nAts,Gambit Esports,EMEA,460,24,/9/,9,7,2829,"282,9",1,1,0,"0,26",Vision Strikers,KR,Bind,Vision Strikers,Ataque,13,2,Vencedor,0,2,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+sheydos,Gambit Esports,EMEA,226,14,/10/,10,9,1521,"152,1",4,2,2,"0,33",Vision Strikers,KR,Bind,Vision Strikers,Ataque,13,2,Vencedor,0,2,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+d3ffo,Gambit Esports,EMEA,220,13,/6/,6,2,1343,"134,3",2,3,-1,"0,12",Vision Strikers,KR,Bind,Vision Strikers,Ataque,13,2,Vencedor,0,2,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Redgar,Gambit Esports,EMEA,154,10,/6/,6,3,1179,"117,9",1,0,1,"0,32",Vision Strikers,KR,Bind,Vision Strikers,Ataque,13,2,Vencedor,0,2,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Chronicle,Gambit Esports,EMEA,127,8,/3/,3,6,827,"82,7",1,0,1,"0,2",Vision Strikers,KR,Bind,Vision Strikers,Ataque,13,2,Vencedor,0,2,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+BuZz,Vision Strikers,KR,248,18,/10/,10,1,1586,"158,6",6,3,3,"0,21",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,7,Vencedor,5,8,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+stax,Vision Strikers,KR,231,21,/11/,11,3,1588,"158,8",0,1,-1,"0,5",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,7,Vencedor,5,8,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+MaKo,Vision Strikers,KR,218,15,/11/,11,9,1502,"150,2",2,1,1,"0,38",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,7,Vencedor,5,8,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Rb,Vision Strikers,KR,207,14,/14/,14,12,1366,"136,6",2,1,1,"0,26",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,7,Vencedor,5,8,Sage,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+k1Ng,Vision Strikers,KR,147,9,/13/,13,4,1037,"103,7",3,1,2,"0,21",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,13,7,Vencedor,5,8,Killjoy,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Chronicle,Gambit Esports,EMEA,233,16,/17/,17,4,1498,"149,8",3,1,2,"0,16",Vision Strikers,KR,Split,Gambit Esports,Ataque,7,13,Perdedor,4,3,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nAts,Gambit Esports,EMEA,204,13,/17/,17,2,1461,"146,1",0,3,-3,"0,24",Vision Strikers,KR,Split,Gambit Esports,Ataque,7,13,Perdedor,4,3,Cypher,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+d3ffo,Gambit Esports,EMEA,185,13,/14/,14,2,1212,"121,2",2,6,-4,"0,2",Vision Strikers,KR,Split,Gambit Esports,Ataque,7,13,Perdedor,4,3,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Redgar,Gambit Esports,EMEA,171,12,/16/,16,5,1056,"105,6",2,3,-1,"0,31",Vision Strikers,KR,Split,Gambit Esports,Ataque,7,13,Perdedor,4,3,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+sheydos,Gambit Esports,EMEA,80,5,/13/,13,3,632,"63,2",0,0,0,"0,29",Vision Strikers,KR,Split,Gambit Esports,Ataque,7,13,Perdedor,4,3,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+BuZz,Vision Strikers,KR,303,23,/16/,16,3,1746,"174,6",4,3,1,"0,23",Gambit Esports,EMEA,Icebox,Vision Strikers,Defesa,8,13,Perdedor,4,4,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+MaKo,Vision Strikers,KR,194,12,/12/,12,10,1901,"190,1",0,1,-1,"0,23",Gambit Esports,EMEA,Icebox,Vision Strikers,Defesa,8,13,Perdedor,4,4,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+k1Ng,Vision Strikers,KR,171,13,/16/,16,1,1127,"112,7",1,2,-1,"0,36",Gambit Esports,EMEA,Icebox,Vision Strikers,Defesa,8,13,Perdedor,4,4,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+stax,Vision Strikers,KR,151,12,/14/,14,11,1085,"108,5",3,4,-1,"0,34",Gambit Esports,EMEA,Icebox,Vision Strikers,Defesa,8,13,Perdedor,4,4,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Rb,Vision Strikers,KR,126,7,/19/,19,8,949,"94,9",1,2,-1,"0,23",Gambit Esports,EMEA,Icebox,Vision Strikers,Defesa,8,13,Perdedor,4,4,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Chronicle,Gambit Esports,EMEA,299,21,/15/,15,5,1993,"199,3",3,1,2,"0,24",Vision Strikers,KR,Icebox,Vision Strikers,Ataque,13,8,Vencedor,8,5,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nAts,Gambit Esports,EMEA,224,16,/13/,13,8,1363,"136,3",1,1,0,"0,23",Vision Strikers,KR,Icebox,Vision Strikers,Ataque,13,8,Vencedor,8,5,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+sheydos,Gambit Esports,EMEA,220,16,/12/,12,1,1579,"157,9",3,1,2,"0,4",Vision Strikers,KR,Icebox,Vision Strikers,Ataque,13,8,Vencedor,8,5,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+d3ffo,Gambit Esports,EMEA,207,16,/12/,12,2,1337,"133,7",3,2,1,"0,4",Vision Strikers,KR,Icebox,Vision Strikers,Ataque,13,8,Vencedor,8,5,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Redgar,Gambit Esports,EMEA,97,8,/15/,15,8,719,"71,9",2,4,-2,"0,3",Vision Strikers,KR,Icebox,Vision Strikers,Ataque,13,8,Vencedor,8,5,Agente,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+keloqz,G2 eSports,EMEA,372,26,/12/,12,3,2307,"230,7",5,1,4,"0,25",KRÜ,LATAM,Icebox,G2 eSports,Ataque,13,9,Vencedor,7,6,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+koldamenta,G2 eSports,EMEA,261,19,/8/,8,8,1925,"192,5",2,0,2,"0,16",KRÜ,LATAM,Icebox,G2 eSports,Ataque,13,9,Vencedor,7,6,Raze,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Mixwell,G2 eSports,EMEA,237,16,/10/,10,3,1592,"159,2",1,1,0,"0,2",KRÜ,LATAM,Icebox,G2 eSports,Ataque,13,9,Vencedor,7,6,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nukkye,G2 eSports,EMEA,183,13,/10/,10,5,1154,"115,4",2,5,-3,"0,12",KRÜ,LATAM,Icebox,G2 eSports,Ataque,13,9,Vencedor,7,6,Sage,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+AvovA,G2 eSports,EMEA,124,8,/13/,13,10,804,"80,4",1,2,-1,"0,13",KRÜ,LATAM,Icebox,G2 eSports,Ataque,13,9,Vencedor,7,6,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+NagZ,KRÜ,LATAM,188,12,/17/,17,2,1384,"138,4",4,4,0,"0,2",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,9,13,Perdedor,4,5,Reyna,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+delz1k,KRÜ,LATAM,177,12,/15/,15,1,1096,"109,6",2,0,2,"0,19",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,9,13,Perdedor,4,5,Sage,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Klaus,KRÜ,LATAM,166,11,/16/,16,1,1191,"119,1",2,5,-3,"0,32",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,9,13,Perdedor,4,5,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+keznit,KRÜ,LATAM,144,10,/17/,17,3,1061,"106,1",1,2,-1,"0,26",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,9,13,Perdedor,4,5,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Mazino,KRÜ,LATAM,131,8,/17/,17,9,837,"83,7",0,0,0,"0,27",G2 eSports,EMEA,Icebox,G2 eSports,Defesa,9,13,Perdedor,4,5,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+keloqz,G2 eSports,EMEA,332,26,/15/,15,4,2035,"203,5",6,1,5,"0,18",KRÜ,LATAM,Haven,KRÜ,Defesa,13,7,Vencedor,6,7,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nukkye,G2 eSports,EMEA,234,16,/14/,14,8,1516,"151,6",2,2,0,"0,11",KRÜ,LATAM,Haven,KRÜ,Defesa,13,7,Vencedor,6,7,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+koldamenta,G2 eSports,EMEA,214,18,/15/,15,4,1468,"146,8",2,2,0,"0,42",KRÜ,LATAM,Haven,KRÜ,Defesa,13,7,Vencedor,6,7,Killjoy,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+AvovA,G2 eSports,EMEA,201,18,/13/,13,5,1256,"125,6",0,2,-2,"0,29",KRÜ,LATAM,Haven,KRÜ,Defesa,13,7,Vencedor,6,7,Phoenix,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Mixwell,G2 eSports,EMEA,105,8,/13/,13,7,700,70,3,2,1,"0,24",KRÜ,LATAM,Haven,KRÜ,Defesa,13,7,Vencedor,6,7,Omen,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+keznit,KRÜ,LATAM,294,22,/18/,18,6,1961,"196,1",2,2,0,"0,23",G2 eSports,EMEA,Haven,KRÜ,Ataque,7,13,Perdedor,5,2,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+delz1k,KRÜ,LATAM,208,15,/18/,18,9,1387,"138,7",2,2,0,"0,35",G2 eSports,EMEA,Haven,KRÜ,Ataque,7,13,Perdedor,5,2,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+NagZ,KRÜ,LATAM,191,12,/16/,16,5,1312,"131,2",5,3,2,"0,13",G2 eSports,EMEA,Haven,KRÜ,Ataque,7,13,Perdedor,5,2,Killjoy,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Mazino,KRÜ,LATAM,143,10,/17/,17,6,985,"98,5",0,3,-3,"0,19",G2 eSports,EMEA,Haven,KRÜ,Ataque,7,13,Perdedor,5,2,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Klaus,KRÜ,LATAM,127,11,/17/,17,7,811,"81,1",0,3,-3,"0,17",G2 eSports,EMEA,Haven,KRÜ,Ataque,7,13,Perdedor,5,2,Sage,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Hiko,100 Thieves,NA,255,18,/16/,16,10,1830,183,2,1,1,"0,26",Acend,EMEA,Ascent,100 Thieves,Defesa,9,13,Perdedor,3,6,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nitr0,100 Thieves,NA,221,18,/16/,16,8,2041,"204,1",3,2,1,"0,3",Acend,EMEA,Ascent,100 Thieves,Defesa,9,13,Perdedor,3,6,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Ethan,100 Thieves,NA,181,15,/18/,18,3,1178,"117,8",3,5,-2,"0,16",Acend,EMEA,Ascent,100 Thieves,Defesa,9,13,Perdedor,3,6,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+steel,100 Thieves,NA,173,11,/19/,19,7,1236,"123,6",1,1,0,"0,17",Acend,EMEA,Ascent,100 Thieves,Defesa,9,13,Perdedor,3,6,Killjoy,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Asuna,100 Thieves,NA,120,8,/16/,16,5,888,"88,8",3,1,2,"0,2",Acend,EMEA,Ascent,100 Thieves,Defesa,9,13,Perdedor,3,6,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+cNed,Acend,EMEA,287,23,/14/,14,3,1891,"189,1",4,1,3,"0,13",100 Thieves,NA,Ascent,100 Thieves,Ataque,13,9,Vencedor,6,7,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+zeek,Acend,EMEA,235,19,/11/,11,10,1496,"149,6",0,2,-2,"0,19",100 Thieves,NA,Ascent,100 Thieves,Ataque,13,9,Vencedor,6,7,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+starxo,Acend,EMEA,223,19,/13/,13,10,1447,"144,7",3,2,1,"0,25",100 Thieves,NA,Ascent,100 Thieves,Ataque,13,9,Vencedor,6,7,Sage,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Kiles,Acend,EMEA,215,16,/15/,15,5,1538,"153,8",1,3,-2,"0,29",100 Thieves,NA,Ascent,100 Thieves,Ataque,13,9,Vencedor,6,7,Killjoy,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+BONECOLD,Acend,EMEA,92,8,/17/,17,8,692,"69,2",2,4,-2,"0,43",100 Thieves,NA,Ascent,100 Thieves,Ataque,13,9,Vencedor,6,7,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Asuna,100 Thieves,NA,303,21,/15/,15,5,1826,"182,6",5,4,1,"0,22",Acend,EMEA,Haven,Acend,Defesa,13,8,Vencedor,5,8,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Hiko,100 Thieves,NA,240,17,/10/,10,12,1762,"176,2",1,1,0,"0,17",Acend,EMEA,Haven,Acend,Defesa,13,8,Vencedor,5,8,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Ethan,100 Thieves,NA,216,17,/13/,13,3,1277,"127,7",2,2,0,"0,28",Acend,EMEA,Haven,Acend,Defesa,13,8,Vencedor,5,8,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nitr0,100 Thieves,NA,184,15,/13/,13,7,1150,115,1,2,-1,"0,22",Acend,EMEA,Haven,Acend,Defesa,13,8,Vencedor,5,8,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+steel,100 Thieves,NA,131,11,/12/,12,1,901,"90,1",2,1,1,"0,2",Acend,EMEA,Haven,Acend,Defesa,13,8,Vencedor,5,8,Killjoy,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+cNed,Acend,EMEA,307,23,/16/,16,4,2076,"207,6",7,1,6,"0,31",100 Thieves,NA,Haven,Acend,Ataque,8,13,Perdedor,4,4,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Kiles,Acend,EMEA,219,16,/16/,16,5,1500,150,1,1,0,"0,29",100 Thieves,NA,Haven,Acend,Ataque,8,13,Perdedor,4,4,Cypher,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+BONECOLD,Acend,EMEA,133,9,/15/,15,5,936,"93,6",1,4,-3,"0,26",100 Thieves,NA,Haven,Acend,Ataque,8,13,Perdedor,4,4,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+starxo,Acend,EMEA,117,7,/17/,17,5,870,87,1,3,-2,"0,21",100 Thieves,NA,Haven,Acend,Ataque,8,13,Perdedor,4,4,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+zeek,Acend,EMEA,106,8,/17/,17,4,640,64,0,2,-2,"0,15",100 Thieves,NA,Haven,Acend,Ataque,8,13,Perdedor,4,4,Phoenix,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Asuna,100 Thieves,NA,261,21,/18/,18,5,1641,"164,1",2,2,0,"0,27",Acend,EMEA,Breeze,100 Thieves,Defesa,14,12,Vencedor,9,5,Reyna,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nitr0,100 Thieves,NA,237,24,/13/,13,4,1535,"153,5",7,2,5,"0,19",Acend,EMEA,Breeze,100 Thieves,Defesa,14,12,Vencedor,9,5,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+steel,100 Thieves,NA,213,19,/14/,14,14,1458,"145,8",1,3,-2,"0,26",Acend,EMEA,Breeze,100 Thieves,Defesa,14,12,Vencedor,9,5,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Ethan,100 Thieves,NA,187,20,/18/,18,9,1210,121,2,2,0,"0,24",Acend,EMEA,Breeze,100 Thieves,Defesa,14,12,Vencedor,9,5,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Hiko,100 Thieves,NA,176,15,/15/,15,3,1120,112,3,2,1,"0,31",Acend,EMEA,Breeze,100 Thieves,Defesa,14,12,Vencedor,9,5,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+cNed,Acend,EMEA,249,24,/17/,17,2,1481,"148,1",6,1,5,"0,1",100 Thieves,NA,Breeze,100 Thieves,Ataque,12,14,Perdedor,8,4,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+zeek,Acend,EMEA,188,17,/20/,20,6,1302,"130,2",1,2,-1,"0,35",100 Thieves,NA,Breeze,100 Thieves,Ataque,12,14,Perdedor,8,4,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+starxo,Acend,EMEA,171,15,/22/,22,4,1113,"111,3",2,4,-2,"0,2",100 Thieves,NA,Breeze,100 Thieves,Ataque,12,14,Perdedor,8,4,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Kiles,Acend,EMEA,149,15,/21/,21,2,974,"97,4",2,3,-1,"0,33",100 Thieves,NA,Breeze,100 Thieves,Ataque,12,14,Perdedor,8,4,Cypher,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+BONECOLD,Acend,EMEA,90,6,/19/,19,9,696,"69,6",0,5,-5,"0,12",100 Thieves,NA,Breeze,100 Thieves,Ataque,12,14,Perdedor,8,4,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+yay,Team Envy,NA,239,24,/19/,19,7,1571,"157,1",5,3,2,"0,26",Sentinels,NA,Haven,Team Envy,Ataque,15,13,Vencedor,10,5,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+crashies,Team Envy,NA,229,22,/19/,19,7,1815,"181,5",0,0,0,"0,15",Sentinels,NA,Haven,Team Envy,Ataque,15,13,Vencedor,10,5,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+FNS,Team Envy,NA,200,17,/21/,21,6,1813,"181,3",3,4,-1,"0,27",Sentinels,NA,Haven,Team Envy,Ataque,15,13,Vencedor,10,5,Killjoy,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Victor,Team Envy,NA,190,18,/21/,21,9,1230,123,4,4,0,"0,29",Sentinels,NA,Haven,Team Envy,Ataque,15,13,Vencedor,10,5,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Marved,Team Envy,NA,161,16,/18/,18,6,1071,"107,1",3,2,1,"0,33",Sentinels,NA,Haven,Team Envy,Ataque,15,13,Vencedor,10,5,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+TenZ,Sentinels,NA,287,30,/17/,17,5,2015,"201,5",4,4,0,"0,16",Team Envy,NA,Haven,Team Envy,Defesa,13,15,Perdedor,9,4,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+ShahZaM,Sentinels,NA,208,18,/17/,17,12,1879,"187,9",0,1,-1,"0,24",Team Envy,NA,Haven,Team Envy,Defesa,13,15,Perdedor,9,4,Sova,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+SicK,Sentinels,NA,203,15,/23/,23,10,1846,"184,6",4,6,-2,"0,18",Team Envy,NA,Haven,Team Envy,Defesa,13,15,Perdedor,9,4,Phoenix,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+dapr,Sentinels,NA,203,20,/22/,22,5,1335,"133,5",2,2,0,"0,22",Team Envy,NA,Haven,Team Envy,Defesa,13,15,Perdedor,9,4,Cypher,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+zombs,Sentinels,NA,132,15,/18/,18,8,834,"83,4",3,2,1,"0,2",Team Envy,NA,Haven,Team Envy,Defesa,13,15,Perdedor,9,4,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+yay,Team Envy,NA,295,22,/11/,11,0,1752,"175,2",8,1,7,"0,27",Sentinels,NA,Split,Sentinels,Defesa,13,7,Vencedor,6,7,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Marved,Team Envy,NA,246,17,/12/,12,5,1609,"160,9",2,0,2,"0,26",Sentinels,NA,Split,Sentinels,Defesa,13,7,Vencedor,6,7,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+Victor,Team Envy,NA,229,19,/9/,9,5,1370,137,1,1,0,"0,31",Sentinels,NA,Split,Sentinels,Defesa,13,7,Vencedor,6,7,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+crashies,Team Envy,NA,193,12,/15/,15,9,1284,"128,4",1,3,-2,"0,19",Sentinels,NA,Split,Sentinels,Defesa,13,7,Vencedor,6,7,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+FNS,Team Envy,NA,141,10,/14/,14,5,1160,116,0,3,-3,"0,19",Sentinels,NA,Split,Sentinels,Defesa,13,7,Vencedor,6,7,Cypher,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+SicK,Sentinels,NA,228,16,/16/,16,5,1504,"150,4",5,2,3,"0,2",Team Envy,NA,Split,Sentinels,Ataque,7,13,Perdedor,5,2,Skye,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+dapr,Sentinels,NA,214,13,/16/,16,9,1521,"152,1",0,1,-1,"0,13",Team Envy,NA,Split,Sentinels,Ataque,7,13,Perdedor,5,2,Viper,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+zombs,Sentinels,NA,188,12,/14/,14,0,1216,"121,6",0,0,0,"0,1",Team Envy,NA,Split,Sentinels,Ataque,7,13,Perdedor,5,2,Astra,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+ShahZaM,Sentinels,NA,167,12,/16/,16,2,1109,"110,9",2,3,-1,"0,22",Team Envy,NA,Split,Sentinels,Ataque,7,13,Perdedor,5,2,Jett,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+TenZ,Sentinels,NA,157,8,/18/,18,4,1205,"120,5",1,6,-5,"0,13",Team Envy,NA,Split,Sentinels,Ataque,7,13,Perdedor,5,2,Raze,17/09/2021,0,Masters Berlin 2021,Playoffs,Quartas de Final,3
+nAts,Gambit Esports,EMEA,318,25,/16/,16,3,2055,"205,5",6,3,3,"0,41",G2 eSports,EMEA,Breeze,Gambit Esports,Defesa,13,10,Vencedor,6,7,Cypher,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+d3ffo,Gambit Esports,EMEA,214,18,/16/,16,4,1223,"122,3",4,0,4,"0,36",G2 eSports,EMEA,Breeze,Gambit Esports,Defesa,13,10,Vencedor,6,7,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Chronicle,Gambit Esports,EMEA,191,16,/17/,17,7,1318,"131,8",2,2,0,"0,25",G2 eSports,EMEA,Breeze,Gambit Esports,Defesa,13,10,Vencedor,6,7,Viper,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+sheydos,Gambit Esports,EMEA,183,16,/16/,16,3,1303,"130,3",3,2,1,"0,39",G2 eSports,EMEA,Breeze,Gambit Esports,Defesa,13,10,Vencedor,6,7,Skye,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Redgar,Gambit Esports,EMEA,141,11,/15/,15,5,1026,"102,6",0,1,-1,"0,33",G2 eSports,EMEA,Breeze,Gambit Esports,Defesa,13,10,Vencedor,6,7,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+keloqz,G2 eSports,EMEA,266,24,/17/,17,0,1440,144,0,2,-2,"0,2",Gambit Esports,EMEA,Breeze,Gambit Esports,Ataque,10,13,Perdedor,5,5,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+nukkye,G2 eSports,EMEA,236,19,/18/,18,3,2343,"234,3",2,5,-3,"0,31",Gambit Esports,EMEA,Breeze,Gambit Esports,Ataque,10,13,Perdedor,5,5,Reyna,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+koldamenta,G2 eSports,EMEA,173,13,/19/,19,4,1180,118,3,2,1,"0,3",Gambit Esports,EMEA,Breeze,Gambit Esports,Ataque,10,13,Perdedor,5,5,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+AvovA,G2 eSports,EMEA,159,12,/16/,16,7,1107,"110,7",2,4,-2,"0,27",Gambit Esports,EMEA,Breeze,Gambit Esports,Ataque,10,13,Perdedor,5,5,Viper,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Mixwell,G2 eSports,EMEA,139,12,/16/,16,3,975,"97,5",1,2,-1,"0,22",Gambit Esports,EMEA,Breeze,Gambit Esports,Ataque,10,13,Perdedor,5,5,Skye,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+nAts,Gambit Esports,EMEA,326,15,/9/,9,6,2190,219,3,0,3,"0,44",G2 eSports,EMEA,Icebox,G2 eSports,Ataque,13,0,Vencedor,12,1,Viper,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+sheydos,Gambit Esports,EMEA,294,15,/5/,5,2,1818,"181,8",1,0,1,"0,2",G2 eSports,EMEA,Icebox,G2 eSports,Ataque,13,0,Vencedor,12,1,Reyna,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+d3ffo,Gambit Esports,EMEA,277,14,/5/,5,2,1796,"179,6",4,1,3,"0,35",G2 eSports,EMEA,Icebox,G2 eSports,Ataque,13,0,Vencedor,12,1,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Chronicle,Gambit Esports,EMEA,264,14,/2/,2,5,1737,"173,7",1,0,1,"0,35",G2 eSports,EMEA,Icebox,G2 eSports,Ataque,13,0,Vencedor,12,1,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Redgar,Gambit Esports,EMEA,151,7,/4/,4,6,1102,"110,2",1,2,-1,"0,33",G2 eSports,EMEA,Icebox,G2 eSports,Ataque,13,0,Vencedor,12,1,Sage,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Mixwell,G2 eSports,EMEA,217,9,/13/,13,1,1330,133,1,3,-2,"0,21",Gambit Esports,EMEA,Icebox,G2 eSports,Defesa,0,13,Perdedor,0,0,Viper,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+keloqz,G2 eSports,EMEA,169,7,/13/,13,1,1153,"115,3",2,1,1,"0,5",Gambit Esports,EMEA,Icebox,G2 eSports,Defesa,0,13,Perdedor,0,0,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+AvovA,G2 eSports,EMEA,128,5,/13/,13,3,818,"81,8",0,3,-3,"0,26",Gambit Esports,EMEA,Icebox,G2 eSports,Defesa,0,13,Perdedor,0,0,Sage,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+nukkye,G2 eSports,EMEA,91,2,/13/,13,3,787,"78,7",0,2,-2,"0,08",Gambit Esports,EMEA,Icebox,G2 eSports,Defesa,0,13,Perdedor,0,0,Reyna,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+koldamenta,G2 eSports,EMEA,62,2,/13/,13,3,434,"43,4",0,1,-1,"0,22",Gambit Esports,EMEA,Icebox,G2 eSports,Defesa,0,13,Perdedor,0,0,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Ethan,100 Thieves,NA,230,13,/16/,16,5,1521,"152,1",1,3,-2,"0,24",Team Envy,NA,Haven,Team Envy,Defesa,5,13,Perdedor,2,3,Skye,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+steel,100 Thieves,NA,187,9,/15/,15,4,1274,"127,4",1,4,-3,"0,21",Team Envy,NA,Haven,Team Envy,Defesa,5,13,Perdedor,2,3,Killjoy,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+nitr0,100 Thieves,NA,180,13,/14/,14,3,1010,101,1,0,1,"0,33",Team Envy,NA,Haven,Team Envy,Defesa,5,13,Perdedor,2,3,Astra,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Asuna,100 Thieves,NA,160,9,/16/,16,5,1196,"119,6",4,4,0,"0,22",Team Envy,NA,Haven,Team Envy,Defesa,5,13,Perdedor,2,3,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Hiko,100 Thieves,NA,120,6,/15/,15,8,896,"89,6",0,0,0,"0,2",Team Envy,NA,Haven,Team Envy,Defesa,5,13,Perdedor,2,3,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+yay,Team Envy,NA,449,31,/9/,9,2,2776,"277,6",4,1,3,"0,35",100 Thieves,NA,Haven,Team Envy,Ataque,13,5,Vencedor,9,4,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Victor,Team Envy,NA,266,17,/11/,11,18,1829,"182,9",2,0,2,"0,37",100 Thieves,NA,Haven,Team Envy,Ataque,13,5,Vencedor,9,4,Skye,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Marved,Team Envy,NA,174,12,/10/,10,5,1371,"137,1",1,1,0,"0,29",100 Thieves,NA,Haven,Team Envy,Ataque,13,5,Vencedor,9,4,Astra,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+FNS,Team Envy,NA,146,8,/10/,10,2,983,"98,3",3,2,1,"0,16",100 Thieves,NA,Haven,Team Envy,Ataque,13,5,Vencedor,9,4,Killjoy,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+crashies,Team Envy,NA,126,8,/10/,10,8,996,"99,6",1,3,-2,"0,19",100 Thieves,NA,Haven,Team Envy,Ataque,13,5,Vencedor,9,4,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Asuna,100 Thieves,NA,277,19,/17/,17,5,1728,"172,8",9,4,5,"0,19",Team Envy,NA,Ascent,100 Thieves,Ataque,8,13,Perdedor,5,3,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+nitr0,100 Thieves,NA,272,24,/13/,13,4,2058,"205,8",1,1,0,"0,42",Team Envy,NA,Ascent,100 Thieves,Ataque,8,13,Perdedor,5,3,Astra,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+steel,100 Thieves,NA,143,9,/16/,16,4,1028,"102,8",0,2,-2,"0,21",Team Envy,NA,Ascent,100 Thieves,Ataque,8,13,Perdedor,5,3,Killjoy,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Ethan,100 Thieves,NA,130,9,/15/,15,7,969,"96,9",1,2,-1,"0,24",Team Envy,NA,Ascent,100 Thieves,Ataque,8,13,Perdedor,5,3,Skye,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Hiko,100 Thieves,NA,128,7,/16/,16,7,990,99,0,1,-1,"0,11",Team Envy,NA,Ascent,100 Thieves,Ataque,8,13,Perdedor,5,3,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+yay,Team Envy,NA,284,20,/17/,17,4,1782,"178,2",6,4,2,"0,25",100 Thieves,NA,Ascent,100 Thieves,Defesa,13,8,Vencedor,6,7,Jett,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+crashies,Team Envy,NA,267,19,/12/,12,12,1749,"174,9",1,1,0,"0,27",100 Thieves,NA,Ascent,100 Thieves,Defesa,13,8,Vencedor,6,7,Sova,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Marved,Team Envy,NA,212,18,/13/,13,8,1377,"137,7",0,2,-2,"0,4",100 Thieves,NA,Ascent,100 Thieves,Defesa,13,8,Vencedor,6,7,Astra,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Victor,Team Envy,NA,132,11,/12/,12,12,868,"86,8",3,3,0,"0,28",100 Thieves,NA,Ascent,100 Thieves,Defesa,13,8,Vencedor,6,7,Skye,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+FNS,Team Envy,NA,126,9,/14/,14,2,939,"93,9",0,1,-1,"0,19",100 Thieves,NA,Ascent,100 Thieves,Defesa,13,8,Vencedor,6,7,Killjoy,18/09/2021,0,Masters Berlin 2021,Playoffs,Semifinal,3
+Victor,Team Envy,NA,225,21,/19/,19,5,1841,"184,1",2,2,0,"0,26",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,13,15,Perdedor,6,7,Skye,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Marved,Team Envy,NA,208,20,/21/,21,4,1398,"139,8",3,1,2,"0,22",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,13,15,Perdedor,6,7,Astra,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+crashies,Team Envy,NA,193,18,/21/,21,9,1311,"131,1",2,0,2,"0,23",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,13,15,Perdedor,6,7,Sova,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+yay,Team Envy,NA,175,19,/20/,20,1,1043,"104,3",5,6,-1,"0,31",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,13,15,Perdedor,6,7,Jett,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+FNS,Team Envy,NA,114,11,/21/,21,3,704,"70,4",1,6,-5,"0,13",Gambit Esports,EMEA,Bind,Gambit Esports,Defesa,13,15,Perdedor,6,7,Viper,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Chronicle,Gambit Esports,EMEA,268,29,/15/,15,5,1675,"167,5",2,1,1,"0,25",Team Envy,NA,Bind,Gambit Esports,Ataque,15,13,Vencedor,7,8,Sova,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+nAts,Gambit Esports,EMEA,247,24,/16/,16,9,1637,"163,7",2,3,-1,"0,26",Team Envy,NA,Bind,Gambit Esports,Ataque,15,13,Vencedor,7,8,Viper,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+d3ffo,Gambit Esports,EMEA,186,19,/21/,21,3,1037,"103,7",7,5,2,"0,26",Team Envy,NA,Bind,Gambit Esports,Ataque,15,13,Vencedor,7,8,Jett,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+sheydos,Gambit Esports,EMEA,170,16,/19/,19,5,1164,"116,4",2,2,0,"0,19",Team Envy,NA,Bind,Gambit Esports,Ataque,15,13,Vencedor,7,8,Skye,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Redgar,Gambit Esports,EMEA,147,14,/18/,18,12,1010,101,2,2,0,"0,21",Team Envy,NA,Bind,Gambit Esports,Ataque,15,13,Vencedor,7,8,Astra,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+yay,Team Envy,NA,324,27,/17/,17,4,2103,"210,3",4,3,1,"0,26",Gambit Esports,EMEA,Haven,Team Envy,Ataque,11,13,Perdedor,8,3,Jett,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Marved,Team Envy,NA,175,16,/17/,17,7,1251,"125,1",1,1,0,"0,15",Gambit Esports,EMEA,Haven,Team Envy,Ataque,11,13,Perdedor,8,3,Astra,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+crashies,Team Envy,NA,164,14,/21/,21,6,1081,"108,1",1,1,0,"0,31",Gambit Esports,EMEA,Haven,Team Envy,Ataque,11,13,Perdedor,8,3,Sova,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+FNS,Team Envy,NA,133,10,/22/,22,3,895,"89,5",1,3,-2,"0,12",Gambit Esports,EMEA,Haven,Team Envy,Ataque,11,13,Perdedor,8,3,Killjoy,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Victor,Team Envy,NA,103,8,/21/,21,5,722,"72,2",2,7,-5,"0,15",Gambit Esports,EMEA,Haven,Team Envy,Ataque,11,13,Perdedor,8,3,Skye,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Redgar,Gambit Esports,EMEA,254,22,/16/,16,5,1610,161,10,3,7,"0,19",Team Envy,NA,Haven,Team Envy,Defesa,13,11,Vencedor,9,4,Reyna,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Chronicle,Gambit Esports,EMEA,236,21,/14/,14,13,1622,"162,2",1,0,1,"0,23",Team Envy,NA,Haven,Team Envy,Defesa,13,11,Vencedor,9,4,Brimstone,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+nAts,Gambit Esports,EMEA,225,20,/15/,15,4,1642,"164,2",1,3,-2,"0,36",Team Envy,NA,Haven,Team Envy,Defesa,13,11,Vencedor,9,4,Cypher,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+d3ffo,Gambit Esports,EMEA,202,20,/14/,14,0,1262,"126,2",3,3,0,"0,34",Team Envy,NA,Haven,Team Envy,Defesa,13,11,Vencedor,9,4,Jett,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+sheydos,Gambit Esports,EMEA,176,15,/16/,16,3,1130,113,0,0,0,"0,16",Team Envy,NA,Haven,Team Envy,Defesa,13,11,Vencedor,9,4,Skye,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+crashies,Team Envy,NA,293,23,/20/,20,5,1988,"198,8",2,3,-1,"0,24",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,9,13,Perdedor,3,6,Viper,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Marved,Team Envy,NA,171,13,/17/,17,8,1529,"152,9",2,2,0,"0,24",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,9,13,Perdedor,3,6,Astra,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Victor,Team Envy,NA,159,13,/16/,16,8,1016,"101,6",2,2,0,"0,26",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,9,13,Perdedor,3,6,Skye,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+yay,Team Envy,NA,151,11,/18/,18,3,1287,"128,7",4,4,0,"0,18",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,9,13,Perdedor,3,6,Jett,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+FNS,Team Envy,NA,141,11,/18/,18,2,960,96,0,1,-1,"0,25",Gambit Esports,EMEA,Split,Gambit Esports,Defesa,9,13,Perdedor,3,6,Cypher,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Chronicle,Gambit Esports,EMEA,321,23,/16/,16,13,2226,"222,6",3,0,3,"0,28",Team Envy,NA,Split,Gambit Esports,Ataque,13,9,Vencedor,6,7,Viper,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+sheydos,Gambit Esports,EMEA,230,20,/12/,12,5,1496,"149,6",1,1,0,"0,23",Team Envy,NA,Split,Gambit Esports,Ataque,13,9,Vencedor,6,7,Skye,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+d3ffo,Gambit Esports,EMEA,209,16,/15/,15,4,1355,"135,5",3,5,-2,"0,27",Team Envy,NA,Split,Gambit Esports,Ataque,13,9,Vencedor,6,7,Jett,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+nAts,Gambit Esports,EMEA,193,15,/15/,15,6,1249,"124,9",3,1,2,"0,32",Team Envy,NA,Split,Gambit Esports,Ataque,13,9,Vencedor,6,7,Cypher,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5
+Redgar,Gambit Esports,EMEA,176,15,/13/,13,6,1379,"137,9",2,3,-1,"0,38",Team Envy,NA,Split,Gambit Esports,Ataque,13,9,Vencedor,6,7,Astra,19/09/2021,0,Masters Berlin 2021,Playoffs,Final,5

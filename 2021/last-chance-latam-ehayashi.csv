@@ -1,0 +1,331 @@
+Player,Time,Região,ACS,Kills,Deaths,Assists,K - D,ADR,First Kill,First Death,FK - FD,HS%,Adversário,Região Adiversário,Mapa,Mapa Pick,Lado de Início,Rounds Vencidos,Rounds Perdidos,Resultado,Rounds Ataque,Rounds Defesa,Agente,Data,Etapa,Grupo,Bracket,MD,Campeonato
+gaabxx,YNG Sharks,BR,348,19,8,0,11,"212,5",7,0,7,"0,22",Lazer,LATAM,Ascent,Lazer,Defesa,13,2,Vencedor,3,10,Jett,44480,Grupos,A,Opening,3,LCQ South America
+prozin,YNG Sharks,BR,297,15,7,7,8,"198,9",2,0,2,"0,23",Lazer,LATAM,Ascent,Lazer,Defesa,13,2,Vencedor,3,10,Kay/O,44480,Grupos,A,Opening,3,LCQ South America
+fra,YNG Sharks,BR,207,13,4,5,9,"136,1",1,0,1,"0,3",Lazer,LATAM,Ascent,Lazer,Defesa,13,2,Vencedor,3,10,Cypher,44480,Grupos,A,Opening,3,LCQ South America
+light,YNG Sharks,BR,200,12,7,8,5,"126,9",3,1,2,"0,3",Lazer,LATAM,Ascent,Lazer,Defesa,13,2,Vencedor,3,10,Astra,44480,Grupos,A,Opening,3,LCQ South America
+deNaro,YNG Sharks,BR,149,10,5,2,5,"102,7",1,0,1,"0,15",Lazer,LATAM,Ascent,Lazer,Defesa,13,2,Vencedor,3,10,Sova,44480,Grupos,A,Opening,3,LCQ South America
+AztKk,Lazer,LATAM,190,8,14,4,-6,"130,1",0,4,-4,"0,28",YNG Sharks,BR,Ascent,Lazer,Ataque,2,13,Perdedor,2,0,Kay/O,44480,Grupos,A,Opening,3,LCQ South America
+Wyz,Lazer,LATAM,162,8,13,3,-5,"106,8",1,5,-4,"0,28",YNG Sharks,BR,Ascent,Lazer,Ataque,2,13,Perdedor,2,0,Jett,44480,Grupos,A,Opening,3,LCQ South America
+Caz,Lazer,LATAM,159,8,15,1,-7,"95,4",0,1,-1,"0,22",YNG Sharks,BR,Ascent,Lazer,Ataque,2,13,Perdedor,2,0,Sova,44480,Grupos,A,Opening,3,LCQ South America
+HellFull,Lazer,LATAM,80,5,13,1,-8,55,0,1,-1,"0,18",YNG Sharks,BR,Ascent,Lazer,Ataque,2,13,Perdedor,2,0,Cypher,44480,Grupos,A,Opening,3,LCQ South America
+akemy,Lazer,LATAM,62,2,14,2,-12,"58,7",0,3,-3,"0,11",YNG Sharks,BR,Ascent,Lazer,Ataque,2,13,Perdedor,2,0,Astra,44480,Grupos,A,Opening,3,LCQ South America
+deNaro,YNG Sharks,BR,294,22,7,6,15,"196,9",1,1,0,"0,26",Lazer,LATAM,Haven,YNG Sharks,Defesa,13,5,Vencedor,3,10,Sova,44480,Grupos,A,Opening,3,LCQ South America
+gaabxx,YNG Sharks,BR,273,19,9,6,10,"165,8",5,4,1,"0,15",Lazer,LATAM,Haven,YNG Sharks,Defesa,13,5,Vencedor,3,10,Jett,44480,Grupos,A,Opening,3,LCQ South America
+fra,YNG Sharks,BR,199,14,9,2,5,"124,1",2,0,2,"0,36",Lazer,LATAM,Haven,YNG Sharks,Defesa,13,5,Vencedor,3,10,Cypher,44480,Grupos,A,Opening,3,LCQ South America
+light,YNG Sharks,BR,143,9,13,5,-4,"94,2",1,0,1,"0,32",Lazer,LATAM,Haven,YNG Sharks,Defesa,13,5,Vencedor,3,10,Astra,44480,Grupos,A,Opening,3,LCQ South America
+prozin,YNG Sharks,BR,139,6,12,8,-6,"104,6",2,2,0,"0,1",Lazer,LATAM,Haven,YNG Sharks,Defesa,13,5,Vencedor,3,10,Phoenix,44480,Grupos,A,Opening,3,LCQ South America
+Caz,Lazer,LATAM,191,12,13,5,-1,"132,7",2,0,2,"0,25",YNG Sharks,BR,Haven,YNG Sharks,Ataque,5,13,Perdedor,2,3,Sova,44480,Grupos,A,Opening,3,LCQ South America
+HellFull,Lazer,LATAM,190,12,13,2,-1,"120,2",1,4,-3,"0,34",YNG Sharks,BR,Haven,YNG Sharks,Ataque,5,13,Perdedor,2,3,Cypher,44480,Grupos,A,Opening,3,LCQ South America
+AztKk,Lazer,LATAM,185,10,17,5,-7,"119,9",3,3,0,"0,09",YNG Sharks,BR,Haven,YNG Sharks,Ataque,5,13,Perdedor,2,3,Kay/O,44480,Grupos,A,Opening,3,LCQ South America
+Wyz,Lazer,LATAM,184,12,14,2,-2,"124,3",1,3,-2,"0,29",YNG Sharks,BR,Haven,YNG Sharks,Ataque,5,13,Perdedor,2,3,Jett,44480,Grupos,A,Opening,3,LCQ South America
+akemy,Lazer,LATAM,85,4,13,6,-9,"68,1",0,1,-1,"0,19",YNG Sharks,BR,Haven,YNG Sharks,Ataque,5,13,Perdedor,2,3,Astra,44480,Grupos,A,Opening,3,LCQ South America
+kiNgg,Australs,LATAM,357,27,13,7,14,"200,4",6,3,3,"0,22",FURIA,BR,Split,Australs,Ataque,13,8,Vencedor,9,4,Raze,44480,Grupos,A,Opening,3,LCQ South America
+Melser,Australs,LATAM,202,17,10,6,7,"137,8",1,2,-1,"0,27",FURIA,BR,Split,Australs,Ataque,13,8,Vencedor,9,4,Astra,44480,Grupos,A,Opening,3,LCQ South America
+adverso,Australs,LATAM,180,13,12,3,1,"118,2",1,1,0,"0,15",FURIA,BR,Split,Australs,Ataque,13,8,Vencedor,9,4,Reyna,44480,Grupos,A,Opening,3,LCQ South America
+Tacolilla,Australs,LATAM,144,10,13,10,-3,"113,2",2,2,0,"0,25",FURIA,BR,Split,Australs,Ataque,13,8,Vencedor,9,4,Sage,44480,Grupos,A,Opening,3,LCQ South America
+Capi,Australs,LATAM,137,9,12,3,-3,"89,7",3,0,3,"0,12",FURIA,BR,Split,Australs,Ataque,13,8,Vencedor,9,4,Cypher,44480,Grupos,A,Opening,3,LCQ South America
+Quick,FURIA,BR,210,14,17,10,-3,"140,3",2,5,-3,"0,19",Australs,LATAM,Split,Australs,Defesa,8,13,Perdedor,5,3,Viper,44480,Grupos,A,Opening,3,LCQ South America
+Khalil,FURIA,BR,190,13,15,4,-2,"197,7",1,1,0,"0,15",Australs,LATAM,Split,Australs,Defesa,8,13,Perdedor,5,3,Killjoy,44480,Grupos,A,Opening,3,LCQ South America
+xand,FURIA,BR,187,13,17,2,-4,"114,4",4,4,0,"0,19",Australs,LATAM,Split,Australs,Defesa,8,13,Perdedor,5,3,Jett,44480,Grupos,A,Opening,3,LCQ South America
+Mazin,FURIA,BR,175,13,14,7,-1,"135,2",1,1,0,"0,24",Australs,LATAM,Split,Australs,Defesa,8,13,Perdedor,5,3,Astra,44480,Grupos,A,Opening,3,LCQ South America
+Nozwerr,FURIA,BR,102,7,13,3,-6,"67,5",0,2,-2,"0,09",Australs,LATAM,Split,Australs,Defesa,8,13,Perdedor,5,3,Skye,44480,Grupos,A,Opening,3,LCQ South America
+Tacolilla,Australs,LATAM,325,28,14,5,14,"201,3",5,3,2,"0,22",FURIA,BR,Haven,FURIA,Ataque,10,13,Perdedor,8,2,Jett,44480,Grupos,A,Opening,3,LCQ South America
+Melser,Australs,LATAM,211,15,16,9,-1,"189,3",1,2,-1,"0,35",FURIA,BR,Haven,FURIA,Ataque,10,13,Perdedor,8,2,Astra,44480,Grupos,A,Opening,3,LCQ South America
+adverso,Australs,LATAM,190,14,15,8,-1,"138,2",2,2,0,"0,3",FURIA,BR,Haven,FURIA,Ataque,10,13,Perdedor,8,2,Sova,44480,Grupos,A,Opening,3,LCQ South America
+kiNgg,Australs,LATAM,135,11,14,7,-3,"132,2",2,3,-1,"0,22",FURIA,BR,Haven,FURIA,Ataque,10,13,Perdedor,8,2,Omen,44480,Grupos,A,Opening,3,LCQ South America
+Capi,Australs,LATAM,123,9,15,4,-6,"85,2",0,3,-3,"0,23",FURIA,BR,Haven,FURIA,Ataque,10,13,Perdedor,8,2,Cypher,44480,Grupos,A,Opening,3,LCQ South America
+Quick,FURIA,BR,235,20,18,4,2,"153,9",2,4,-2,"0,29",Australs,LATAM,Haven,FURIA,Defesa,13,10,Vencedor,4,9,Sage,44480,Grupos,A,Opening,3,LCQ South America
+Khalil,FURIA,BR,188,17,14,3,3,114,3,2,1,"0,25",Australs,LATAM,Haven,FURIA,Defesa,13,10,Vencedor,4,9,Killjoy,44480,Grupos,A,Opening,3,LCQ South America
+Nozwerr,FURIA,BR,165,12,13,6,-1,"158,5",1,0,1,"0,14",Australs,LATAM,Haven,FURIA,Defesa,13,10,Vencedor,4,9,Sova,44480,Grupos,A,Opening,3,LCQ South America
+Mazin,FURIA,BR,157,14,15,12,-1,"100,1",3,1,2,"0,15",Australs,LATAM,Haven,FURIA,Defesa,13,10,Vencedor,4,9,Omen,44480,Grupos,A,Opening,3,LCQ South America
+xand,FURIA,BR,150,11,17,4,-6,"142,3",4,3,1,"0,21",Australs,LATAM,Haven,FURIA,Defesa,13,10,Vencedor,4,9,Jett,44480,Grupos,A,Opening,3,LCQ South America
+kiNgg,Australs,LATAM,252,23,13,4,10,"145,1",5,2,3,"0,23",FURIA,BR,Ascent,Australs,Ataque,13,9,Vencedor,7,6,Sage,44480,Grupos,A,Opening,3,LCQ South America
+Capi,Australs,LATAM,232,16,15,8,1,"153,2",0,2,-2,"0,25",FURIA,BR,Ascent,Australs,Ataque,13,9,Vencedor,7,6,Cypher,44480,Grupos,A,Opening,3,LCQ South America
+Melser,Australs,LATAM,213,17,14,14,3,"127,5",1,3,-2,"0,11",FURIA,BR,Ascent,Australs,Ataque,13,9,Vencedor,7,6,Omen,44480,Grupos,A,Opening,3,LCQ South America
+adverso,Australs,LATAM,197,15,13,11,2,"190,2",1,3,-2,"0,32",FURIA,BR,Ascent,Australs,Ataque,13,9,Vencedor,7,6,Sova,44480,Grupos,A,Opening,3,LCQ South America
+Tacolilla,Australs,LATAM,182,14,17,5,-3,"112,4",2,3,-1,"0,17",FURIA,BR,Ascent,Australs,Ataque,13,9,Vencedor,7,6,Jett,44480,Grupos,A,Opening,3,LCQ South America
+Quick,FURIA,BR,226,16,21,14,-5,"150,8",5,2,3,"0,22",Australs,LATAM,Ascent,Australs,Defesa,9,13,Perdedor,4,5,Sage,44480,Grupos,A,Opening,3,LCQ South America
+Mazin,FURIA,BR,196,14,18,6,-4,"190,5",4,3,1,"0,4",Australs,LATAM,Ascent,Australs,Defesa,9,13,Perdedor,4,5,Astra,44480,Grupos,A,Opening,3,LCQ South America
+Khalil,FURIA,BR,190,15,16,3,-1,"167,4",2,1,1,"0,13",Australs,LATAM,Ascent,Australs,Defesa,9,13,Perdedor,4,5,Killjoy,44480,Grupos,A,Opening,3,LCQ South America
+xand,FURIA,BR,181,13,18,4,-5,"206,1",2,2,0,"0,18",Australs,LATAM,Ascent,Australs,Defesa,9,13,Perdedor,4,5,Jett,44480,Grupos,A,Opening,3,LCQ South America
+Nozwerr,FURIA,BR,153,14,12,7,2,"229,5",0,1,-1,"0,14",Australs,LATAM,Ascent,Australs,Defesa,9,13,Perdedor,4,5,Sova,44480,Grupos,A,Opening,3,LCQ South America
+gaabxx,YNG Sharks,BR,328,30,18,6,12,"220,6",5,5,0,"0,18",Australs,LATAM,Split,Australs,Defesa,14,12,Vencedor,6,8,Reyna,44480,Grupos,A,Winner's,3,LCQ South America
+prozin,YNG Sharks,BR,239,20,22,7,-2,"163,2",3,4,-1,"0,16",Australs,LATAM,Split,Australs,Defesa,14,12,Vencedor,6,8,Raze,44480,Grupos,A,Winner's,3,LCQ South America
+deNaro,YNG Sharks,BR,186,17,18,12,-1,"123,3",0,3,-3,"0,17",Australs,LATAM,Split,Australs,Defesa,14,12,Vencedor,6,8,Sage,44480,Grupos,A,Winner's,3,LCQ South America
+fra,YNG Sharks,BR,172,17,16,6,1,"106,2",0,3,-3,"0,16",Australs,LATAM,Split,Australs,Defesa,14,12,Vencedor,6,8,Cypher,44480,Grupos,A,Winner's,3,LCQ South America
+light,YNG Sharks,BR,150,15,17,7,-2,"89,3",1,2,-1,"0,27",Australs,LATAM,Split,Australs,Defesa,14,12,Vencedor,6,8,Astra,44480,Grupos,A,Winner's,3,LCQ South America
+kiNgg,Australs,LATAM,391,32,22,11,10,"251,6",6,2,4,"0,25",YNG Sharks,BR,Split,Australs,Ataque,12,14,Perdedor,5,7,Raze,44480,Grupos,A,Winner's,3,LCQ South America
+Capi,Australs,LATAM,201,19,17,2,2,"137,6",0,1,-1,"0,23",YNG Sharks,BR,Split,Australs,Ataque,12,14,Perdedor,5,7,Cypher,44480,Grupos,A,Winner's,3,LCQ South America
+Tacolilla,Australs,LATAM,173,16,16,15,0,144,2,1,1,"0,24",YNG Sharks,BR,Split,Australs,Ataque,12,14,Perdedor,5,7,Sage,44480,Grupos,A,Winner's,3,LCQ South America
+adverso,Australs,LATAM,164,14,23,6,-9,"104,7",6,3,3,"0,25",YNG Sharks,BR,Split,Australs,Ataque,12,14,Perdedor,5,7,Reyna,44480,Grupos,A,Winner's,3,LCQ South America
+Melser,Australs,LATAM,144,10,21,8,-11,"106,8",3,2,1,"0,18",YNG Sharks,BR,Split,Australs,Ataque,12,14,Perdedor,5,7,Astra,44480,Grupos,A,Winner's,3,LCQ South America
+gaabxx,YNG Sharks,BR,301,24,16,7,8,"198,9",5,5,0,"0,26",Australs,LATAM,Ascent,YNG Sharks,Defesa,11,13,Perdedor,4,7,Jett,44480,Grupos,A,Winner's,3,LCQ South America
+prozin,YNG Sharks,BR,261,21,18,13,3,"170,9",4,2,2,"0,23",Australs,LATAM,Ascent,YNG Sharks,Defesa,11,13,Perdedor,4,7,Kay/O,44480,Grupos,A,Winner's,3,LCQ South America
+light,YNG Sharks,BR,169,14,17,7,-3,"111,7",3,2,1,"0,25",Australs,LATAM,Ascent,YNG Sharks,Defesa,11,13,Perdedor,4,7,Astra,44480,Grupos,A,Winner's,3,LCQ South America
+deNaro,YNG Sharks,BR,165,12,16,9,-4,"117,3",0,0,0,"0,26",Australs,LATAM,Ascent,YNG Sharks,Defesa,11,13,Perdedor,4,7,Sova,44480,Grupos,A,Winner's,3,LCQ South America
+fra,YNG Sharks,BR,153,15,15,1,0,"94,9",2,1,1,"0,29",Australs,LATAM,Ascent,YNG Sharks,Defesa,11,13,Perdedor,4,7,Cypher,44480,Grupos,A,Winner's,3,LCQ South America
+Melser,Australs,LATAM,257,23,14,8,9,"160,4",4,2,2,"0,31",YNG Sharks,BR,Ascent,YNG Sharks,Ataque,13,11,Vencedor,5,8,Omen,44480,Grupos,A,Winner's,3,LCQ South America
+Tacolilla,Australs,LATAM,238,22,15,6,7,"132,4",2,3,-1,"0,25",YNG Sharks,BR,Ascent,YNG Sharks,Ataque,13,11,Vencedor,5,8,Jett,44480,Grupos,A,Winner's,3,LCQ South America
+adverso,Australs,LATAM,183,12,19,8,-7,"140,2",1,3,-2,"0,29",YNG Sharks,BR,Ascent,YNG Sharks,Ataque,13,11,Vencedor,5,8,Sova,44480,Grupos,A,Winner's,3,LCQ South America
+kiNgg,Australs,LATAM,163,14,18,8,-4,"117,4",2,2,0,"0,21",YNG Sharks,BR,Ascent,YNG Sharks,Ataque,13,11,Vencedor,5,8,Sage,44480,Grupos,A,Winner's,3,LCQ South America
+Capi,Australs,LATAM,118,11,20,3,-9,"75,7",1,4,-3,"0,27",YNG Sharks,BR,Ascent,YNG Sharks,Ataque,13,11,Vencedor,5,8,Cypher,44480,Grupos,A,Winner's,3,LCQ South America
+gaabxx,YNG Sharks,BR,246,23,18,2,5,"202,7",6,6,0,"0,25",Australs,LATAM,Icebox,Australs,Ataque,12,14,Perdedor,6,6,Jett,44480,Grupos,A,Winner's,3,LCQ South America
+prozin,YNG Sharks,BR,230,22,18,4,4,"147,6",3,4,-1,"0,31",Australs,LATAM,Icebox,Australs,Ataque,12,14,Perdedor,6,6,Reyna,44480,Grupos,A,Winner's,3,LCQ South America
+light,YNG Sharks,BR,193,16,17,11,-1,"182,5",1,2,-1,"0,32",Australs,LATAM,Icebox,Australs,Ataque,12,14,Perdedor,6,6,Sage,44480,Grupos,A,Winner's,3,LCQ South America
+deNaro,YNG Sharks,BR,173,14,18,11,-4,"154,7",0,0,0,"0,14",Australs,LATAM,Icebox,Australs,Ataque,12,14,Perdedor,6,6,Sova,44480,Grupos,A,Winner's,3,LCQ South America
+fra,YNG Sharks,BR,141,14,20,4,-6,"83,9",1,3,-2,"0,2",Australs,LATAM,Icebox,Australs,Ataque,12,14,Perdedor,6,6,Viper,44480,Grupos,A,Winner's,3,LCQ South America
+Melser,Australs,LATAM,281,27,19,2,8,"224,9",3,1,2,"0,3",YNG Sharks,BR,Icebox,Australs,Defesa,14,12,Vencedor,7,7,Reyna,44480,Grupos,A,Winner's,3,LCQ South America
+Capi,Australs,LATAM,187,17,18,9,-1,"133,6",6,2,4,"0,18",YNG Sharks,BR,Icebox,Australs,Defesa,14,12,Vencedor,7,7,Sage,44480,Grupos,A,Winner's,3,LCQ South America
+kiNgg,Australs,LATAM,186,17,13,10,4,137,2,3,-1,"0,18",YNG Sharks,BR,Icebox,Australs,Defesa,14,12,Vencedor,7,7,Viper,44480,Grupos,A,Winner's,3,LCQ South America
+adverso,Australs,LATAM,183,16,21,5,-5,"117,7",1,2,-1,"0,22",YNG Sharks,BR,Icebox,Australs,Defesa,14,12,Vencedor,7,7,Sova,44480,Grupos,A,Winner's,3,LCQ South America
+Tacolilla,Australs,LATAM,174,14,18,5,-4,118,3,3,0,"0,13",YNG Sharks,BR,Icebox,Australs,Defesa,14,12,Vencedor,7,7,Jett,44480,Grupos,A,Winner's,3,LCQ South America
+xander,Six Karma,LATAM,337,28,16,6,12,"201,7",6,5,1,"0,19",Gamelanders Blue,BR,Split,Six Karma,Ataque,13,10,Vencedor,8,5,Jett,44481,Grupos,B,Opening,3,LCQ South America
+Mited,Six Karma,LATAM,250,19,17,6,2,"161,3",1,2,-1,"0,25",Gamelanders Blue,BR,Split,Six Karma,Ataque,13,10,Vencedor,8,5,Raze,44481,Grupos,B,Opening,3,LCQ South America
+BandiCoot,Six Karma,LATAM,220,20,15,6,5,"151,9",2,1,1,"0,31",Gamelanders Blue,BR,Split,Six Karma,Ataque,13,10,Vencedor,8,5,Astra,44481,Grupos,B,Opening,3,LCQ South America
+Maka,Six Karma,LATAM,168,12,15,8,-3,"116,2",1,2,-1,"0,07",Gamelanders Blue,BR,Split,Six Karma,Ataque,13,10,Vencedor,8,5,Viper,44481,Grupos,B,Opening,3,LCQ South America
+BEAST,Six Karma,LATAM,155,14,17,8,-3,"106,8",0,3,-3,"0,26",Gamelanders Blue,BR,Split,Six Karma,Ataque,13,10,Vencedor,8,5,Sage,44481,Grupos,B,Opening,3,LCQ South America
+Jonn,Gamelanders Blue,BR,241,18,20,7,-2,"153,7",7,5,2,"0,25",Six Karma,LATAM,Split,Six Karma,Defesa,10,13,Perdedor,6,4,Jett,44481,Grupos,B,Opening,3,LCQ South America
+CTC,Gamelanders Blue,BR,230,19,18,7,1,"148,1",2,2,0,"0,15",Six Karma,LATAM,Split,Six Karma,Defesa,10,13,Perdedor,6,4,Cypher,44481,Grupos,B,Opening,3,LCQ South America
+Nyang,Gamelanders Blue,BR,203,15,17,10,-2,"144,5",1,1,0,"0,18",Six Karma,LATAM,Split,Six Karma,Defesa,10,13,Perdedor,6,4,Viper,44481,Grupos,B,Opening,3,LCQ South America
+mwzera,Gamelanders Blue,BR,182,16,17,2,-1,"128,3",1,2,-1,"0,16",Six Karma,LATAM,Split,Six Karma,Defesa,10,13,Perdedor,6,4,Skye,44481,Grupos,B,Opening,3,LCQ South America
+BELKY,Gamelanders Blue,BR,164,12,21,6,-9,"111,8",2,0,2,"0,1",Six Karma,LATAM,Split,Six Karma,Defesa,10,13,Perdedor,6,4,Astra,44481,Grupos,B,Opening,3,LCQ South America
+BEAST,Six Karma,LATAM,210,17,16,7,1,"122,4",2,0,2,"0,21",Gamelanders Blue,BR,Ascent,Gamelanders Blue,Ataque,9,13,Perdedor,3,6,Sova,44481,Grupos,B,Opening,3,LCQ South America
+Mited,Six Karma,LATAM,186,15,16,5,-1,"130,9",3,1,2,"0,27",Gamelanders Blue,BR,Ascent,Gamelanders Blue,Ataque,9,13,Perdedor,3,6,Reyna,44481,Grupos,B,Opening,3,LCQ South America
+xander,Six Karma,LATAM,183,14,15,6,-1,"109,1",6,6,0,"0,13",Gamelanders Blue,BR,Ascent,Gamelanders Blue,Ataque,9,13,Perdedor,3,6,Jett,44481,Grupos,B,Opening,3,LCQ South America
+Maka,Six Karma,LATAM,181,14,18,5,-4,"119,7",1,0,1,"0,21",Gamelanders Blue,BR,Ascent,Gamelanders Blue,Ataque,9,13,Perdedor,3,6,Killjoy,44481,Grupos,B,Opening,3,LCQ South America
+BandiCoot,Six Karma,LATAM,155,11,17,8,-6,"115,4",1,2,-1,"0,15",Gamelanders Blue,BR,Ascent,Gamelanders Blue,Ataque,9,13,Perdedor,3,6,Astra,44481,Grupos,B,Opening,3,LCQ South America
+Jonn,Gamelanders Blue,BR,307,24,14,7,10,"201,8",6,4,2,"0,25",Six Karma,LATAM,Ascent,Gamelanders Blue,Defesa,13,9,Vencedor,4,9,Jett,44481,Grupos,B,Opening,3,LCQ South America
+CTC,Gamelanders Blue,BR,287,23,12,10,11,"185,2",1,1,0,"0,2",Six Karma,LATAM,Ascent,Gamelanders Blue,Defesa,13,9,Vencedor,4,9,Sova,44481,Grupos,B,Opening,3,LCQ South America
+mwzera,Gamelanders Blue,BR,184,14,16,5,-2,"116,2",0,2,-2,"0,2",Six Karma,LATAM,Ascent,Gamelanders Blue,Defesa,13,9,Vencedor,4,9,Skye,44481,Grupos,B,Opening,3,LCQ South America
+Nyang,Gamelanders Blue,BR,170,11,13,12,-2,"119,5",1,2,-1,"0,18",Six Karma,LATAM,Ascent,Gamelanders Blue,Defesa,13,9,Vencedor,4,9,Kay/O,44481,Grupos,B,Opening,3,LCQ South America
+BELKY,Gamelanders Blue,BR,154,10,16,9,-6,"108,5",1,4,-3,"0,1",Six Karma,LATAM,Ascent,Gamelanders Blue,Defesa,13,9,Vencedor,4,9,Astra,44481,Grupos,B,Opening,3,LCQ South America
+BandiCoot,Six Karma,LATAM,192,12,13,2,-1,124,1,0,1,"0,42",Gamelanders Blue,BR,Breeze,Six Karma,Defesa,3,13,Perdedor,1,2,Viper,44481,Grupos,B,Opening,3,LCQ South America
+BEAST,Six Karma,LATAM,187,12,14,3,-2,"99,8",1,1,0,"0,19",Gamelanders Blue,BR,Breeze,Six Karma,Defesa,3,13,Perdedor,1,2,Sova,44481,Grupos,B,Opening,3,LCQ South America
+xander,Six Karma,LATAM,126,4,15,4,-11,"86,6",2,3,-1,"0,15",Gamelanders Blue,BR,Breeze,Six Karma,Defesa,3,13,Perdedor,1,2,Jett,44481,Grupos,B,Opening,3,LCQ South America
+Mited,Six Karma,LATAM,115,6,14,3,-8,"73,4",1,2,-1,"0,27",Gamelanders Blue,BR,Breeze,Six Karma,Defesa,3,13,Perdedor,1,2,Reyna,44481,Grupos,B,Opening,3,LCQ South America
+Maka,Six Karma,LATAM,112,5,15,3,-10,"81,6",1,4,-3,"0,17",Gamelanders Blue,BR,Breeze,Six Karma,Defesa,3,13,Perdedor,1,2,Cypher,44481,Grupos,B,Opening,3,LCQ South America
+Jonn,Gamelanders Blue,BR,363,21,10,3,11,"234,4",4,1,3,"0,24",Six Karma,LATAM,Breeze,Six Karma,Ataque,13,3,Vencedor,10,3,Jett,44481,Grupos,B,Opening,3,LCQ South America
+mwzera,Gamelanders Blue,BR,244,14,9,3,5,"145,6",4,3,1,"0,2",Six Karma,LATAM,Breeze,Six Karma,Ataque,13,3,Vencedor,10,3,Reyna,44481,Grupos,B,Opening,3,LCQ South America
+BELKY,Gamelanders Blue,BR,235,13,11,6,2,"159,3",2,1,1,"0,19",Six Karma,LATAM,Breeze,Six Karma,Ataque,13,3,Vencedor,10,3,Cypher,44481,Grupos,B,Opening,3,LCQ South America
+Nyang,Gamelanders Blue,BR,194,14,4,3,10,"134,8",0,0,0,"0,31",Six Karma,LATAM,Breeze,Six Karma,Ataque,13,3,Vencedor,10,3,Viper,44481,Grupos,B,Opening,3,LCQ South America
+CTC,Gamelanders Blue,BR,133,9,5,10,4,"85,3",0,1,-1,"0,16",Six Karma,LATAM,Breeze,Six Karma,Ataque,13,3,Vencedor,10,3,Sova,44481,Grupos,B,Opening,3,LCQ South America
+liazzi,Havan Liberty,BR,270,20,9,4,11,"182,4",2,2,0,"0,25",Infinity,LATAM,Bind,Havan Liberty,Ataque,13,6,Vencedor,7,6,Raze,44481,Grupos,B,Opening,3,LCQ South America
+pleets,Havan Liberty,BR,241,16,12,14,4,"162,4",1,2,-1,"0,09",Infinity,LATAM,Bind,Havan Liberty,Ataque,13,6,Vencedor,7,6,Astra,44481,Grupos,B,Opening,3,LCQ South America
+krain,Havan Liberty,BR,201,13,9,9,4,115,3,0,3,"0,18",Infinity,LATAM,Bind,Havan Liberty,Ataque,13,6,Vencedor,7,6,Sova,44481,Grupos,B,Opening,3,LCQ South America
+shion,Havan Liberty,BR,197,13,15,9,-2,"132,8",4,1,3,"0,13",Infinity,LATAM,Bind,Havan Liberty,Ataque,13,6,Vencedor,7,6,Skye,44481,Grupos,B,Opening,3,LCQ South America
+Myssen,Havan Liberty,BR,189,14,9,7,5,"119,6",1,3,-2,"0,47",Infinity,LATAM,Bind,Havan Liberty,Ataque,13,6,Vencedor,7,6,Breach,44481,Grupos,B,Opening,3,LCQ South America
+DaveeyS,Infinity,LATAM,254,16,17,3,-1,"160,2",1,1,0,"0,19",Havan Liberty,BR,Bind,Havan Liberty,Defesa,6,13,Perdedor,1,5,Raze,44481,Grupos,B,Opening,3,LCQ South America
+sickLy,Infinity,LATAM,207,13,15,3,-2,"132,3",2,3,-1,"0,31",Havan Liberty,BR,Bind,Havan Liberty,Defesa,6,13,Perdedor,1,5,Viper,44481,Grupos,B,Opening,3,LCQ South America
+jfoeN,Infinity,LATAM,172,10,16,5,-6,"117,5",2,3,-1,"0,2",Havan Liberty,BR,Bind,Havan Liberty,Defesa,6,13,Perdedor,1,5,Skye,44481,Grupos,B,Opening,3,LCQ South America
+RAINMAKER,Infinity,LATAM,121,8,15,2,-7,"87,1",0,3,-3,"0,39",Havan Liberty,BR,Bind,Havan Liberty,Defesa,6,13,Perdedor,1,5,Sova,44481,Grupos,B,Opening,3,LCQ South America
+Alejo,Infinity,LATAM,79,7,13,3,-6,"54,3",3,1,2,"0,47",Havan Liberty,BR,Bind,Havan Liberty,Defesa,6,13,Perdedor,1,5,Astra,44481,Grupos,B,Opening,3,LCQ South America
+Myssen,Havan Liberty,BR,309,21,9,5,12,"214,5",2,1,1,"0,58",Infinity,LATAM,Icebox,Infinity,Ataque,13,5,Vencedor,9,4,Viper,44481,Grupos,B,Opening,3,LCQ South America
+pleets,Havan Liberty,BR,275,17,15,13,2,"169,7",3,3,0,"0,16",Infinity,LATAM,Icebox,Infinity,Ataque,13,5,Vencedor,9,4,Sage,44481,Grupos,B,Opening,3,LCQ South America
+krain,Havan Liberty,BR,238,19,5,6,14,"179,6",2,0,2,"0,45",Infinity,LATAM,Icebox,Infinity,Ataque,13,5,Vencedor,9,4,Sova,44481,Grupos,B,Opening,3,LCQ South America
+liazzi,Havan Liberty,BR,186,12,11,6,1,"121,2",3,2,1,"0,2",Infinity,LATAM,Icebox,Infinity,Ataque,13,5,Vencedor,9,4,Jett,44481,Grupos,B,Opening,3,LCQ South America
+shion,Havan Liberty,BR,179,11,13,16,-2,"118,8",1,1,0,"0,34",Infinity,LATAM,Icebox,Infinity,Ataque,13,5,Vencedor,9,4,Breach,44481,Grupos,B,Opening,3,LCQ South America
+RAINMAKER,Infinity,LATAM,225,15,16,2,-1,"149,4",2,0,2,"0,27",Havan Liberty,BR,Icebox,Infinity,Defesa,5,13,Perdedor,2,3,Sova,44481,Grupos,B,Opening,3,LCQ South America
+sickLy,Infinity,LATAM,203,12,14,4,-2,"200,7",3,1,2,"0,22",Havan Liberty,BR,Icebox,Infinity,Defesa,5,13,Perdedor,2,3,Viper,44481,Grupos,B,Opening,3,LCQ South America
+DaveeyS,Infinity,LATAM,191,12,18,2,-6,"119,5",2,3,-1,"0,15",Havan Liberty,BR,Icebox,Infinity,Defesa,5,13,Perdedor,2,3,Jett,44481,Grupos,B,Opening,3,LCQ South America
+jfoeN,Infinity,LATAM,178,11,17,3,-6,"109,6",0,5,-5,"0,17",Havan Liberty,BR,Icebox,Infinity,Defesa,5,13,Perdedor,2,3,Skye,44481,Grupos,B,Opening,3,LCQ South America
+Alejo,Infinity,LATAM,81,3,15,6,-12,"126,9",0,2,-2,"0,24",Havan Liberty,BR,Icebox,Infinity,Defesa,5,13,Perdedor,2,3,Sage,44481,Grupos,B,Opening,3,LCQ South America
+mwzera,Gamelanders Blue,BR,324,25,15,10,10,"210,4",2,1,1,"0,11",Havan Liberty,BR,Bind,Havan Liberty,Ataque,13,10,Vencedor,7,6,Skye,44481,Grupos,B,Winner's,3,LCQ South America
+BELKY,Gamelanders Blue,BR,198,17,16,7,1,126,2,3,-1,"0,18",Havan Liberty,BR,Bind,Havan Liberty,Ataque,13,10,Vencedor,7,6,Astra,44481,Grupos,B,Winner's,3,LCQ South America
+Nyang,Gamelanders Blue,BR,191,16,13,10,3,"125,7",3,2,1,"0,23",Havan Liberty,BR,Bind,Havan Liberty,Ataque,13,10,Vencedor,7,6,Viper,44481,Grupos,B,Winner's,3,LCQ South America
+Jonn,Gamelanders Blue,BR,190,15,15,2,0,"123,5",2,3,-1,"0,3",Havan Liberty,BR,Bind,Havan Liberty,Ataque,13,10,Vencedor,7,6,Jett,44481,Grupos,B,Winner's,3,LCQ South America
+CTC,Gamelanders Blue,BR,150,12,14,12,-2,"104,5",4,1,3,"0,18",Havan Liberty,BR,Bind,Havan Liberty,Ataque,13,10,Vencedor,7,6,Sova,44481,Grupos,B,Winner's,3,LCQ South America
+liazzi,Havan Liberty,BR,254,20,18,4,2,"166,6",6,6,0,"0,25",Gamelanders Blue,BR,Bind,Havan Liberty,Defesa,10,13,Perdedor,5,5,Raze,44481,Grupos,B,Winner's,3,LCQ South America
+shion,Havan Liberty,BR,195,18,17,6,1,"129,2",1,1,0,"0,32",Gamelanders Blue,BR,Bind,Havan Liberty,Defesa,10,13,Perdedor,5,5,Skye,44481,Grupos,B,Winner's,3,LCQ South America
+pleets,Havan Liberty,BR,158,13,17,6,-4,"120,6",0,1,-1,"0,28",Gamelanders Blue,BR,Bind,Havan Liberty,Defesa,10,13,Perdedor,5,5,Astra,44481,Grupos,B,Winner's,3,LCQ South America
+Myssen,Havan Liberty,BR,157,12,16,8,-4,"110,7",2,2,0,"0,34",Gamelanders Blue,BR,Bind,Havan Liberty,Defesa,10,13,Perdedor,5,5,Breach,44481,Grupos,B,Winner's,3,LCQ South America
+krain,Havan Liberty,BR,149,10,17,9,-7,"104,7",1,3,-2,"0,22",Gamelanders Blue,BR,Bind,Havan Liberty,Defesa,10,13,Perdedor,5,5,Sova,44481,Grupos,B,Winner's,3,LCQ South America
+CTC,Gamelanders Blue,BR,255,20,18,11,2,"177,4",2,2,0,"0,19",Havan Liberty,BR,Icebox,Gamelanders Blue,Defesa,14,12,Vencedor,6,8,Sova,44481,Grupos,B,Winner's,3,LCQ South America
+mwzera,Gamelanders Blue,BR,249,24,18,2,6,"164,1",3,4,-1,"0,21",Havan Liberty,BR,Icebox,Gamelanders Blue,Defesa,14,12,Vencedor,6,8,Jett,44481,Grupos,B,Winner's,3,LCQ South America
+Jonn,Gamelanders Blue,BR,217,20,21,3,-1,"134,2",4,5,-1,"0,22",Havan Liberty,BR,Icebox,Gamelanders Blue,Defesa,14,12,Vencedor,6,8,Reyna,44481,Grupos,B,Winner's,3,LCQ South America
+Nyang,Gamelanders Blue,BR,153,13,17,7,-4,"97,9",2,1,1,"0,23",Havan Liberty,BR,Icebox,Gamelanders Blue,Defesa,14,12,Vencedor,6,8,Sage,44481,Grupos,B,Winner's,3,LCQ South America
+BELKY,Gamelanders Blue,BR,136,13,17,10,-4,"123,9",1,2,-1,"0,2",Havan Liberty,BR,Icebox,Gamelanders Blue,Defesa,14,12,Vencedor,6,8,Astra,44481,Grupos,B,Winner's,3,LCQ South America
+liazzi,Havan Liberty,BR,250,24,21,5,3,148,9,4,5,"0,37",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,12,14,Perdedor,5,7,Jett,44481,Grupos,B,Winner's,3,LCQ South America
+krain,Havan Liberty,BR,215,19,16,12,3,"154,4",1,2,-1,"0,2",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,12,14,Perdedor,5,7,Sova,44481,Grupos,B,Winner's,3,LCQ South America
+pleets,Havan Liberty,BR,214,19,18,5,1,"174,7",3,3,0,"0,24",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,12,14,Perdedor,5,7,Sage,44481,Grupos,B,Winner's,3,LCQ South America
+Myssen,Havan Liberty,BR,165,17,18,6,-1,"119,2",1,1,0,"0,39",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,12,14,Perdedor,5,7,Viper,44481,Grupos,B,Winner's,3,LCQ South America
+shion,Havan Liberty,BR,151,12,17,14,-5,112,0,2,-2,"0,2",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,12,14,Perdedor,5,7,Breach,44481,Grupos,B,Winner's,3,LCQ South America
+Wyz,Lazer,LATAM,236,19,14,1,5,132,4,5,-1,"0,16",FURIA,BR,Haven,FURIA,Ataque,9,13,Perdedor,5,4,Jett,44482,Grupos,A,Elimination,3,LCQ South America
+HellFull,Lazer,LATAM,215,17,16,3,1,"130,3",1,1,0,"0,12",FURIA,BR,Haven,FURIA,Ataque,9,13,Perdedor,5,4,Cypher,44482,Grupos,A,Elimination,3,LCQ South America
+Caz,Lazer,LATAM,188,12,15,14,-3,"171,6",3,1,2,"0,13",FURIA,BR,Haven,FURIA,Ataque,9,13,Perdedor,5,4,Sova,44482,Grupos,A,Elimination,3,LCQ South America
+akemy,Lazer,LATAM,160,13,13,9,0,"148,9",1,1,0,"0,15",FURIA,BR,Haven,FURIA,Ataque,9,13,Perdedor,5,4,Omen,44482,Grupos,A,Elimination,3,LCQ South America
+AztKk,Lazer,LATAM,154,12,18,12,-6,105,3,2,1,"0,26",FURIA,BR,Haven,FURIA,Ataque,9,13,Perdedor,5,4,Skye,44482,Grupos,A,Elimination,3,LCQ South America
+Nozwerr,FURIA,BR,247,22,14,4,8,"169,6",3,0,3,"0,37",Lazer,LATAM,Haven,FURIA,Defesa,13,9,Vencedor,6,7,Sova,44482,Grupos,A,Elimination,3,LCQ South America
+xand,FURIA,BR,232,17,18,6,-1,"199,3",4,8,-4,"0,15",Lazer,LATAM,Haven,FURIA,Defesa,13,9,Vencedor,6,7,Jett,44482,Grupos,A,Elimination,3,LCQ South America
+Khalil,FURIA,BR,206,15,10,4,5,191,0,0,0,"0,23",Lazer,LATAM,Haven,FURIA,Defesa,13,9,Vencedor,6,7,Killjoy,44482,Grupos,A,Elimination,3,LCQ South America
+Quick,FURIA,BR,199,15,16,8,-1,"134,9",3,1,2,"0,25",Lazer,LATAM,Haven,FURIA,Defesa,13,9,Vencedor,6,7,Sage,44482,Grupos,A,Elimination,3,LCQ South America
+Mazin,FURIA,BR,113,7,16,3,-9,"81,5",0,3,-3,"0,18",Lazer,LATAM,Haven,FURIA,Defesa,13,9,Vencedor,6,7,Omen,44482,Grupos,A,Elimination,3,LCQ South America
+AztKk,Lazer,LATAM,255,16,18,6,-2,"180,4",3,5,-2,"0,28",FURIA,BR,Icebox,Lazer,Defesa,7,13,Perdedor,5,2,Reyna,44482,Grupos,A,Elimination,3,LCQ South America
+akemy,Lazer,LATAM,243,16,12,4,4,"215,7",1,1,0,"0,36",FURIA,BR,Icebox,Lazer,Defesa,7,13,Perdedor,5,2,Viper,44482,Grupos,A,Elimination,3,LCQ South America
+HellFull,Lazer,LATAM,182,14,17,5,-3,"108,3",1,0,1,"0,11",FURIA,BR,Icebox,Lazer,Defesa,7,13,Perdedor,5,2,Sage,44482,Grupos,A,Elimination,3,LCQ South America
+Caz,Lazer,LATAM,132,9,17,5,-8,"87,9",1,3,-2,"0,21",FURIA,BR,Icebox,Lazer,Defesa,7,13,Perdedor,5,2,Sova,44482,Grupos,A,Elimination,3,LCQ South America
+Wyz,Lazer,LATAM,126,8,17,6,-9,"86,3",2,3,-1,"0,29",FURIA,BR,Icebox,Lazer,Defesa,7,13,Perdedor,5,2,Jett,44482,Grupos,A,Elimination,3,LCQ South America
+xand,FURIA,BR,331,23,13,7,10,"262,5",5,2,3,"0,24",Lazer,LATAM,Icebox,Lazer,Ataque,13,7,Vencedor,10,3,Jett,44482,Grupos,A,Elimination,3,LCQ South America
+Mazin,FURIA,BR,284,21,12,7,9,"227,9",5,2,3,"0,29",Lazer,LATAM,Icebox,Lazer,Ataque,13,7,Vencedor,10,3,Viper,44482,Grupos,A,Elimination,3,LCQ South America
+Khalil,FURIA,BR,229,16,11,2,5,"149,4",1,0,1,"0,19",Lazer,LATAM,Icebox,Lazer,Ataque,13,7,Vencedor,10,3,Killjoy,44482,Grupos,A,Elimination,3,LCQ South America
+Nozwerr,FURIA,BR,207,14,10,4,4,"247,9",1,1,0,"0,17",Lazer,LATAM,Icebox,Lazer,Ataque,13,7,Vencedor,10,3,Sova,44482,Grupos,A,Elimination,3,LCQ South America
+Quick,FURIA,BR,97,7,17,7,-10,"66,9",0,3,-3,"0,23",Lazer,LATAM,Icebox,Lazer,Ataque,13,7,Vencedor,10,3,Sage,44482,Grupos,A,Elimination,3,LCQ South America
+Maka,Six Karma,LATAM,237,18,14,8,4,"161,1",1,2,-1,"0,18",Infinity,LATAM,Bind,Six Karma,Ataque,11,13,Perdedor,4,7,Viper,44482,Grupos,B,Elimination,3,LCQ South America
+xander,Six Karma,LATAM,232,18,18,4,0,"130,4",4,5,-1,"0,05",Infinity,LATAM,Bind,Six Karma,Ataque,11,13,Perdedor,4,7,Raze,44482,Grupos,B,Elimination,3,LCQ South America
+Mited,Six Karma,LATAM,228,18,18,5,0,"144,6",5,2,3,"0,21",Infinity,LATAM,Bind,Six Karma,Ataque,11,13,Perdedor,4,7,Reyna,44482,Grupos,B,Elimination,3,LCQ South America
+BEAST,Six Karma,LATAM,154,13,17,9,-4,"98,7",1,1,0,"0,13",Infinity,LATAM,Bind,Six Karma,Ataque,11,13,Perdedor,4,7,Sova,44482,Grupos,B,Elimination,3,LCQ South America
+BandiCoot,Six Karma,LATAM,113,11,16,4,-5,"74,3",0,3,-3,"0,12",Infinity,LATAM,Bind,Six Karma,Ataque,11,13,Perdedor,4,7,Astra,44482,Grupos,B,Elimination,3,LCQ South America
+DaveeyS,Infinity,LATAM,287,25,16,1,9,188,9,2,7,"0,29",Six Karma,LATAM,Bind,Six Karma,Defesa,13,11,Vencedor,8,5,Raze,44482,Grupos,B,Elimination,3,LCQ South America
+Alejo,Infinity,LATAM,259,23,15,6,8,"167,3",1,1,0,"0,29",Six Karma,LATAM,Bind,Six Karma,Defesa,13,11,Vencedor,8,5,Astra,44482,Grupos,B,Elimination,3,LCQ South America
+RAINMAKER,Infinity,LATAM,178,16,18,3,-2,"116,3",0,1,-1,"0,17",Six Karma,LATAM,Bind,Six Karma,Defesa,13,11,Vencedor,8,5,Sova,44482,Grupos,B,Elimination,3,LCQ South America
+jfoeN,Infinity,LATAM,134,9,15,15,-6,"96,5",1,3,-2,"0,13",Six Karma,LATAM,Bind,Six Karma,Defesa,13,11,Vencedor,8,5,Skye,44482,Grupos,B,Elimination,3,LCQ South America
+sickLy,Infinity,LATAM,130,10,14,7,-4,"138,4",2,4,-2,"0,21",Six Karma,LATAM,Bind,Six Karma,Defesa,13,11,Vencedor,8,5,Viper,44482,Grupos,B,Elimination,3,LCQ South America
+xander,Six Karma,LATAM,361,35,15,4,20,"206,4",7,3,4,"0,18",Infinity,LATAM,Breeze,Infinity,Defesa,14,12,Vencedor,4,10,Jett,44482,Grupos,B,Elimination,3,LCQ South America
+Mited,Six Karma,LATAM,225,21,20,4,1,"138,6",5,2,3,"0,27",Infinity,LATAM,Breeze,Infinity,Defesa,14,12,Vencedor,4,10,Reyna,44482,Grupos,B,Elimination,3,LCQ South America
+Maka,Six Karma,LATAM,180,18,18,4,0,"125,2",2,1,1,"0,13",Infinity,LATAM,Breeze,Infinity,Defesa,14,12,Vencedor,4,10,Cypher,44482,Grupos,B,Elimination,3,LCQ South America
+BEAST,Six Karma,LATAM,177,15,17,10,-2,"120,8",2,1,1,"0,14",Infinity,LATAM,Breeze,Infinity,Defesa,14,12,Vencedor,4,10,Sova,44482,Grupos,B,Elimination,3,LCQ South America
+BandiCoot,Six Karma,LATAM,126,10,21,13,-11,"89,5",1,2,-1,"0,29",Infinity,LATAM,Breeze,Infinity,Defesa,14,12,Vencedor,4,10,Viper,44482,Grupos,B,Elimination,3,LCQ South America
+jfoeN,Infinity,LATAM,241,22,18,6,4,"196,8",4,4,0,"0,28",Six Karma,LATAM,Breeze,Infinity,Ataque,12,14,Perdedor,3,9,Skye,44482,Grupos,B,Elimination,3,LCQ South America
+RAINMAKER,Infinity,LATAM,224,20,20,4,0,"147,6",1,0,1,"0,21",Six Karma,LATAM,Breeze,Infinity,Ataque,12,14,Perdedor,3,9,Sova,44482,Grupos,B,Elimination,3,LCQ South America
+DaveeyS,Infinity,LATAM,203,21,21,3,0,"138,6",3,8,-5,"0,43",Six Karma,LATAM,Breeze,Infinity,Ataque,12,14,Perdedor,3,9,Jett,44482,Grupos,B,Elimination,3,LCQ South America
+Alejo,Infinity,LATAM,166,14,17,5,-3,"109,4",1,0,1,"0,21",Six Karma,LATAM,Breeze,Infinity,Ataque,12,14,Perdedor,3,9,Viper,44482,Grupos,B,Elimination,3,LCQ South America
+sickLy,Infinity,LATAM,146,14,23,6,-9,"93,7",0,5,-5,"0,32",Six Karma,LATAM,Breeze,Infinity,Ataque,12,14,Perdedor,3,9,Cypher,44482,Grupos,B,Elimination,3,LCQ South America
+Mited,Six Karma,LATAM,302,18,15,7,3,"199,8",4,2,2,"0,14",Infinity,LATAM,Split,Six Karma,Ataque,13,6,Vencedor,9,4,Raze,44482,Grupos,B,Elimination,3,LCQ South America
+xander,Six Karma,LATAM,271,19,12,5,7,"180,4",2,2,0,"0,23",Infinity,LATAM,Split,Six Karma,Ataque,13,6,Vencedor,9,4,Jett,44482,Grupos,B,Elimination,3,LCQ South America
+Maka,Six Karma,LATAM,242,15,9,16,6,"156,4",1,1,0,"0,2",Infinity,LATAM,Split,Six Karma,Ataque,13,6,Vencedor,9,4,Viper,44482,Grupos,B,Elimination,3,LCQ South America
+BandiCoot,Six Karma,LATAM,234,19,9,7,10,"152,8",3,0,3,"0,21",Infinity,LATAM,Split,Six Karma,Ataque,13,6,Vencedor,9,4,Astra,44482,Grupos,B,Elimination,3,LCQ South America
+BEAST,Six Karma,LATAM,142,11,11,5,0,"89,3",2,2,0,"0,09",Infinity,LATAM,Split,Six Karma,Ataque,13,6,Vencedor,9,4,Sage,44482,Grupos,B,Elimination,3,LCQ South America
+jfoeN,Infinity,LATAM,255,15,16,4,-1,"163,8",4,1,3,"0,2",Six Karma,LATAM,Split,Six Karma,Defesa,6,13,Perdedor,3,3,Cypher,44482,Grupos,B,Elimination,3,LCQ South America
+DaveeyS,Infinity,LATAM,229,15,19,4,-4,146,2,6,-4,"0,18",Six Karma,LATAM,Split,Six Karma,Defesa,6,13,Perdedor,3,3,Raze,44482,Grupos,B,Elimination,3,LCQ South America
+sickLy,Infinity,LATAM,164,13,15,7,-2,"90,1",0,0,0,"0,28",Six Karma,LATAM,Split,Six Karma,Defesa,6,13,Perdedor,3,3,Breach,44482,Grupos,B,Elimination,3,LCQ South America
+RAINMAKER,Infinity,LATAM,134,7,15,9,-8,"94,8",1,2,-1,"0,19",Six Karma,LATAM,Split,Six Karma,Defesa,6,13,Perdedor,3,3,Sage,44482,Grupos,B,Elimination,3,LCQ South America
+Alejo,Infinity,LATAM,115,6,17,4,-11,"97,5",0,3,-3,"0,21",Six Karma,LATAM,Split,Six Karma,Defesa,6,13,Perdedor,3,3,Astra,44482,Grupos,B,Elimination,3,LCQ South America
+prozin,YNG Sharks,BR,174,15,16,8,-1,"120,2",1,3,-2,"0,15",FURIA,BR,Haven,YNG Sharks,Defesa,11,13,Perdedor,5,6,Raze,44483,Grupos,A,Decider,3,LCQ South America
+gaabxx,YNG Sharks,BR,173,12,15,8,-3,159,5,3,2,"0,29",FURIA,BR,Haven,YNG Sharks,Defesa,11,13,Perdedor,5,6,Jett,44483,Grupos,A,Decider,3,LCQ South America
+deNaro,YNG Sharks,BR,155,13,17,8,-4,"111,6",2,3,-1,"0,27",FURIA,BR,Haven,YNG Sharks,Defesa,11,13,Perdedor,5,6,Sova,44483,Grupos,A,Decider,3,LCQ South America
+light,YNG Sharks,BR,151,13,13,5,0,"98,5",1,2,-1,"0,33",FURIA,BR,Haven,YNG Sharks,Defesa,11,13,Perdedor,5,6,Astra,44483,Grupos,A,Decider,3,LCQ South America
+fra,YNG Sharks,BR,140,13,19,0,-6,80,3,1,2,"0,2",FURIA,BR,Haven,YNG Sharks,Defesa,11,13,Perdedor,5,6,Cypher,44483,Grupos,A,Decider,3,LCQ South America
+Nozwerr,FURIA,BR,242,22,12,6,10,"198,5",2,0,2,"0,18",YNG Sharks,BR,Haven,YNG Sharks,Ataque,13,11,Vencedor,6,7,Sova,44483,Grupos,A,Decider,3,LCQ South America
+Quick,FURIA,BR,221,17,13,7,4,184,1,3,-2,"0,23",YNG Sharks,BR,Haven,YNG Sharks,Ataque,13,11,Vencedor,6,7,Sage,44483,Grupos,A,Decider,3,LCQ South America
+xand,FURIA,BR,214,17,16,4,1,"126,7",5,3,2,"0,19",YNG Sharks,BR,Haven,YNG Sharks,Ataque,13,11,Vencedor,6,7,Jett,44483,Grupos,A,Decider,3,LCQ South America
+Khalil,FURIA,BR,169,15,9,3,6,"164,1",1,2,-1,"0,22",YNG Sharks,BR,Haven,YNG Sharks,Ataque,13,11,Vencedor,6,7,Killjoy,44483,Grupos,A,Decider,3,LCQ South America
+Mazin,FURIA,BR,113,9,16,6,-7,"90,1",3,4,-1,"0,41",YNG Sharks,BR,Haven,YNG Sharks,Ataque,13,11,Vencedor,6,7,Omen,44483,Grupos,A,Decider,3,LCQ South America
+gaabxx,YNG Sharks,BR,227,19,13,3,6,184,4,7,-3,"0,17",FURIA,BR,Ascent,FURIA,Ataque,10,13,Perdedor,6,4,Jett,44483,Grupos,A,Decider,3,LCQ South America
+light,YNG Sharks,BR,219,18,15,9,3,"203,2",1,1,0,"0,31",FURIA,BR,Ascent,FURIA,Ataque,10,13,Perdedor,6,4,Astra,44483,Grupos,A,Decider,3,LCQ South America
+prozin,YNG Sharks,BR,159,11,18,8,-7,107,0,3,-3,"0,15",FURIA,BR,Ascent,FURIA,Ataque,10,13,Perdedor,6,4,Kay/O,44483,Grupos,A,Decider,3,LCQ South America
+deNaro,YNG Sharks,BR,143,10,16,8,-6,"145,1",1,1,0,"0,17",FURIA,BR,Ascent,FURIA,Ataque,10,13,Perdedor,6,4,Sova,44483,Grupos,A,Decider,3,LCQ South America
+fra,YNG Sharks,BR,130,11,16,2,-5,"76,4",3,2,1,"0,1",FURIA,BR,Ascent,FURIA,Ataque,10,13,Perdedor,6,4,Cypher,44483,Grupos,A,Decider,3,LCQ South America
+xand,FURIA,BR,226,18,17,4,1,"153,6",6,4,2,"0,29",YNG Sharks,BR,Ascent,FURIA,Defesa,13,10,Vencedor,7,6,Jett,44483,Grupos,A,Decider,3,LCQ South America
+Nozwerr,FURIA,BR,218,19,12,7,7,"162,2",1,2,-1,"0,17",YNG Sharks,BR,Ascent,FURIA,Defesa,13,10,Vencedor,7,6,Sova,44483,Grupos,A,Decider,3,LCQ South America
+Quick,FURIA,BR,217,17,13,10,4,"138,1",2,1,1,"0,29",YNG Sharks,BR,Ascent,FURIA,Defesa,13,10,Vencedor,7,6,Sage,44483,Grupos,A,Decider,3,LCQ South America
+Mazin,FURIA,BR,170,13,12,8,1,"110,4",4,2,2,"0,17",YNG Sharks,BR,Ascent,FURIA,Defesa,13,10,Vencedor,7,6,Astra,44483,Grupos,A,Decider,3,LCQ South America
+Khalil,FURIA,BR,149,11,15,6,-4,128,1,0,1,"0,13",YNG Sharks,BR,Ascent,FURIA,Defesa,13,10,Vencedor,7,6,Killjoy,44483,Grupos,A,Decider,3,LCQ South America
+liazzi,Havan Liberty,BR,232,21,18,6,3,"145,8",2,6,-4,"0,1",Six Karma,LATAM,Bind,Havan Liberty,Ataque,12,14,Perdedor,3,9,Raze,44483,Grupos,B,Decider,3,LCQ South America
+krain,Havan Liberty,BR,222,19,15,3,4,"143,2",5,2,3,"0,25",Six Karma,LATAM,Bind,Havan Liberty,Ataque,12,14,Perdedor,3,9,Sova,44483,Grupos,B,Decider,3,LCQ South America
+shion,Havan Liberty,BR,184,17,20,13,-3,"133,6",2,1,1,"0,27",Six Karma,LATAM,Bind,Havan Liberty,Ataque,12,14,Perdedor,3,9,Skye,44483,Grupos,B,Decider,3,LCQ South America
+pleets,Havan Liberty,BR,163,13,23,9,-10,"106,9",3,4,-1,"0,15",Six Karma,LATAM,Bind,Havan Liberty,Ataque,12,14,Perdedor,3,9,Astra,44483,Grupos,B,Decider,3,LCQ South America
+Myssen,Havan Liberty,BR,94,10,21,6,-11,"69,6",0,1,-1,"0,65",Six Karma,LATAM,Bind,Havan Liberty,Ataque,12,14,Perdedor,3,9,Breach,44483,Grupos,B,Decider,3,LCQ South America
+BandiCoot,Six Karma,LATAM,279,25,15,12,10,"201,5",4,0,4,"0,12",Havan Liberty,BR,Bind,Havan Liberty,Defesa,14,12,Vencedor,4,10,Astra,44483,Grupos,B,Decider,3,LCQ South America
+xander,Six Karma,LATAM,260,21,17,8,4,"168,7",5,6,-1,"0,12",Havan Liberty,BR,Bind,Havan Liberty,Defesa,14,12,Vencedor,4,10,Raze,44483,Grupos,B,Decider,3,LCQ South America
+Maka,Six Karma,LATAM,253,24,20,5,4,"155,3",3,3,0,"0,16",Havan Liberty,BR,Bind,Havan Liberty,Defesa,14,12,Vencedor,4,10,Viper,44483,Grupos,B,Decider,3,LCQ South America
+Mited,Six Karma,LATAM,152,16,15,4,1,78,2,0,2,"0,16",Havan Liberty,BR,Bind,Havan Liberty,Defesa,14,12,Vencedor,4,10,Reyna,44483,Grupos,B,Decider,3,LCQ South America
+BEAST,Six Karma,LATAM,131,11,13,9,-2,"109,6",0,3,-3,"0,18",Havan Liberty,BR,Bind,Havan Liberty,Defesa,14,12,Vencedor,4,10,Sova,44483,Grupos,B,Decider,3,LCQ South America
+liazzi,Havan Liberty,BR,345,22,9,3,13,"230,4",2,0,2,"0,22",Six Karma,LATAM,Split,Six Karma,Defesa,13,4,Vencedor,5,8,Killjoy,44483,Grupos,B,Decider,3,LCQ South America
+shion,Havan Liberty,BR,287,18,11,7,7,"188,9",5,1,4,"0,24",Six Karma,LATAM,Split,Six Karma,Defesa,13,4,Vencedor,5,8,Raze,44483,Grupos,B,Decider,3,LCQ South America
+pleets,Havan Liberty,BR,226,14,9,7,5,"147,8",3,2,1,"0,18",Six Karma,LATAM,Split,Six Karma,Defesa,13,4,Vencedor,5,8,Astra,44483,Grupos,B,Decider,3,LCQ South America
+krain,Havan Liberty,BR,159,10,13,4,-3,"172,5",1,1,0,"0,22",Six Karma,LATAM,Split,Six Karma,Defesa,13,4,Vencedor,5,8,Skye,44483,Grupos,B,Decider,3,LCQ South America
+Myssen,Havan Liberty,BR,124,6,10,5,-4,"94,6",0,2,-2,"0,3",Six Karma,LATAM,Split,Six Karma,Defesa,13,4,Vencedor,5,8,Viper,44483,Grupos,B,Decider,3,LCQ South America
+xander,Six Karma,LATAM,271,16,15,4,1,"148,4",6,2,4,"0,12",Havan Liberty,BR,Split,Six Karma,Ataque,4,13,Perdedor,4,0,Jett,44483,Grupos,B,Decider,3,LCQ South America
+BandiCoot,Six Karma,LATAM,226,12,13,5,-1,"149,2",0,1,-1,"0,16",Havan Liberty,BR,Split,Six Karma,Ataque,4,13,Perdedor,4,0,Astra,44483,Grupos,B,Decider,3,LCQ South America
+BEAST,Six Karma,LATAM,168,12,14,0,-2,"114,1",0,3,-3,"0,41",Havan Liberty,BR,Split,Six Karma,Ataque,4,13,Perdedor,4,0,Sage,44483,Grupos,B,Decider,3,LCQ South America
+Maka,Six Karma,LATAM,128,6,15,6,-9,"96,5",0,2,-2,"0,15",Havan Liberty,BR,Split,Six Karma,Ataque,4,13,Perdedor,4,0,Viper,44483,Grupos,B,Decider,3,LCQ South America
+Mited,Six Karma,LATAM,100,5,13,2,-8,"139,4",0,3,-3,"0,07",Havan Liberty,BR,Split,Six Karma,Ataque,4,13,Perdedor,4,0,Raze,44483,Grupos,B,Decider,3,LCQ South America
+liazzi,Havan Liberty,BR,261,27,26,6,1,"199,6",6,5,1,"0,14",Six Karma,LATAM,Ascent,Havan Liberty,Ataque,17,15,Vencedor,10,7,Raze,44483,Grupos,B,Decider,3,LCQ South America
+shion,Havan Liberty,BR,237,27,22,25,5,"175,2",1,1,0,"0,21",Six Karma,LATAM,Ascent,Havan Liberty,Ataque,17,15,Vencedor,10,7,Breach,44483,Grupos,B,Decider,3,LCQ South America
+krain,Havan Liberty,BR,236,29,20,11,9,"157,4",3,1,2,"0,34",Six Karma,LATAM,Ascent,Havan Liberty,Ataque,17,15,Vencedor,10,7,Sova,44483,Grupos,B,Decider,3,LCQ South America
+Myssen,Havan Liberty,BR,150,18,22,11,-4,"111,6",4,6,-2,"0,45",Six Karma,LATAM,Ascent,Havan Liberty,Ataque,17,15,Vencedor,10,7,Skye,44483,Grupos,B,Decider,3,LCQ South America
+pleets,Havan Liberty,BR,142,13,24,13,-11,"105,2",3,2,1,"0,14",Six Karma,LATAM,Ascent,Havan Liberty,Ataque,17,15,Vencedor,10,7,Astra,44483,Grupos,B,Decider,3,LCQ South America
+xander,Six Karma,LATAM,308,34,19,7,15,"191,9",9,3,6,"0,13",Havan Liberty,BR,Ascent,Havan Liberty,Defesa,15,17,Perdedor,9,6,Jett,44483,Grupos,B,Decider,3,LCQ South America
+Mited,Six Karma,LATAM,224,24,26,8,-2,"151,3",1,2,-1,"0,25",Havan Liberty,BR,Ascent,Havan Liberty,Defesa,15,17,Perdedor,9,6,Reyna,44483,Grupos,B,Decider,3,LCQ South America
+BEAST,Six Karma,LATAM,201,22,21,10,1,"197,8",2,0,2,"0,21",Havan Liberty,BR,Ascent,Havan Liberty,Defesa,15,17,Perdedor,9,6,Sova,44483,Grupos,B,Decider,3,LCQ South America
+BandiCoot,Six Karma,LATAM,166,19,22,9,-3,"133,6",1,5,-4,"0,16",Havan Liberty,BR,Ascent,Havan Liberty,Defesa,15,17,Perdedor,9,6,Astra,44483,Grupos,B,Decider,3,LCQ South America
+Maka,Six Karma,LATAM,147,15,26,7,-11,"107,1",2,7,-5,"0,2",Havan Liberty,BR,Ascent,Havan Liberty,Defesa,15,17,Perdedor,9,6,Killjoy,44483,Grupos,B,Decider,3,LCQ South America
+kiNgg,Australs,LATAM,262,19,16,6,3,"177,6",3,4,-1,"0,1",Havan Liberty,BR,Split,Australs,Ataque,13,9,Vencedor,7,6,Raze,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Tacolilla,Australs,LATAM,206,16,15,6,1,"128,1",2,1,1,"0,24",Havan Liberty,BR,Split,Australs,Ataque,13,9,Vencedor,7,6,Sage,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Melser,Australs,LATAM,201,16,10,7,6,"140,8",1,3,-2,"0,31",Havan Liberty,BR,Split,Australs,Ataque,13,9,Vencedor,7,6,Astra,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Capi,Australs,LATAM,160,13,13,2,0,"112,4",1,1,0,"0,22",Havan Liberty,BR,Split,Australs,Ataque,13,9,Vencedor,7,6,Cypher,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+adverso,Australs,LATAM,156,12,15,7,-3,"103,3",2,4,-2,"0,19",Havan Liberty,BR,Split,Australs,Ataque,13,9,Vencedor,7,6,Reyna,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+krain,Havan Liberty,BR,225,17,17,7,0,"150,9",1,1,0,"0,2",Australs,LATAM,Split,Australs,Defesa,9,13,Perdedor,4,5,Skye,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+shion,Havan Liberty,BR,202,15,16,6,-1,126,4,5,-1,"0,14",Australs,LATAM,Split,Australs,Defesa,9,13,Perdedor,4,5,Raze,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Myssen,Havan Liberty,BR,201,16,14,2,2,"141,7",6,1,5,"0,44",Australs,LATAM,Split,Australs,Defesa,9,13,Perdedor,4,5,Viper,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+pleets,Havan Liberty,BR,166,13,15,6,-2,"110,2",2,2,0,"0,11",Australs,LATAM,Split,Australs,Defesa,9,13,Perdedor,4,5,Astra,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+liazzi,Havan Liberty,BR,131,8,14,2,-6,"99,1",0,0,0,"0,27",Australs,LATAM,Split,Australs,Defesa,9,13,Perdedor,4,5,Killjoy,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Melser,Australs,LATAM,306,21,12,4,9,"189,8",4,2,2,"0,24",Havan Liberty,BR,Icebox,Havan Liberty,Ataque,13,7,Vencedor,10,3,Reyna,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+kiNgg,Australs,LATAM,233,18,10,7,8,"140,6",4,1,3,"0,22",Havan Liberty,BR,Icebox,Havan Liberty,Ataque,13,7,Vencedor,10,3,Viper,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Tacolilla,Australs,LATAM,224,15,12,4,3,"193,9",2,1,1,"0,23",Havan Liberty,BR,Icebox,Havan Liberty,Ataque,13,7,Vencedor,10,3,Jett,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Capi,Australs,LATAM,170,14,10,10,4,"110,1",1,3,-2,"0,29",Havan Liberty,BR,Icebox,Havan Liberty,Ataque,13,7,Vencedor,10,3,Sage,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+adverso,Australs,LATAM,168,12,11,4,1,"119,6",0,2,-2,"0,18",Havan Liberty,BR,Icebox,Havan Liberty,Ataque,13,7,Vencedor,10,3,Sova,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+shion,Havan Liberty,BR,268,17,16,8,1,"171,4",2,0,2,"0,2",Australs,LATAM,Icebox,Havan Liberty,Defesa,7,13,Perdedor,2,5,Breach,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+krain,Havan Liberty,BR,167,12,15,2,-3,"105,1",2,2,0,"0,44",Australs,LATAM,Icebox,Havan Liberty,Defesa,7,13,Perdedor,2,5,Sova,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+liazzi,Havan Liberty,BR,145,10,17,1,-7,"104,2",1,4,-3,"0,2",Australs,LATAM,Icebox,Havan Liberty,Defesa,7,13,Perdedor,2,5,Jett,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+pleets,Havan Liberty,BR,130,9,15,5,-6,"79,6",2,3,-1,"0,15",Australs,LATAM,Icebox,Havan Liberty,Defesa,7,13,Perdedor,2,5,Sage,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Myssen,Havan Liberty,BR,128,7,17,5,-10,"91,5",2,2,0,"0,31",Australs,LATAM,Icebox,Havan Liberty,Defesa,7,13,Perdedor,2,5,Viper,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+mwzera,Gamelanders Blue,BR,253,20,19,4,1,"170,8",4,1,3,"0,12",FURIA,BR,Icebox,Gamelanders Blue,Defesa,13,11,Vencedor,9,4,Raze,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Jonn,Gamelanders Blue,BR,230,19,17,1,2,"153,8",4,3,1,"0,4",FURIA,BR,Icebox,Gamelanders Blue,Defesa,13,11,Vencedor,9,4,Reyna,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+CTC,Gamelanders Blue,BR,193,13,17,9,-4,"140,2",2,0,2,"0,18",FURIA,BR,Icebox,Gamelanders Blue,Defesa,13,11,Vencedor,9,4,Sova,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+BELKY,Gamelanders Blue,BR,129,12,17,7,-5,"93,3",1,3,-2,"0,18",FURIA,BR,Icebox,Gamelanders Blue,Defesa,13,11,Vencedor,9,4,Astra,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Nyang,Gamelanders Blue,BR,73,6,16,6,-10,"60,7",2,4,-2,"0,24",FURIA,BR,Icebox,Gamelanders Blue,Defesa,13,11,Vencedor,9,4,Sage,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Mazin,FURIA,BR,240,21,14,8,7,"195,1",0,4,-4,"0,42",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,11,13,Perdedor,8,3,Viper,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Quick,FURIA,BR,232,19,16,4,3,146,4,3,1,"0,23",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,11,13,Perdedor,8,3,Sage,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+xand,FURIA,BR,217,17,14,4,3,"185,2",4,2,2,"0,2",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,11,13,Perdedor,8,3,Jett,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Nozwerr,FURIA,BR,188,15,15,8,0,"109,5",2,1,1,"0,14",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,11,13,Perdedor,8,3,Sova,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Khalil,FURIA,BR,165,14,11,2,3,"110,3",1,3,-2,"0,27",Gamelanders Blue,BR,Icebox,Gamelanders Blue,Ataque,11,13,Perdedor,8,3,Killjoy,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Nyang,Gamelanders Blue,BR,225,13,15,8,-2,"160,7",0,3,-3,"0,15",FURIA,BR,Ascent,FURIA,Defesa,5,13,Perdedor,3,2,Kay/O,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+CTC,Gamelanders Blue,BR,200,12,15,4,-3,"181,2",0,3,-3,"0,14",FURIA,BR,Ascent,FURIA,Defesa,5,13,Perdedor,3,2,Sova,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Jonn,Gamelanders Blue,BR,192,11,17,4,-6,"138,4",0,3,-3,"0,26",FURIA,BR,Ascent,FURIA,Defesa,5,13,Perdedor,3,2,Jett,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+BELKY,Gamelanders Blue,BR,180,13,15,3,-2,"107,8",1,4,-3,"0,28",FURIA,BR,Ascent,FURIA,Defesa,5,13,Perdedor,3,2,Astra,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+mwzera,Gamelanders Blue,BR,141,7,17,6,-10,"99,9",2,2,0,"0,12",FURIA,BR,Ascent,FURIA,Defesa,5,13,Perdedor,3,2,Skye,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+xand,FURIA,BR,316,22,13,5,9,"215,3",5,1,4,"0,35",Gamelanders Blue,BR,Ascent,FURIA,Ataque,13,5,Vencedor,10,3,Jett,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Khalil,FURIA,BR,261,17,9,4,8,"177,8",2,0,2,"0,24",Gamelanders Blue,BR,Ascent,FURIA,Ataque,13,5,Vencedor,10,3,Killjoy,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Mazin,FURIA,BR,235,16,9,8,7,"156,3",4,0,4,"0,38",Gamelanders Blue,BR,Ascent,FURIA,Ataque,13,5,Vencedor,10,3,Astra,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Quick,FURIA,BR,185,11,14,10,-3,"129,8",4,2,2,"0,17",Gamelanders Blue,BR,Ascent,FURIA,Ataque,13,5,Vencedor,10,3,Sage,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Nozwerr,FURIA,BR,169,13,11,6,2,"105,1",0,0,0,"0,14",Gamelanders Blue,BR,Ascent,FURIA,Ataque,13,5,Vencedor,10,3,Sova,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Jonn,Gamelanders Blue,BR,337,27,14,3,13,213,3,4,-1,"0,33",FURIA,BR,Split,Gamelanders Blue,Ataque,8,13,Perdedor,2,6,Jett,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+mwzera,Gamelanders Blue,BR,248,16,18,9,-2,"178,9",4,3,1,"0,1",FURIA,BR,Split,Gamelanders Blue,Ataque,8,13,Perdedor,2,6,Raze,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Nyang,Gamelanders Blue,BR,231,19,13,6,6,"141,2",0,1,-1,"0,2",FURIA,BR,Split,Gamelanders Blue,Ataque,8,13,Perdedor,2,6,Viper,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+BELKY,Gamelanders Blue,BR,102,8,16,7,-8,"67,4",1,2,-1,"0,11",FURIA,BR,Split,Gamelanders Blue,Ataque,8,13,Perdedor,2,6,Astra,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+CTC,Gamelanders Blue,BR,82,5,17,3,-12,69,0,3,-3,"0,18",FURIA,BR,Split,Gamelanders Blue,Ataque,8,13,Perdedor,2,6,Cypher,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+xand,FURIA,BR,268,20,13,4,7,"173,6",5,2,3,"0,17",Gamelanders Blue,BR,Split,Gamelanders Blue,Defesa,13,8,Vencedor,3,10,Jett,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Nozwerr,FURIA,BR,251,17,17,7,0,"175,5",2,5,-3,"0,16",Gamelanders Blue,BR,Split,Gamelanders Blue,Defesa,13,8,Vencedor,3,10,Raze,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Khalil,FURIA,BR,223,20,13,3,7,"154,1",2,0,2,"0,3",Gamelanders Blue,BR,Split,Gamelanders Blue,Defesa,13,8,Vencedor,3,10,Killjoy,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Mazin,FURIA,BR,184,13,16,11,-3,"136,3",2,1,1,"0,33",Gamelanders Blue,BR,Split,Gamelanders Blue,Defesa,13,8,Vencedor,3,10,Astra,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Quick,FURIA,BR,116,8,17,9,-9,"69,2",2,0,2,"0,05",Gamelanders Blue,BR,Split,Gamelanders Blue,Defesa,13,8,Vencedor,3,10,Viper,44485,Playoffs,Grupo,Semifinals,3,LCQ South America
+Melser,Australs,LATAM,244,12,13,1,-1,"141,9",4,1,3,"0,28",FURIA,BR,Icebox,Australs,Defesa,2,13,Perdedor,0,2,Reyna,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+adverso,Australs,LATAM,186,7,15,3,-8,"132,9",1,3,-2,"0,19",FURIA,BR,Icebox,Australs,Defesa,2,13,Perdedor,0,2,Sova,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+kiNgg,Australs,LATAM,174,9,13,1,-4,"119,5",1,0,1,"0,32",FURIA,BR,Icebox,Australs,Defesa,2,13,Perdedor,0,2,Viper,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Tacolilla,Australs,LATAM,94,3,14,4,-11,"73,5",0,2,-2,"0,17",FURIA,BR,Icebox,Australs,Defesa,2,13,Perdedor,0,2,Jett,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Capi,Australs,LATAM,71,4,14,2,-10,"39,2",1,2,-1,"0,17",FURIA,BR,Icebox,Australs,Defesa,2,13,Perdedor,0,2,Sage,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Khalil,FURIA,BR,414,23,4,5,19,"285,1",2,0,2,"0,18",Australs,LATAM,Icebox,Australs,Ataque,13,2,Vencedor,10,3,Killjoy,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Nozwerr,FURIA,BR,395,23,6,5,17,"251,1",2,0,2,"0,2",Australs,LATAM,Icebox,Australs,Ataque,13,2,Vencedor,10,3,Sova,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Mazin,FURIA,BR,169,9,9,6,0,"178,5",2,2,0,"0,24",Australs,LATAM,Icebox,Australs,Ataque,13,2,Vencedor,10,3,Viper,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+xand,FURIA,BR,157,7,9,4,-2,"105,2",1,4,-3,"0,16",Australs,LATAM,Icebox,Australs,Ataque,13,2,Vencedor,10,3,Jett,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Quick,FURIA,BR,105,7,7,9,0,"69,9",1,1,0,"0,12",Australs,LATAM,Icebox,Australs,Ataque,13,2,Vencedor,10,3,Sage,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+kiNgg,Australs,LATAM,222,14,15,4,-1,"141,2",5,2,3,"0,27",FURIA,BR,Ascent,FURIA,Ataque,6,13,Perdedor,3,3,Sage,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Melser,Australs,LATAM,210,14,14,6,0,"134,5",4,1,3,"0,3",FURIA,BR,Ascent,FURIA,Ataque,6,13,Perdedor,3,3,Omen,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Tacolilla,Australs,LATAM,207,15,14,7,1,"120,1",2,1,1,"0,19",FURIA,BR,Ascent,FURIA,Ataque,6,13,Perdedor,3,3,Jett,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+adverso,Australs,LATAM,142,8,18,8,-10,"99,2",0,2,-2,"0,2",FURIA,BR,Ascent,FURIA,Ataque,6,13,Perdedor,3,3,Sova,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Capi,Australs,LATAM,122,8,16,1,-8,"75,2",0,2,-2,"0,21",FURIA,BR,Ascent,FURIA,Ataque,6,13,Perdedor,3,3,Cypher,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+xand,FURIA,BR,320,22,13,1,9,"185,6",4,3,1,"0,2",Australs,LATAM,Ascent,FURIA,Defesa,13,6,Vencedor,4,9,Jett,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Khalil,FURIA,BR,282,19,9,5,10,"171,5",2,1,1,"0,2",Australs,LATAM,Ascent,FURIA,Defesa,13,6,Vencedor,4,9,Killjoy,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Quick,FURIA,BR,234,15,12,7,3,"166,6",1,0,1,"0,28",Australs,LATAM,Ascent,FURIA,Defesa,13,6,Vencedor,4,9,Sage,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Nozwerr,FURIA,BR,177,10,12,6,-2,"142,3",0,3,-3,"0,16",Australs,LATAM,Ascent,FURIA,Defesa,13,6,Vencedor,4,9,Sova,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Mazin,FURIA,BR,142,11,13,6,-2,"93,7",1,4,-3,"0,23",Australs,LATAM,Ascent,FURIA,Defesa,13,6,Vencedor,4,9,Astra,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+adverso,Australs,LATAM,213,12,15,2,-3,"140,2",1,4,-3,"0,2",FURIA,BR,Split,Australs,Ataque,5,13,Perdedor,3,2,Reyna,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Tacolilla,Australs,LATAM,191,12,15,4,-3,"118,6",3,2,1,"0,17",FURIA,BR,Split,Australs,Ataque,5,13,Perdedor,3,2,Sage,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+kiNgg,Australs,LATAM,177,12,16,0,-4,"111,8",3,4,-1,"0,4",FURIA,BR,Split,Australs,Ataque,5,13,Perdedor,3,2,Raze,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Melser,Australs,LATAM,118,5,14,4,-9,"93,2",0,1,-1,"0,17",FURIA,BR,Split,Australs,Ataque,5,13,Perdedor,3,2,Astra,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Capi,Australs,LATAM,83,6,15,3,-9,"60,1",0,0,0,"0,14",FURIA,BR,Split,Australs,Ataque,5,13,Perdedor,3,2,Cypher,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Quick,FURIA,BR,331,22,10,6,12,"194,4",2,1,1,"0,17",Australs,LATAM,Split,Australs,Defesa,13,5,Vencedor,4,9,Viper,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Nozwerr,FURIA,BR,285,18,9,6,9,"184,8",4,3,1,"0,14",Australs,LATAM,Split,Australs,Defesa,13,5,Vencedor,4,9,Raze,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Mazin,FURIA,BR,224,17,8,6,9,"186,6",0,1,-1,"0,23",Australs,LATAM,Split,Australs,Defesa,13,5,Vencedor,4,9,Astra,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+xand,FURIA,BR,194,12,11,5,1,"132,4",4,1,3,"0,21",Australs,LATAM,Split,Australs,Defesa,13,5,Vencedor,4,9,Jett,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
+Khalil,FURIA,BR,116,6,9,3,-3,"89,3",1,1,0,"0,05",Australs,LATAM,Split,Australs,Defesa,13,5,Vencedor,4,9,Killjoy,44486,Playoffs,Grupo,Grand Final,5,LCQ South America
