@@ -20,4 +20,5 @@ As informações levantadas foram extraídas do  [www.vlr.gg](http://www.vlr.gg/
 
 ##  Atualização dos CSVs
 
+-   24/abr/22: Import CSV do Masters Reykjavík 2022
 -   17/out/21: Import de todos os CSV's

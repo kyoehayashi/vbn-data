@@ -1,0 +1,601 @@
+Player,Time,Região,ACS,K,D (not),D,A,K - D,ADR,FK,FD,FK-FD,HS%,Adv.,Reg. Adv.,Mapa,Mapa Pick,Lado de Início,R. Win,R. Lose,Result,R. Att.,R. Def.,Agente,Classe,Data,Etapa,Grupo,Bracket
+MaKo,DRX,Korea,386,23,/7/,7,3,16,259,2,1,1,"0,28",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,13,2,W,10,3,Viper,Controlador,10/04,Group,A,Opening (A)
+stax,DRX,Korea,237,12,/11/,11,13,1,144,1,0,1,"0,32",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,13,2,W,10,3,Kay/O,Iniciador,10/04,Group,A,Opening (A)
+BuZz,DRX,Korea,214,10,/12/,12,2,-2,124,4,2,2,"0,28",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,13,2,W,10,3,Jett,Duelista,10/04,Group,A,Opening (A)
+Zest,DRX,Korea,200,12,/6/,6,4,6,129,2,2,0,"0,43",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,13,2,W,10,3,Sova,Iniciador,10/04,Group,A,Opening (A)
+Rb,DRX,Korea,160,8,/11/,11,8,-3,108,0,1,-1,"0,32",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,13,2,W,10,3,Sage,Sentinela,10/04,Group,A,Opening (A)
+Laz,ZETA DIVISION,Japan,252,13,/13/,13,5,0,194,3,1,2,"0,33",DRX,Korea,Fracture,ZETA DIVISION,Defesa,2,13,L,2,0,Chamber,Sentinela,10/04,Group,A,Opening (A)
+SugarZ3ro,ZETA DIVISION,Japan,209,9,/13/,13,7,-4,151,1,1,0,"0,35",DRX,Korea,Fracture,ZETA DIVISION,Defesa,2,13,L,2,0,Viper,Controlador,10/04,Group,A,Opening (A)
+crow,ZETA DIVISION,Japan,181,10,/13/,13,4,-3,127,0,1,-1,"0,32",DRX,Korea,Fracture,ZETA DIVISION,Defesa,2,13,L,2,0,Sova,Iniciador,10/04,Group,A,Opening (A)
+Dep,ZETA DIVISION,Japan,168,8,/14/,14,2,-6,107,1,1,0,"0,53",DRX,Korea,Fracture,ZETA DIVISION,Defesa,2,13,L,2,0,Jett,Duelista,10/04,Group,A,Opening (A)
+TENNN,ZETA DIVISION,Japan,151,7,/12/,12,4,-5,110,1,5,-4,"0,36",DRX,Korea,Fracture,ZETA DIVISION,Defesa,2,13,L,2,0,Sage,Sentinela,10/04,Group,A,Opening (A)
+BuZz,DRX,Korea,331,18,/11/,11,6,7,201,3,2,1,"0,27",ZETA DIVISION,Japan,Haven,DRX,Ataque,13,3,W,11,2,Killjoy,Sentinela,10/04,Group,A,Opening (A)
+Rb,DRX,Korea,277,17,/10/,10,3,7,161,3,3,0,"0,13",ZETA DIVISION,Japan,Haven,DRX,Ataque,13,3,W,11,2,Jett,Duelista,10/04,Group,A,Opening (A)
+MaKo,DRX,Korea,226,14,/5/,5,6,9,137,0,1,-1,"0,56",ZETA DIVISION,Japan,Haven,DRX,Ataque,13,3,W,11,2,Omen,Controlador,10/04,Group,A,Opening (A)
+Zest,DRX,Korea,189,11,/8/,8,6,3,127,1,2,-1,"0,28",ZETA DIVISION,Japan,Haven,DRX,Ataque,13,3,W,11,2,Sova,Iniciador,10/04,Group,A,Opening (A)
+stax,DRX,Korea,168,10,/7/,7,8,3,127,1,0,1,"0,4",ZETA DIVISION,Japan,Haven,DRX,Ataque,13,3,W,11,2,Breach,Iniciador,10/04,Group,A,Opening (A)
+Laz,ZETA DIVISION,Japan,253,16,/12/,12,1,4,145,2,1,1,"0,3",DRX,Korea,Haven,DRX,Defesa,3,13,L,2,1,Killjoy,Sentinela,10/04,Group,A,Opening (A)
+crow,ZETA DIVISION,Japan,139,7,/13/,13,3,-6,106,1,0,1,"0,29",DRX,Korea,Haven,DRX,Defesa,3,13,L,2,1,Breach,Iniciador,10/04,Group,A,Opening (A)
+SugarZ3ro,ZETA DIVISION,Japan,138,6,/14/,14,5,-8,89,0,2,-2,"0,27",DRX,Korea,Haven,DRX,Defesa,3,13,L,2,1,Astra,Controlador,10/04,Group,A,Opening (A)
+Dep,ZETA DIVISION,Japan,133,6,/16/,16,2,-10,86,3,4,-1,"0,23",DRX,Korea,Haven,DRX,Defesa,3,13,L,2,1,Jett,Duelista,10/04,Group,A,Opening (A)
+TENNN,ZETA DIVISION,Japan,113,6,/15/,15,2,-9,87,2,1,1,"0,3",DRX,Korea,Haven,DRX,Defesa,3,13,L,2,1,Skye,Iniciador,10/04,Group,A,Opening (A)
+delz1k,KRU Esports,LATAM,204,11,/14/,14,5,-3,138,2,1,1,"0,27",Team Liquid,EMEA,Fracture,KRU Esports,Defesa,5,13,L,0,5,Brimstone,Controlador,10/04,Group,B,Opening (B)
+Klaus,KRU Esports,LATAM,169,10,/14/,14,2,-4,109,0,0,0,"0,21",Team Liquid,EMEA,Fracture,KRU Esports,Defesa,5,13,L,0,5,Breach,Iniciador,10/04,Group,B,Opening (B)
+Mazino,KRU Esports,LATAM,166,10,/14/,14,1,-4,112,0,1,-1,"0,17",Team Liquid,EMEA,Fracture,KRU Esports,Defesa,5,13,L,0,5,Sage,Sentinela,10/04,Group,B,Opening (B)
+keznit,KRU Esports,LATAM,135,8,/15/,15,2,-7,82,3,6,-3,"0,19",Team Liquid,EMEA,Fracture,KRU Esports,Defesa,5,13,L,0,5,Jett,Duelista,10/04,Group,B,Opening (B)
+NagZ,KRU Esports,LATAM,132,8,/15/,15,1,-7,74,1,4,-3,"0,28",Team Liquid,EMEA,Fracture,KRU Esports,Defesa,5,13,L,0,5,Chamber,Sentinela,10/04,Group,B,Opening (B)
+Jamppi,Team Liquid,EMEA,282,19,/9/,9,2,10,181,1,2,-1,"0,24",KRU Esports,LATAM,Fracture,KRU Esports,Ataque,13,5,W,10,8,Breach,Iniciador,10/04,Group,B,Opening (B)
+soulcas,Team Liquid,EMEA,217,14,/11/,11,4,3,141,3,0,3,"0,13",KRU Esports,LATAM,Fracture,KRU Esports,Ataque,13,5,W,10,8,Neon,Duelista,10/04,Group,B,Opening (B)
+Nivera,Team Liquid,EMEA,205,14,/9/,9,2,5,128,5,2,3,"0,23",KRU Esports,LATAM,Fracture,KRU Esports,Ataque,13,5,W,10,8,Chamber,Sentinela,10/04,Group,B,Opening (B)
+L1NK,Team Liquid,EMEA,202,12,/8/,8,8,4,126,2,0,2,"0,4",KRU Esports,LATAM,Fracture,KRU Esports,Ataque,13,5,W,10,8,Brimstone,Controlador,10/04,Group,B,Opening (B)
+ScreaM,Team Liquid,EMEA,197,13,/10/,10,2,3,134,1,2,-1,"0,42",KRU Esports,LATAM,Fracture,KRU Esports,Ataque,13,5,W,10,8,Jett,Duelista,10/04,Group,B,Opening (B)
+keznit,KRU Esports,LATAM,253,28,/21/,21,4,7,158,5,3,2,"0,28",Team Liquid,EMEA,Ascent,Team Liquid,Defesa,14,16,L,7,7,Chamber,Sentinela,10/04,Group,B,Opening (B)
+delz1k,KRU Esports,LATAM,218,24,/24/,24,9,0,143,3,2,1,"0,4",Team Liquid,EMEA,Ascent,Team Liquid,Defesa,14,16,L,7,7,Omen,Controlador,10/04,Group,B,Opening (B)
+NagZ,KRU Esports,LATAM,207,24,/19/,19,3,5,135,5,6,-1,"0,2",Team Liquid,EMEA,Ascent,Team Liquid,Defesa,14,16,L,7,7,Jett,Duelista,10/04,Group,B,Opening (B)
+Klaus,KRU Esports,LATAM,186,17,/22/,22,19,-5,125,0,2,-2,"0,23",Team Liquid,EMEA,Ascent,Team Liquid,Defesa,14,16,L,7,7,Kay/O,Iniciador,10/04,Group,B,Opening (B)
+Mazino,KRU Esports,LATAM,185,16,/26/,26,10,-10,134,3,1,2,"0,15",Team Liquid,EMEA,Ascent,Team Liquid,Defesa,14,16,L,7,7,Sova,Iniciador,10/04,Group,B,Opening (B)
+L1NK,Team Liquid,EMEA,243,29,/20/,20,8,9,160,0,1,-1,"0,38",KRU Esports,LATAM,Ascent,Team Liquid,Ataque,16,14,W,8,8,Omen,Controlador,10/04,Group,B,Opening (B)
+Nivera,Team Liquid,EMEA,240,26,/22/,22,5,4,156,3,3,0,"0,17",KRU Esports,LATAM,Ascent,Team Liquid,Ataque,16,14,W,8,8,Killjoy,Sentinela,10/04,Group,B,Opening (B)
+ScreaM,Team Liquid,EMEA,238,24,/22/,22,14,2,159,2,3,-1,"0,42",KRU Esports,LATAM,Ascent,Team Liquid,Ataque,16,14,W,8,8,Kay/O,Iniciador,10/04,Group,B,Opening (B)
+Jamppi,Team Liquid,EMEA,204,20,/23/,23,10,-3,136,8,8,0,"0,16",KRU Esports,LATAM,Ascent,Team Liquid,Ataque,16,14,W,8,8,Jett,Duelista,10/04,Group,B,Opening (B)
+soulcas,Team Liquid,EMEA,161,13,/22/,22,16,-9,127,1,1,0,"0,26",KRU Esports,LATAM,Ascent,Team Liquid,Ataque,16,14,W,8,8,Sova,Iniciador,10/04,Group,B,Opening (B)
+yay,OpTic Gaming,NA,240,19,/16/,16,6,3,155,3,5,-2,"0,34",XERXIA,APAC,Icebox,XERXIA,Defesa,10,13,L,5,5,Chamber,Sentinela,10/04,Group,B,Opening (B)
+Marved,OpTic Gaming,NA,229,18,/18/,18,3,0,145,2,2,0,"0,35",XERXIA,APAC,Icebox,XERXIA,Defesa,10,13,L,5,5,Viper,Controlador,10/04,Group,B,Opening (B)
+Victor,OpTic Gaming,NA,191,14,/16/,16,10,-2,121,1,0,1,"0,28",XERXIA,APAC,Icebox,XERXIA,Defesa,10,13,L,5,5,Kay/O,Iniciador,10/04,Group,B,Opening (B)
+crashies,OpTic Gaming,NA,169,14,/15/,15,5,-1,109,2,2,0,"0,33",XERXIA,APAC,Icebox,XERXIA,Defesa,10,13,L,5,5,Sova,Iniciador,10/04,Group,B,Opening (B)
+FNS,OpTic Gaming,NA,91,8,/17/,17,4,-9,53,2,4,-2,"0,29",XERXIA,APAC,Icebox,XERXIA,Defesa,10,13,L,5,5,Sage,Sentinela,10/04,Group,B,Opening (B)
+sScary,XERXIA,APAC,280,23,/14/,14,9,9,181,2,1,1,"0,35",OpTic Gaming,NA,Icebox,XERXIA,Ataque,13,10,W,7,6,Viper,Controlador,10/04,Group,B,Opening (B)
+Surf,XERXIA,APAC,233,21,/12/,12,2,9,190,3,1,2,"0,27",OpTic Gaming,NA,Icebox,XERXIA,Ataque,13,10,W,7,6,Jett,Duelista,10/04,Group,B,Opening (B)
+Sushiboys,XERXIA,APAC,189,16,/17/,17,3,-1,121,4,3,1,"0,21",OpTic Gaming,NA,Icebox,XERXIA,Ataque,13,10,W,7,6,Killjoy,Sentinela,10/04,Group,B,Opening (B)
+foxz,XERXIA,APAC,177,14,/14/,14,3,0,124,0,0,0,"0,2",OpTic Gaming,NA,Icebox,XERXIA,Ataque,13,10,W,7,6,Sova,Iniciador,10/04,Group,B,Opening (B)
+Crws,XERXIA,APAC,108,8,/16/,16,5,-8,69,4,5,-1,"0,28",OpTic Gaming,NA,Icebox,XERXIA,Ataque,13,10,W,7,6,Sage,Sentinela,10/04,Group,B,Opening (B)
+crashies,OpTic Gaming,NA,213,18,/14/,14,4,4,148,1,1,0,"0,27",XERXIA,APAC,Ascent,OpTic Gaming,Ataque,10,13,L,4,6,Sova,Iniciador,10/04,Group,B,Opening (B)
+Victor,OpTic Gaming,NA,204,16,/18/,18,9,-2,143,0,2,-2,"0,26",XERXIA,APAC,Ascent,OpTic Gaming,Ataque,10,13,L,4,6,Kay/O,Iniciador,10/04,Group,B,Opening (B)
+yay,OpTic Gaming,NA,201,17,/17/,17,4,0,105,8,5,3,"0,07",XERXIA,APAC,Ascent,OpTic Gaming,Ataque,10,13,L,4,6,Jett,Duelista,10/04,Group,B,Opening (B)
+Marved,OpTic Gaming,NA,182,13,/19/,19,11,-6,117,2,1,1,"0,3",XERXIA,APAC,Ascent,OpTic Gaming,Ataque,10,13,L,4,6,Brimstone,Controlador,10/04,Group,B,Opening (B)
+FNS,OpTic Gaming,NA,133,11,/15/,15,3,-4,97,2,1,1,"0,16",XERXIA,APAC,Ascent,OpTic Gaming,Ataque,10,13,L,4,6,Killjoy,Sentinela,10/04,Group,B,Opening (B)
+Surf,XERXIA,APAC,262,20,/14/,14,2,6,163,5,4,1,"0,25",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,13,10,W,5,8,Jett,Duelista,10/04,Group,B,Opening (B)
+foxz,XERXIA,APAC,233,19,/16/,16,8,3,162,0,1,-1,"0,19",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,13,10,W,5,8,Sova,Iniciador,10/04,Group,B,Opening (B)
+Sushiboys,XERXIA,APAC,228,20,/14/,14,3,6,151,2,2,0,"0,22",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,13,10,W,5,8,Killjoy,Sentinela,10/04,Group,B,Opening (B)
+sScary,XERXIA,APAC,182,13,/14/,14,15,-1,99,2,1,1,"0,11",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,13,10,W,5,8,Omen,Controlador,10/04,Group,B,Opening (B)
+Crws,XERXIA,APAC,141,11,/17/,17,6,-6,105,1,5,-4,"0,25",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,13,10,W,5,8,Sage,Sentinela,10/04,Group,B,Opening (B)
+Fearoth,Fnatic,EMEA,282,19,/15/,4,4,15,0,0,189,-189,"0,34",Ninjas In Pyjamas,Brazil,Ascent,Fnatic,Ataque,7,13,L,3,4,Sova,Iniciador,11/04,Group,A,Opening (A)
+H1ber,Fnatic,EMEA,277,18,/16/,3,2,15,3,3,171,-168,"0,35",Ninjas In Pyjamas,Brazil,Ascent,Fnatic,Ataque,7,13,L,3,4,Jett,Duelista,11/04,Group,A,Opening (A)
+Mistic,Fnatic,EMEA,170,12,/15/,4,-3,8,1,-1,113,-114,"0,28",Ninjas In Pyjamas,Brazil,Ascent,Fnatic,Ataque,7,13,L,3,4,Omen,Controlador,11/04,Group,A,Opening (A)
+MAGNUM,Fnatic,EMEA,166,12,/16/,3,-4,9,5,-3,103,-106,"0,33",Ninjas In Pyjamas,Brazil,Ascent,Fnatic,Ataque,7,13,L,3,4,Killjoy,Sentinela,11/04,Group,A,Opening (A)
+Boaster,Fnatic,EMEA,88,5,/14/,7,-9,-2,2,-1,70,-71,"0,29",Ninjas In Pyjamas,Brazil,Ascent,Fnatic,Ataque,7,13,L,3,4,Kay/O,Iniciador,11/04,Group,A,Opening (A)
+Jonn,Ninjas In Pyjamas,Brazil,265,18,/15/,3,3,15,2,3,164,-161,"0,35",Fnatic,EMEA,Ascent,Fnatic,Defesa,13,7,W,4,9,Jett,Duelista,11/04,Group,A,Opening (A)
+xand,Ninjas In Pyjamas,Brazil,263,20,/12/,6,8,14,2,1,154,-153,"0,27",Fnatic,EMEA,Ascent,Fnatic,Defesa,13,7,W,4,9,Kay/O,Iniciador,11/04,Group,A,Opening (A)
+bnj,Ninjas In Pyjamas,Brazil,236,19,/10/,6,9,13,1,-1,148,-149,"0,21",Fnatic,EMEA,Ascent,Fnatic,Defesa,13,7,W,4,9,Omen,Controlador,11/04,Group,A,Opening (A)
+cauanzin,Ninjas In Pyjamas,Brazil,162,10,/15/,9,-5,1,2,0,102,-102,"0,2",Fnatic,EMEA,Ascent,Fnatic,Defesa,13,7,W,4,9,Sova,Iniciador,11/04,Group,A,Opening (A)
+bezn1,Ninjas In Pyjamas,Brazil,154,9,/14/,7,-5,2,2,-1,113,-114,"0,28",Fnatic,EMEA,Ascent,Fnatic,Defesa,13,7,W,4,9,Killjoy,Sentinela,11/04,Group,A,Opening (A)
+Fearoth,Fnatic,EMEA,242,17,/14/,14,5,3,158,4,1,3,"0,22",Ninjas In Pyjamas,Brazil,Split,Ninjas In Pyjamas,Defesa,8,13,L,4,4,Sage,Sentinela,11/04,Group,A,Opening (A)
+MAGNUM,Fnatic,EMEA,217,14,/16/,16,8,-2,137,2,3,-1,"0,21",Ninjas In Pyjamas,Brazil,Split,Ninjas In Pyjamas,Defesa,8,13,L,4,4,Viper,Controlador,11/04,Group,A,Opening (A)
+Mistic,Fnatic,EMEA,178,14,/13/,13,3,1,130,2,1,1,"0,43",Ninjas In Pyjamas,Brazil,Split,Ninjas In Pyjamas,Defesa,8,13,L,4,4,Omen,Controlador,11/04,Group,A,Opening (A)
+H1ber,Fnatic,EMEA,167,9,/18/,18,10,-9,130,1,4,-3,"0,11",Ninjas In Pyjamas,Brazil,Split,Ninjas In Pyjamas,Defesa,8,13,L,4,4,Raze,Duelista,11/04,Group,A,Opening (A)
+Boaster,Fnatic,EMEA,146,11,/16/,16,3,-5,78,0,3,-3,"0,13",Ninjas In Pyjamas,Brazil,Split,Ninjas In Pyjamas,Defesa,8,13,L,4,4,Skye,Iniciador,11/04,Group,A,Opening (A)
+xand,Ninjas In Pyjamas,Brazil,269,20,/15/,15,4,5,177,6,2,4,"0,22",Fnatic,EMEA,Split,Ninjas In Pyjamas,Ataque,13,8,W,8,5,Raze,Duelista,11/04,Group,A,Opening (A)
+Jonn,Ninjas In Pyjamas,Brazil,248,19,/13/,13,7,6,170,1,4,-3,"0,35",Fnatic,EMEA,Split,Ninjas In Pyjamas,Ataque,13,8,W,8,5,Jett,Duelista,11/04,Group,A,Opening (A)
+bnj,Ninjas In Pyjamas,Brazil,184,15,/10/,10,2,5,117,2,0,2,"0,24",Fnatic,EMEA,Split,Ninjas In Pyjamas,Ataque,13,8,W,8,5,Omen,Controlador,11/04,Group,A,Opening (A)
+bezn1,Ninjas In Pyjamas,Brazil,170,13,/14/,14,6,-1,110,0,1,-1,"0,27",Fnatic,EMEA,Split,Ninjas In Pyjamas,Ataque,13,8,W,8,5,Cypher,Sentinela,11/04,Group,A,Opening (A)
+cauanzin,Ninjas In Pyjamas,Brazil,147,10,/13/,13,4,-3,90,3,2,1,"0,35",Fnatic,EMEA,Split,Ninjas In Pyjamas,Ataque,13,8,W,8,5,Sage,Sentinela,11/04,Group,A,Opening (A)
+Crws,XERXIA,APAC,229,15,/16/,5,-1,10,1,2,141,-139,"0,22",Team Liquid,EMEA,Split,Team Liquid,Defesa,7,13,L,1,6,Breach,Iniciador,11/04,Group,B,Winner's (B)
+foxz,XERXIA,APAC,224,15,/17/,6,-2,9,5,-1,150,-151,"0,21",Team Liquid,EMEA,Split,Team Liquid,Defesa,7,13,L,1,6,Skye,Iniciador,11/04,Group,B,Winner's (B)
+sScary,XERXIA,APAC,175,12,/15/,6,-3,6,2,-2,117,-119,"0,43",Team Liquid,EMEA,Split,Team Liquid,Defesa,7,13,L,1,6,Omen,Controlador,11/04,Group,B,Winner's (B)
+Surf,XERXIA,APAC,139,10,/14/,1,-4,9,2,0,80,-80,"0,11",Team Liquid,EMEA,Split,Team Liquid,Defesa,7,13,L,1,6,Jett,Duelista,11/04,Group,B,Winner's (B)
+Sushiboys,XERXIA,APAC,124,8,/14/,4,-6,4,0,1,82,-81,"0,13",Team Liquid,EMEA,Split,Team Liquid,Defesa,7,13,L,1,6,Killjoy,Sentinela,11/04,Group,B,Winner's (B)
+ScreaM,Team Liquid,EMEA,306,21,/14/,6,7,15,2,2,206,-204,"0,22",XERXIA,APAC,Split,Team Liquid,Ataque,13,7,W,6,7,Sage,Sentinela,11/04,Group,B,Winner's (B)
+Jamppi,Team Liquid,EMEA,241,18,/11/,1,7,17,0,5,140,-135,"0,35",XERXIA,APAC,Split,Team Liquid,Ataque,13,7,W,6,7,Breach,Iniciador,11/04,Group,B,Winner's (B)
+L1NK,Team Liquid,EMEA,220,18,/11/,6,7,12,1,-1,148,-149,"0,24",XERXIA,APAC,Split,Team Liquid,Ataque,13,7,W,6,7,Astra,Controlador,11/04,Group,B,Winner's (B)
+soulcas,Team Liquid,EMEA,205,14,/13/,3,1,11,4,-4,132,-136,"0,27",XERXIA,APAC,Split,Team Liquid,Ataque,13,7,W,6,7,Raze,Duelista,11/04,Group,B,Winner's (B)
+Nivera,Team Liquid,EMEA,67,5,/11/,2,-6,3,3,-2,46,-48,"0,35",XERXIA,APAC,Split,Team Liquid,Ataque,13,7,W,6,7,Cypher,Sentinela,11/04,Group,B,Winner's (B)
+Surf,XERXIA,APAC,256,21,/20/,3,1,18,7,-2,147,-149,"0,29",Team Liquid,EMEA,Icebox,XERXIA,Defesa,13,11,W,7,6,Jett,Duelista,11/04,Group,B,Winner's (B)
+sScary,XERXIA,APAC,248,20,/16/,8,4,12,1,-1,167,-168,"0,26",Team Liquid,EMEA,Icebox,XERXIA,Defesa,13,11,W,7,6,Viper,Controlador,11/04,Group,B,Winner's (B)
+Sushiboys,XERXIA,APAC,239,21,/16/,5,5,16,1,1,164,-163,"0,27",Team Liquid,EMEA,Icebox,XERXIA,Defesa,13,11,W,7,6,Killjoy,Sentinela,11/04,Group,B,Winner's (B)
+foxz,XERXIA,APAC,204,17,/17/,6,0,11,1,0,145,-145,"0,33",Team Liquid,EMEA,Icebox,XERXIA,Defesa,13,11,W,7,6,Sova,Iniciador,11/04,Group,B,Winner's (B)
+Crws,XERXIA,APAC,149,13,/18/,5,-5,8,5,-4,88,-92,"0,23",Team Liquid,EMEA,Icebox,XERXIA,Defesa,13,11,W,7,6,Sage,Sentinela,11/04,Group,B,Winner's (B)
+Jamppi,Team Liquid,EMEA,305,24,/21/,4,3,20,1,0,201,-201,"0,29",XERXIA,APAC,Icebox,XERXIA,Ataque,11,13,L,6,5,Sova,Iniciador,11/04,Group,B,Winner's (B)
+ScreaM,Team Liquid,EMEA,269,23,/20/,5,3,18,4,5,159,-154,"0,23",XERXIA,APAC,Icebox,XERXIA,Ataque,11,13,L,6,5,Jett,Duelista,11/04,Group,B,Winner's (B)
+soulcas,Team Liquid,EMEA,207,15,/18/,13,-3,2,2,1,136,-135,"0,31",XERXIA,APAC,Icebox,XERXIA,Ataque,11,13,L,6,5,Sage,Sentinela,11/04,Group,B,Winner's (B)
+Nivera,Team Liquid,EMEA,152,13,/15/,2,-2,11,2,-1,102,-103,"0,15",XERXIA,APAC,Icebox,XERXIA,Ataque,11,13,L,6,5,Killjoy,Sentinela,11/04,Group,B,Winner's (B)
+L1NK,Team Liquid,EMEA,137,12,/18/,3,-6,9,0,1,105,-104,"0,46",XERXIA,APAC,Icebox,XERXIA,Ataque,11,13,L,6,5,Viper,Controlador,11/04,Group,B,Winner's (B)
+sScary,XERXIA,APAC,254,28,/22/,22,18,6,180,4,0,4,"0,24",Team Liquid,EMEA,Ascent,Times,Ataque,15,17,L,9,6,Omen,Controlador,11/04,Group,B,Winner's (B)
+foxz,XERXIA,APAC,193,20,/26/,26,10,-6,137,1,5,-4,"0,22",Team Liquid,EMEA,Ascent,Times,Ataque,15,17,L,9,6,Sova,Iniciador,11/04,Group,B,Winner's (B)
+Crws,XERXIA,APAC,175,21,/26/,26,5,-5,113,1,4,-3,"0,27",Team Liquid,EMEA,Ascent,Times,Ataque,15,17,L,9,6,Sage,Sentinela,11/04,Group,B,Winner's (B)
+Sushiboys,XERXIA,APAC,156,17,/23/,23,1,-6,110,5,2,3,"0,25",Team Liquid,EMEA,Ascent,Times,Ataque,15,17,L,9,6,Killjoy,Sentinela,11/04,Group,B,Winner's (B)
+Surf,XERXIA,APAC,154,18,/26/,26,2,-8,95,4,6,-2,"0,14",Team Liquid,EMEA,Ascent,Times,Ataque,15,17,L,9,6,Jett,Duelista,11/04,Group,B,Winner's (B)
+Jamppi,Team Liquid,EMEA,270,33,/22/,22,4,11,187,4,8,-4,"0,25",XERXIA,APAC,Ascent,Times,Defesa,17,15,W,9,8,Jett,Duelista,11/04,Group,B,Winner's (B)
+ScreaM,Team Liquid,EMEA,247,24,/19/,19,23,5,162,1,1,0,"0,25",XERXIA,APAC,Ascent,Times,Defesa,17,15,W,9,8,Kay/O,Iniciador,11/04,Group,B,Winner's (B)
+soulcas,Team Liquid,EMEA,242,22,/21/,21,20,1,158,5,2,3,"0,18",XERXIA,APAC,Ascent,Times,Defesa,17,15,W,9,8,Sova,Iniciador,11/04,Group,B,Winner's (B)
+Nivera,Team Liquid,EMEA,197,25,/21/,21,2,4,131,6,2,4,"0,31",XERXIA,APAC,Ascent,Times,Defesa,17,15,W,9,8,Killjoy,Sentinela,11/04,Group,B,Winner's (B)
+L1NK,Team Liquid,EMEA,166,19,/21/,21,10,-2,111,1,2,-1,"0,45",XERXIA,APAC,Ascent,Times,Defesa,17,15,W,9,8,Omen,Controlador,11/04,Group,B,Winner's (B)
+xand,Ninjas In Pyjamas,Brazil,192,12,/12/,12,1,0,106,3,0,3,,DRX,Korea,Icebox,Ninjas In Pyjamas,Defesa,4,13,L,2,2,Jett,Duelista,12/04,Group,A,Winner's (A)
+bezn1,Ninjas In Pyjamas,Brazil,185,9,/14/,14,5,-5,127,2,3,-1,,DRX,Korea,Icebox,Ninjas In Pyjamas,Defesa,4,13,L,2,2,Sage,Sentinela,12/04,Group,A,Winner's (A)
+Jonn,Ninjas In Pyjamas,Brazil,159,9,/16/,16,4,-7,116,1,4,-3,,DRX,Korea,Icebox,Ninjas In Pyjamas,Defesa,4,13,L,2,2,Reyna,Duelista,12/04,Group,A,Winner's (A)
+cauanzin,Ninjas In Pyjamas,Brazil,155,8,/14/,14,6,-6,113,1,2,-1,,DRX,Korea,Icebox,Ninjas In Pyjamas,Defesa,4,13,L,2,2,Sova,Iniciador,12/04,Group,A,Winner's (A)
+bnj,Ninjas In Pyjamas,Brazil,94,5,/13/,13,3,-8,60,1,0,1,,DRX,Korea,Icebox,Ninjas In Pyjamas,Defesa,4,13,L,2,2,Viper,Controlador,12/04,Group,A,Winner's (A)
+MaKo,DRX,Korea,275,15,/7/,7,9,8,168,3,0,3,,Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Ataque,13,4,W,10,3,Viper,Controlador,12/04,Group,A,Winner's (A)
+stax,DRX,Korea,264,15,/7/,7,13,8,162,3,0,3,,Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Ataque,13,4,W,10,3,Kay/O,Iniciador,12/04,Group,A,Winner's (A)
+Rb,DRX,Korea,246,17,/7/,7,2,10,142,0,2,-2,,Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Ataque,13,4,W,10,3,Sage,Sentinela,12/04,Group,A,Winner's (A)
+BuZz,DRX,Korea,201,12,/13/,13,1,-1,113,1,5,-4,,Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Ataque,13,4,W,10,3,Jett,Duelista,12/04,Group,A,Winner's (A)
+Zest,DRX,Korea,171,10,/9/,9,2,1,109,2,1,1,,Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Ataque,13,4,W,10,3,Sage,Sentinela,12/04,Group,A,Winner's (A)
+xand,Ninjas In Pyjamas,Brazil,255,21,/16/,16,1,5,149,4,2,2,,DRX,Korea,Breeze,DRX,Defesa,8,13,L,3,5,Chamber,Sentinela,12/04,Group,A,Winner's (A)
+cauanzin,Ninjas In Pyjamas,Brazil,210,14,/13/,13,3,1,140,1,0,1,,DRX,Korea,Breeze,DRX,Defesa,8,13,L,3,5,Sova,Iniciador,12/04,Group,A,Winner's (A)
+bezn1,Ninjas In Pyjamas,Brazil,160,9,/17/,17,11,-8,111,1,4,-3,,DRX,Korea,Breeze,DRX,Defesa,8,13,L,3,5,Kay/O,Iniciador,12/04,Group,A,Winner's (A)
+Jonn,Ninjas In Pyjamas,Brazil,144,10,/19/,19,2,-9,94,1,3,-2,,DRX,Korea,Breeze,DRX,Defesa,8,13,L,3,5,Jett,Duelista,12/04,Group,A,Winner's (A)
+bnj,Ninjas In Pyjamas,Brazil,116,7,/17/,17,4,-10,73,2,3,-1,,DRX,Korea,Breeze,DRX,Defesa,8,13,L,3,5,Viper,Controlador,12/04,Group,A,Winner's (A)
+Rb,DRX,Korea,279,20,/15/,15,1,5,175,6,3,3,,Ninjas In Pyjamas,Brazil,Breeze,DRX,Ataque,13,8,W,7,6,Jett,Duelista,12/04,Group,A,Winner's (A)
+stax,DRX,Korea,240,18,/12/,12,6,6,166,0,1,-1,,Ninjas In Pyjamas,Brazil,Breeze,DRX,Ataque,13,8,W,7,6,Skye,Iniciador,12/04,Group,A,Winner's (A)
+BuZz,DRX,Korea,230,16,/13/,13,6,3,144,2,3,-1,,Ninjas In Pyjamas,Brazil,Breeze,DRX,Ataque,13,8,W,7,6,Chamber,Sentinela,12/04,Group,A,Winner's (A)
+MaKo,DRX,Korea,212,16,/10/,10,9,6,143,3,1,2,,Ninjas In Pyjamas,Brazil,Breeze,DRX,Ataque,13,8,W,7,6,Viper,Controlador,12/04,Group,A,Winner's (A)
+Zest,DRX,Korea,160,12,/11/,11,5,1,115,1,1,0,,Ninjas In Pyjamas,Brazil,Breeze,DRX,Ataque,13,8,W,7,6,Sova,Iniciador,12/04,Group,A,Winner's (A)
+yay,OpTic Gaming,NA,388,28,/11/,11,2,17,266,3,1,2,"0,33",KRU Esports,LATAM,Bind,KRU Esports,Defesa,13,5,W,5,8,Chamber,Sentinela,12/04,Group,B,Elimination (B)
+Marved,OpTic Gaming,NA,244,16,/10/,10,7,6,155,2,2,0,"0,3",KRU Esports,LATAM,Bind,KRU Esports,Defesa,13,5,W,5,8,Brimstone,Controlador,12/04,Group,B,Elimination (B)
+FNS,OpTic Gaming,NA,209,13,/11/,11,7,2,154,1,0,1,"0,26",KRU Esports,LATAM,Bind,KRU Esports,Defesa,13,5,W,5,8,Viper,Controlador,12/04,Group,B,Elimination (B)
+Victor,OpTic Gaming,NA,189,10,/11/,11,5,-1,137,3,2,1,"0,2",KRU Esports,LATAM,Bind,KRU Esports,Defesa,13,5,W,5,8,Raze,Duelista,12/04,Group,B,Elimination (B)
+crashies,OpTic Gaming,NA,171,10,/9/,9,5,1,110,2,2,0,"0,31",KRU Esports,LATAM,Bind,KRU Esports,Defesa,13,5,W,5,8,Skye,Iniciador,12/04,Group,B,Elimination (B)
+keznit,KRU Esports,LATAM,261,13,/16/,16,7,-3,178,3,2,1,"0,14",OpTic Gaming,NA,Bind,KRU Esports,Ataque,5,13,L,4,1,Raze,Duelista,12/04,Group,B,Elimination (B)
+Klaus,KRU Esports,LATAM,196,13,/15/,15,1,-2,151,1,2,-1,"0,28",OpTic Gaming,NA,Bind,KRU Esports,Ataque,5,13,L,4,1,Viper,Controlador,12/04,Group,B,Elimination (B)
+NagZ,KRU Esports,LATAM,166,10,/15/,15,4,-5,100,3,3,0,"0,29",OpTic Gaming,NA,Bind,KRU Esports,Ataque,5,13,L,4,1,Sage,Sentinela,12/04,Group,B,Elimination (B)
+Mazino,KRU Esports,LATAM,136,8,/17/,17,3,-9,86,0,3,-3,"0,11",OpTic Gaming,NA,Bind,KRU Esports,Ataque,5,13,L,4,1,Skye,Iniciador,12/04,Group,B,Elimination (B)
+delz1k,KRU Esports,LATAM,130,8,/14/,14,4,-6,85,0,1,-1,"0,11",OpTic Gaming,NA,Bind,KRU Esports,Ataque,5,13,L,4,1,Brimstone,Controlador,12/04,Group,B,Elimination (B)
+Marved,OpTic Gaming,NA,267,21,/15/,15,10,6,167,1,2,-1,"0,3",KRU Esports,LATAM,Ascent,OpTic Gaming,Ataque,13,10,W,5,8,Omen,Controlador,12/04,Group,B,Elimination (B)
+yay,OpTic Gaming,NA,239,19,/17/,17,2,2,137,4,7,-3,"0,24",KRU Esports,LATAM,Ascent,OpTic Gaming,Ataque,13,10,W,5,8,Jett,Duelista,12/04,Group,B,Elimination (B)
+crashies,OpTic Gaming,NA,235,18,/14/,14,13,4,158,2,2,0,"0,32",KRU Esports,LATAM,Ascent,OpTic Gaming,Ataque,13,10,W,5,8,Sova,Iniciador,12/04,Group,B,Elimination (B)
+Victor,OpTic Gaming,NA,171,14,/16/,16,12,-2,104,0,2,-2,"0,18",KRU Esports,LATAM,Ascent,OpTic Gaming,Ataque,13,10,W,5,8,Kay/O,Iniciador,12/04,Group,B,Elimination (B)
+FNS,OpTic Gaming,NA,166,12,/18/,18,5,-6,124,1,2,-1,"0,21",KRU Esports,LATAM,Ascent,OpTic Gaming,Ataque,13,10,W,5,8,Killjoy,Sentinela,12/04,Group,B,Elimination (B)
+NagZ,KRU Esports,LATAM,256,22,/18/,18,4,4,165,4,2,2,"0,44",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,10,13,L,3,7,Jett,Duelista,12/04,Group,B,Elimination (B)
+Mazino,KRU Esports,LATAM,179,16,/16/,16,2,0,132,2,2,0,"0,43",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,10,13,L,3,7,Sova,Iniciador,12/04,Group,B,Elimination (B)
+Klaus,KRU Esports,LATAM,178,13,/17/,17,12,-4,108,2,0,2,"0,16",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,10,13,L,3,7,Kay/O,Iniciador,12/04,Group,B,Elimination (B)
+delz1k,KRU Esports,LATAM,169,13,/18/,18,10,-5,104,2,0,2,"0,2",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,10,13,L,3,7,Omen,Controlador,12/04,Group,B,Elimination (B)
+keznit,KRU Esports,LATAM,167,15,/15/,15,2,0,98,5,4,1,"0,41",OpTic Gaming,NA,Ascent,OpTic Gaming,Defesa,10,13,L,3,7,Chamber,Sentinela,12/04,Group,B,Elimination (B)
+H1ber,Fnatic,EMEA,251,16,/19/,19,5,-3,165,4,5,-1,"0,24",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,3,4,Raze,Duelista,12/04,Group,A,Elimination (A)
+Fearoth,Fnatic,EMEA,187,14,/14/,14,5,0,113,3,1,2,"0,25",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,3,4,Viper,Controlador,12/04,Group,A,Elimination (A)
+Mistic,Fnatic,EMEA,183,12,/18/,18,8,-6,123,1,0,1,"0,3",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,3,4,Brimstone,Controlador,12/04,Group,A,Elimination (A)
+MAGNUM,Fnatic,EMEA,172,10,/17/,17,5,-7,117,0,3,-3,"0,18",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,3,4,Cypher,Sentinela,12/04,Group,A,Elimination (A)
+Boaster,Fnatic,EMEA,169,12,/17/,17,5,-5,113,1,2,-1,"0,26",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,3,4,Breach,Iniciador,12/04,Group,A,Elimination (A)
+SugarZ3ro,ZETA DIVISION,Japan,316,24,/12/,12,7,12,207,1,1,0,"0,33",Fnatic,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,4,9,Astra,Controlador,12/04,Group,A,Elimination (A)
+TENNN,ZETA DIVISION,Japan,299,20,/14/,14,4,6,189,4,3,1,"0,13",Fnatic,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,4,9,Raze,Duelista,12/04,Group,A,Elimination (A)
+Laz,ZETA DIVISION,Japan,281,21,/12/,12,3,9,170,4,1,3,"0,34",Fnatic,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,4,9,Chamber,Sentinela,12/04,Group,A,Elimination (A)
+Dep,ZETA DIVISION,Japan,141,11,/14/,14,5,-3,83,2,4,-2,"0,29",Fnatic,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,4,9,Viper,Controlador,12/04,Group,A,Elimination (A)
+crow,ZETA DIVISION,Japan,126,9,/12/,12,7,-3,90,0,0,0,"0,27",Fnatic,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,4,9,Breach,Iniciador,12/04,Group,A,Elimination (A)
+Mistic,Fnatic,EMEA,263,21,/18/,18,12,3,170,3,1,2,"0,29",ZETA DIVISION,Japan,Icebox,Fnatic,Ataque,11,13,L,6,5,Viper,Controlador,12/04,Group,A,Elimination (A)
+H1ber,Fnatic,EMEA,230,20,/20/,20,4,0,149,6,2,4,"0,24",ZETA DIVISION,Japan,Icebox,Fnatic,Ataque,11,13,L,6,5,Chamber,Sentinela,12/04,Group,A,Elimination (A)
+Fearoth,Fnatic,EMEA,207,18,/18/,18,5,0,136,3,1,2,"0,18",ZETA DIVISION,Japan,Icebox,Fnatic,Ataque,11,13,L,6,5,Sova,Iniciador,12/04,Group,A,Elimination (A)
+MAGNUM,Fnatic,EMEA,195,16,/20/,20,5,-4,135,2,2,0,"0,22",ZETA DIVISION,Japan,Icebox,Fnatic,Ataque,11,13,L,6,5,Sage,Sentinela,12/04,Group,A,Elimination (A)
+Boaster,Fnatic,EMEA,132,9,/22/,22,12,-13,91,1,3,-2,"0,18",ZETA DIVISION,Japan,Icebox,Fnatic,Ataque,11,13,L,6,5,Kay/O,Iniciador,12/04,Group,A,Elimination (A)
+Laz,ZETA DIVISION,Japan,338,29,/17/,17,2,12,205,5,2,3,"0,41",Fnatic,EMEA,Icebox,Fnatic,Defesa,13,11,W,7,6,Chamber,Sentinela,12/04,Group,A,Elimination (A)
+SugarZ3ro,ZETA DIVISION,Japan,237,22,/14/,14,9,8,163,0,0,0,"0,41",Fnatic,EMEA,Icebox,Fnatic,Defesa,13,11,W,7,6,Viper,Controlador,12/04,Group,A,Elimination (A)
+Dep,ZETA DIVISION,Japan,205,17,/19/,19,6,-2,158,0,5,-5,"0,27",Fnatic,EMEA,Icebox,Fnatic,Defesa,13,11,W,7,6,Jett,Duelista,12/04,Group,A,Elimination (A)
+TENNN,ZETA DIVISION,Japan,202,16,/19/,19,5,-3,131,4,8,-4,"0,51",Fnatic,EMEA,Icebox,Fnatic,Defesa,13,11,W,7,6,Sage,Sentinela,12/04,Group,A,Elimination (A)
+crow,ZETA DIVISION,Japan,185,14,/15/,15,11,-1,119,0,0,0,"0,41",Fnatic,EMEA,Icebox,Fnatic,Defesa,13,11,W,7,6,Skye,Iniciador,12/04,Group,A,Elimination (A)
+Sushiboys,XERXIA,APAC,265,20,/18/,18,3,2,185,3,1,2,"0,3",OpTic Gaming,NA,Fracture,XERXIA,Ataque,9,13,L,6,3,Cypher,Sentinela,13/04,Group,B,Decider (B)
+Crws,XERXIA,APAC,221,18,/17/,17,4,1,149,1,1,0,"0,3",OpTic Gaming,NA,Fracture,XERXIA,Ataque,9,13,L,6,3,Breach,Iniciador,13/04,Group,B,Decider (B)
+Surf,XERXIA,APAC,208,15,/20/,20,4,-5,125,2,7,-5,"0,2",OpTic Gaming,NA,Fracture,XERXIA,Ataque,9,13,L,6,3,Jett,Duelista,13/04,Group,B,Decider (B)
+sScary,XERXIA,APAC,174,12,/16/,16,6,-4,122,0,3,-3,"0,17",OpTic Gaming,NA,Fracture,XERXIA,Ataque,9,13,L,6,3,Astra,Controlador,13/04,Group,B,Decider (B)
+foxz,XERXIA,APAC,126,9,/18/,18,6,-9,88,1,3,-2,"0,19",OpTic Gaming,NA,Fracture,XERXIA,Ataque,9,13,L,6,3,Sage,Sentinela,13/04,Group,B,Decider (B)
+Victor,OpTic Gaming,NA,272,23,/15/,15,1,8,175,2,2,0,"0,19",XERXIA,APAC,Fracture,XERXIA,Defesa,13,9,W,7,6,Neon,Duelista,13/04,Group,B,Decider (B)
+yay,OpTic Gaming,NA,262,20,/14/,14,3,6,161,6,2,4,"0,25",XERXIA,APAC,Fracture,XERXIA,Defesa,13,9,W,7,6,Chamber,Sentinela,13/04,Group,B,Decider (B)
+crashies,OpTic Gaming,NA,251,18,/14/,14,15,4,165,3,1,2,"0,23",XERXIA,APAC,Fracture,XERXIA,Defesa,13,9,W,7,6,Kay/O,Iniciador,13/04,Group,B,Decider (B)
+FNS,OpTic Gaming,NA,187,15,/15/,15,1,0,112,1,1,0,"0,23",XERXIA,APAC,Fracture,XERXIA,Defesa,13,9,W,7,6,Breach,Iniciador,13/04,Group,B,Decider (B)
+Marved,OpTic Gaming,NA,163,13,/16/,16,8,-3,93,3,1,2,"0,27",XERXIA,APAC,Fracture,XERXIA,Defesa,13,9,W,7,6,Brimstone,Controlador,13/04,Group,B,Decider (B)
+Surf,XERXIA,APAC,238,16,/14/,14,2,2,158,2,2,0,"0,31",OpTic Gaming,NA,Haven,OpTic Gaming,Defesa,6,13,L,3,3,Jett,Duelista,13/04,Group,B,Decider (B)
+sScary,XERXIA,APAC,187,12,/17/,17,5,-5,127,1,3,-2,"0,2",OpTic Gaming,NA,Haven,OpTic Gaming,Defesa,6,13,L,3,3,Omen,Controlador,13/04,Group,B,Decider (B)
+foxz,XERXIA,APAC,170,11,/16/,16,2,-5,114,2,2,0,"0,29",OpTic Gaming,NA,Haven,OpTic Gaming,Defesa,6,13,L,3,3,Skye,Iniciador,13/04,Group,B,Decider (B)
+Crws,XERXIA,APAC,158,9,/13/,13,3,-4,112,0,2,-2,"0,29",OpTic Gaming,NA,Haven,OpTic Gaming,Defesa,6,13,L,3,3,Breach,Iniciador,13/04,Group,B,Decider (B)
+Sushiboys,XERXIA,APAC,158,10,/15/,15,3,-5,120,1,4,-3,"0,19",OpTic Gaming,NA,Haven,OpTic Gaming,Defesa,6,13,L,3,3,Killjoy,Sentinela,13/04,Group,B,Decider (B)
+Victor,OpTic Gaming,NA,310,20,/14/,14,5,6,208,8,0,8,"0,23",XERXIA,APAC,Haven,OpTic Gaming,Ataque,13,6,W,9,4,Neon,Duelista,13/04,Group,B,Decider (B)
+yay,OpTic Gaming,NA,244,18,/9/,9,2,9,151,1,3,-2,"0,24",XERXIA,APAC,Haven,OpTic Gaming,Ataque,13,6,W,9,4,Chamber,Sentinela,13/04,Group,B,Decider (B)
+Marved,OpTic Gaming,NA,213,15,/11/,11,9,4,143,1,2,-1,"0,29",XERXIA,APAC,Haven,OpTic Gaming,Ataque,13,6,W,9,4,Omen,Controlador,13/04,Group,B,Decider (B)
+crashies,OpTic Gaming,NA,171,13,/12/,12,2,1,123,1,1,0,"0,22",XERXIA,APAC,Haven,OpTic Gaming,Ataque,13,6,W,9,4,Skye,Iniciador,13/04,Group,B,Decider (B)
+FNS,OpTic Gaming,NA,151,9,/12/,12,11,-3,90,2,0,2,"0,15",XERXIA,APAC,Haven,OpTic Gaming,Ataque,13,6,W,9,4,Kay/O,Iniciador,13/04,Group,B,Decider (B)
+xand,Ninjas In Pyjamas,Brazil,343,21,/14/,14,6,7,214,8,4,4,"0,15",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,6,W,6,7,Raze,Duelista,13/04,Group,A,Decider (A)
+cauanzin,Ninjas In Pyjamas,Brazil,319,23,/12/,12,8,11,186,0,1,-1,"0,18",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,6,W,6,7,Sage,Sentinela,13/04,Group,A,Decider (A)
+bezn1,Ninjas In Pyjamas,Brazil,227,14,/10/,10,9,4,155,0,0,0,"0,24",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,6,W,6,7,Cypher,Sentinela,13/04,Group,A,Decider (A)
+bnj,Ninjas In Pyjamas,Brazil,166,12,/10/,10,7,2,105,1,0,1,"0,16",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,6,W,6,7,Omen,Controlador,13/04,Group,A,Decider (A)
+Jonn,Ninjas In Pyjamas,Brazil,126,9,/13/,13,3,-4,89,2,3,-1,"0,24",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,6,W,6,7,Jett,Duelista,13/04,Group,A,Decider (A)
+SugarZ3ro,ZETA DIVISION,Japan,228,16,/14/,14,2,2,162,1,2,-1,"0,42",Ninjas In Pyjamas,Brazil,Split,ZETA DIVISION,Ataque,6,13,L,5,1,Astra,Controlador,13/04,Group,A,Decider (A)
+Dep,ZETA DIVISION,Japan,214,12,/17/,17,9,-5,135,3,3,0,"0,27",Ninjas In Pyjamas,Brazil,Split,ZETA DIVISION,Ataque,6,13,L,5,1,Sage,Sentinela,13/04,Group,A,Decider (A)
+TENNN,ZETA DIVISION,Japan,179,12,/16/,16,1,-4,124,2,4,-2,"0,21",Ninjas In Pyjamas,Brazil,Split,ZETA DIVISION,Ataque,6,13,L,5,1,Raze,Duelista,13/04,Group,A,Decider (A)
+Laz,ZETA DIVISION,Japan,157,8,/16/,16,6,-8,113,2,1,1,"0,27",Ninjas In Pyjamas,Brazil,Split,ZETA DIVISION,Ataque,6,13,L,5,1,Viper,Controlador,13/04,Group,A,Decider (A)
+crow,ZETA DIVISION,Japan,148,11,/16/,16,2,-5,90,0,1,-1,"0,37",Ninjas In Pyjamas,Brazil,Split,ZETA DIVISION,Ataque,6,13,L,5,1,Skye,Iniciador,13/04,Group,A,Decider (A)
+bezn1,Ninjas In Pyjamas,Brazil,304,28,/18/,18,1,10,166,4,6,-2,"0,22",ZETA DIVISION,Japan,Icebox,Ninjas In Pyjamas,Ataque,10,13,L,4,6,Sova,Iniciador,13/04,Group,A,Decider (A)
+cauanzin,Ninjas In Pyjamas,Brazil,216,19,/22/,22,12,-3,122,2,2,0,"0,21",ZETA DIVISION,Japan,Icebox,Ninjas In Pyjamas,Ataque,10,13,L,4,6,Jett,Duelista,13/04,Group,A,Decider (A)
+bnj,Ninjas In Pyjamas,Brazil,139,10,/19/,19,10,-9,99,1,5,-4,"0,29",ZETA DIVISION,Japan,Icebox,Ninjas In Pyjamas,Ataque,10,13,L,4,6,Reyna,Duelista,13/04,Group,A,Decider (A)
+xand,Ninjas In Pyjamas,Brazil,139,13,/18/,18,1,-5,98,1,5,-4,"0,25",ZETA DIVISION,Japan,Icebox,Ninjas In Pyjamas,Ataque,10,13,L,4,6,Viper,Controlador,13/04,Group,A,Decider (A)
+Jonn,Ninjas In Pyjamas,Brazil,136,12,/17/,17,11,-5,89,0,0,0,"0,27",ZETA DIVISION,Japan,Icebox,Ninjas In Pyjamas,Ataque,10,13,L,4,6,Sage,Sentinela,13/04,Group,A,Decider (A)
+TENNN,ZETA DIVISION,Japan,308,27,/16/,16,5,11,198,3,3,0,"0,3",Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Defesa,13,10,W,5,8,Jett,Duelista,13/04,Group,A,Decider (A)
+Laz,ZETA DIVISION,Japan,271,24,/18/,18,3,6,166,10,3,7,"0,21",Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Defesa,13,10,W,5,8,Viper,Controlador,13/04,Group,A,Decider (A)
+SugarZ3ro,ZETA DIVISION,Japan,230,21,/17/,17,10,4,160,2,0,2,"0,3",Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Defesa,13,10,W,5,8,Chamber,Sentinela,13/04,Group,A,Decider (A)
+crow,ZETA DIVISION,Japan,137,12,/16/,16,7,-4,99,1,1,0,"0,33",Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Defesa,13,10,W,5,8,Sage,Sentinela,13/04,Group,A,Decider (A)
+Dep,ZETA DIVISION,Japan,126,10,/15/,15,9,-5,86,2,1,1,"0,13",Ninjas In Pyjamas,Brazil,Icebox,Ninjas In Pyjamas,Defesa,13,10,W,5,8,Sova,Iniciador,13/04,Group,A,Decider (A)
+cauanzin,Ninjas In Pyjamas,Brazil,245,18,/19/,19,3,-1,159,4,1,3,"0,34",ZETA DIVISION,Japan,Fracture,Times,Ataque,12,14,L,7,5,Cypher,Sentinela,13/04,Group,A,Decider (A)
+xand,Ninjas In Pyjamas,Brazil,231,18,/21/,21,6,-3,145,1,4,-3,"0,19",ZETA DIVISION,Japan,Fracture,Times,Ataque,12,14,L,7,5,Kay/O,Iniciador,13/04,Group,A,Decider (A)
+Jonn,Ninjas In Pyjamas,Brazil,195,16,/20/,20,2,-4,121,2,3,-1,"0,29",ZETA DIVISION,Japan,Fracture,Times,Ataque,12,14,L,7,5,Brimstone,Controlador,13/04,Group,A,Decider (A)
+bnj,Ninjas In Pyjamas,Brazil,184,14,/16/,16,5,-2,151,1,1,0,"0,24",ZETA DIVISION,Japan,Fracture,Times,Ataque,12,14,L,7,5,Jett,Duelista,13/04,Group,A,Decider (A)
+bezn1,Ninjas In Pyjamas,Brazil,143,10,/21/,21,12,-11,91,0,6,-6,"0,19",ZETA DIVISION,Japan,Fracture,Times,Ataque,12,14,L,7,5,Sage,Sentinela,13/04,Group,A,Decider (A)
+Dep,ZETA DIVISION,Japan,296,26,/13/,13,2,13,195,8,3,5,"0,25",Ninjas In Pyjamas,Brazil,Fracture,Times,Defesa,14,12,W,8,6,Raze,Duelista,13/04,Group,A,Decider (A)
+SugarZ3ro,ZETA DIVISION,Japan,288,23,/14/,14,11,9,186,1,1,0,"0,21",Ninjas In Pyjamas,Brazil,Fracture,Times,Defesa,14,12,W,8,6,Chamber,Sentinela,13/04,Group,A,Decider (A)
+Laz,ZETA DIVISION,Japan,256,21,/17/,17,5,4,165,4,1,3,"0,19",Ninjas In Pyjamas,Brazil,Fracture,Times,Defesa,14,12,W,8,6,Astra,Controlador,13/04,Group,A,Decider (A)
+TENNN,ZETA DIVISION,Japan,228,18,/17/,17,10,1,150,2,3,-1,"0,35",Ninjas In Pyjamas,Brazil,Fracture,Times,Defesa,14,12,W,8,6,Breach,Iniciador,13/04,Group,A,Decider (A)
+crow,ZETA DIVISION,Japan,126,9,/15/,15,10,-6,91,0,0,0,"0,17",Ninjas In Pyjamas,Brazil,Fracture,Times,Defesa,14,12,W,8,6,Viper,Controlador,13/04,Group,A,Decider (A)
+hoody,G2 Esports,EMEA,300,19,/15/,15,14,4,187,5,4,1,"0,2",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,7,W,6,7,Sage,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+nukkye,G2 Esports,EMEA,296,19,/15/,15,7,4,213,1,3,-2,"0,16",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,7,W,6,7,Raze,Duelista,14/04,Playoff,-,Upper Quarterfinals
+AvovA,G2 Esports,EMEA,230,17,/14/,14,3,3,138,2,1,1,"0,47",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,7,W,6,7,Omen,Controlador,14/04,Playoff,-,Upper Quarterfinals
+Mixwell,G2 Esports,EMEA,209,16,/13/,13,4,3,131,3,1,2,"0,15",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,7,W,6,7,Chamber,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+Meddo,G2 Esports,EMEA,133,11,/13/,13,3,-2,97,0,0,0,"0,39",ZETA DIVISION,Japan,Split,ZETA DIVISION,Defesa,13,7,W,6,7,Breach,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+Dep,ZETA DIVISION,Japan,235,15,/17/,17,12,-2,160,1,2,-1,"0,38",G2 Esports,EMEA,Split,ZETA DIVISION,Ataque,7,13,L,5,2,Sage,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+Laz,ZETA DIVISION,Japan,224,15,/16/,16,6,-1,151,1,1,0,"0,29",G2 Esports,EMEA,Split,ZETA DIVISION,Ataque,7,13,L,5,2,Viper,Controlador,14/04,Playoff,-,Upper Quarterfinals
+SugarZ3ro,ZETA DIVISION,Japan,215,15,/15/,15,3,0,130,2,3,-1,"0,33",G2 Esports,EMEA,Split,ZETA DIVISION,Ataque,7,13,L,5,2,Astra,Controlador,14/04,Playoff,-,Upper Quarterfinals
+crow,ZETA DIVISION,Japan,179,13,/17/,17,4,-4,114,0,1,-1,"0,29",G2 Esports,EMEA,Split,ZETA DIVISION,Ataque,7,13,L,5,2,Skye,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+TENNN,ZETA DIVISION,Japan,177,12,/17/,17,2,-5,118,5,4,1,"0,21",G2 Esports,EMEA,Split,ZETA DIVISION,Ataque,7,13,L,5,2,Raze,Duelista,14/04,Playoff,-,Upper Quarterfinals
+Mixwell,G2 Esports,EMEA,315,27,/15/,15,4,12,186,4,3,1,"0,18",ZETA DIVISION,Japan,Bind,G2 Esports,Ataque,13,10,W,5,8,Chamber,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+hoody,G2 Esports,EMEA,275,24,/16/,16,3,8,166,1,0,1,"0,47",ZETA DIVISION,Japan,Bind,G2 Esports,Ataque,13,10,W,5,8,Skye,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+nukkye,G2 Esports,EMEA,176,11,/18/,18,10,-7,128,4,5,-1,"0,13",ZETA DIVISION,Japan,Bind,G2 Esports,Ataque,13,10,W,5,8,Raze,Duelista,14/04,Playoff,-,Upper Quarterfinals
+Meddo,G2 Esports,EMEA,111,8,/15/,15,3,-7,80,0,4,-4,"0,18",ZETA DIVISION,Japan,Bind,G2 Esports,Ataque,13,10,W,5,8,Viper,Controlador,14/04,Playoff,-,Upper Quarterfinals
+AvovA,G2 Esports,EMEA,106,8,/17/,17,7,-9,86,0,2,-2,"0,35",ZETA DIVISION,Japan,Bind,G2 Esports,Ataque,13,10,W,5,8,Omen,Controlador,14/04,Playoff,-,Upper Quarterfinals
+TENNN,ZETA DIVISION,Japan,338,25,/19/,19,5,6,213,8,3,5,"0,35",G2 Esports,EMEA,Bind,G2 Esports,Defesa,10,13,L,3,7,Raze,Duelista,14/04,Playoff,-,Upper Quarterfinals
+Dep,ZETA DIVISION,Japan,273,21,/14/,14,10,7,168,5,1,4,"0,24",G2 Esports,EMEA,Bind,G2 Esports,Defesa,10,13,L,3,7,Sage,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+Laz,ZETA DIVISION,Japan,183,17,/13/,13,3,4,140,0,2,-2,"0,37",G2 Esports,EMEA,Bind,G2 Esports,Defesa,10,13,L,3,7,Viper,Controlador,14/04,Playoff,-,Upper Quarterfinals
+SugarZ3ro,ZETA DIVISION,Japan,126,10,/16/,16,8,-6,86,1,1,0,"0,24",G2 Esports,EMEA,Bind,G2 Esports,Defesa,10,13,L,3,7,Astra,Controlador,14/04,Playoff,-,Upper Quarterfinals
+crow,ZETA DIVISION,Japan,97,8,/16/,16,4,-8,79,0,2,-2,"0,32",G2 Esports,EMEA,Bind,G2 Esports,Defesa,10,13,L,3,7,Skye,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+aspas,LOUD,Brazil,262,22,/12/,1,10,21,7,-5,162,-167,"0,12",Team Liquid,EMEA,Icebox,Team Liquid,Ataque,13,10,W,7,6,Jett,Duelista,14/04,Playoff,-,Upper Quarterfinals
+Sacy,LOUD,Brazil,246,21,/16/,5,5,16,0,2,160,-158,"0,16",Team Liquid,EMEA,Icebox,Team Liquid,Ataque,13,10,W,7,6,Sova,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+Less,LOUD,Brazil,234,17,/14/,12,3,5,1,1,153,-152,"0,14",Team Liquid,EMEA,Icebox,Team Liquid,Ataque,13,10,W,7,6,Viper,Controlador,14/04,Playoff,-,Upper Quarterfinals
+saadhak,LOUD,Brazil,174,13,/17/,3,-4,10,4,-1,106,-107,"0,17",Team Liquid,EMEA,Icebox,Team Liquid,Ataque,13,10,W,7,6,Chamber,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+pancada,LOUD,Brazil,136,11,/15/,3,-4,8,0,2,94,-92,"0,15",Team Liquid,EMEA,Icebox,Team Liquid,Ataque,13,10,W,7,6,Sage,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+Jamppi,Team Liquid,EMEA,335,26,/18/,5,8,21,0,4,209,-205,"0,18",LOUD,Brazil,Icebox,Team Liquid,Defesa,10,13,L,5,5,Sova,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+ScreaM,Team Liquid,EMEA,250,17,/17/,4,0,13,3,1,152,-151,"0,17",LOUD,Brazil,Icebox,Team Liquid,Defesa,10,13,L,5,5,Jett,Duelista,14/04,Playoff,-,Upper Quarterfinals
+L1NK,Team Liquid,EMEA,168,13,/14/,7,-1,6,0,1,114,-113,"0,14",LOUD,Brazil,Icebox,Team Liquid,Defesa,10,13,L,5,5,Viper,Controlador,14/04,Playoff,-,Upper Quarterfinals
+Nivera,Team Liquid,EMEA,146,12,/18/,2,-6,10,1,2,93,-91,"0,18",LOUD,Brazil,Icebox,Team Liquid,Defesa,10,13,L,5,5,Killjoy,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+soulcas,Team Liquid,EMEA,78,6,/17/,4,-11,2,7,-7,51,-58,"0,17",LOUD,Brazil,Icebox,Team Liquid,Defesa,10,13,L,5,5,Sage,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+aspas,LOUD,Brazil,273,14,/14/,3,0,11,5,-3,164,-167,"0,22",Team Liquid,EMEA,Haven,LOUD,Ataque,3,13,L,2,1,Jett,Duelista,14/04,Playoff,-,Upper Quarterfinals
+Sacy,LOUD,Brazil,215,9,/14/,7,-5,2,0,0,146,-146,"0,25",Team Liquid,EMEA,Haven,LOUD,Ataque,3,13,L,2,1,Sova,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+pancada,LOUD,Brazil,211,13,/15/,4,-2,9,2,-2,127,-129,"0,59",Team Liquid,EMEA,Haven,LOUD,Ataque,3,13,L,2,1,Omen,Controlador,14/04,Playoff,-,Upper Quarterfinals
+Less,LOUD,Brazil,93,4,/15/,1,-11,3,5,-5,69,-74,"0,2",Team Liquid,EMEA,Haven,LOUD,Ataque,3,13,L,2,1,Killjoy,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+saadhak,LOUD,Brazil,92,5,/14/,4,-9,1,2,-2,63,-65,"0,18",Team Liquid,EMEA,Haven,LOUD,Ataque,3,13,L,2,1,Breach,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+Nivera,Team Liquid,EMEA,340,21,/9/,3,12,18,0,5,217,-212,"0,43",LOUD,Brazil,Haven,LOUD,Defesa,13,3,W,3,10,Chamber,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+ScreaM,Team Liquid,EMEA,336,20,/7/,2,13,18,0,4,222,-218,"0,49",LOUD,Brazil,Haven,LOUD,Defesa,13,3,W,3,10,Jett,Duelista,14/04,Playoff,-,Upper Quarterfinals
+soulcas,Team Liquid,EMEA,247,14,/9/,7,5,7,0,1,166,-165,"0,28",LOUD,Brazil,Haven,LOUD,Defesa,13,3,W,3,10,Skye,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+Jamppi,Team Liquid,EMEA,173,11,/11/,1,0,10,2,1,118,-117,"0,46",LOUD,Brazil,Haven,LOUD,Defesa,13,3,W,3,10,Breach,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+L1NK,Team Liquid,EMEA,99,6,/9/,3,-3,3,0,1,64,-63,"0,29",LOUD,Brazil,Haven,LOUD,Defesa,13,3,W,3,10,Omen,Controlador,14/04,Playoff,-,Upper Quarterfinals
+aspas,LOUD,Brazil,243,20,/16/,16,3,4,140,5,2,3,"0,22",Team Liquid,EMEA,Ascent,Times,Ataque,13,10,W,6,7,Jett,Duelista,14/04,Playoff,-,Upper Quarterfinals
+pancada,LOUD,Brazil,234,20,/18/,18,10,2,138,2,2,0,"0,26",Team Liquid,EMEA,Ascent,Times,Ataque,13,10,W,6,7,Omen,Controlador,14/04,Playoff,-,Upper Quarterfinals
+Sacy,LOUD,Brazil,232,20,/14/,14,4,6,162,1,1,0,"0,32",Team Liquid,EMEA,Ascent,Times,Ataque,13,10,W,6,7,Sova,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+saadhak,LOUD,Brazil,186,14,/17/,17,13,-3,113,3,2,1,"0,27",Team Liquid,EMEA,Ascent,Times,Ataque,13,10,W,6,7,Kay/O,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+Less,LOUD,Brazil,177,14,/14/,14,5,0,132,1,4,-3,"0,09",Team Liquid,EMEA,Ascent,Times,Ataque,13,10,W,6,7,Killjoy,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+Jamppi,Team Liquid,EMEA,258,22,/17/,17,3,5,166,6,5,1,"0,28",LOUD,Brazil,Ascent,Times,Defesa,10,13,L,4,6,Jett,Duelista,14/04,Playoff,-,Upper Quarterfinals
+L1NK,Team Liquid,EMEA,204,17,/19/,19,5,-2,121,2,1,1,"0,46",LOUD,Brazil,Ascent,Times,Defesa,10,13,L,4,6,Omen,Controlador,14/04,Playoff,-,Upper Quarterfinals
+soulcas,Team Liquid,EMEA,186,14,/15/,15,10,-1,129,0,2,-2,"0,18",LOUD,Brazil,Ascent,Times,Defesa,10,13,L,4,6,Sova,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+ScreaM,Team Liquid,EMEA,185,14,/20/,20,9,-6,115,1,2,-1,"0,3",LOUD,Brazil,Ascent,Times,Defesa,10,13,L,4,6,Kay/O,Iniciador,14/04,Playoff,-,Upper Quarterfinals
+Nivera,Team Liquid,EMEA,154,12,/17/,17,2,-5,107,2,2,0,"0,26",LOUD,Brazil,Ascent,Times,Defesa,10,13,L,4,6,Killjoy,Sentinela,14/04,Playoff,-,Upper Quarterfinals
+Jinggg,Paper Rex,APAC,285,23,/19/,19,7,4,188,3,1,2,"0,25",DRX,Korea,Haven,DRX,Ataque,13,10,W,4,9,Reyna,Duelista,15/04,Playoff,-,Upper Quarterfinals
+Benkai,Paper Rex,APAC,224,20,/16/,16,5,4,149,2,2,0,"0,22",DRX,Korea,Haven,DRX,Ataque,13,10,W,4,9,Cypher,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+mindfreak,Paper Rex,APAC,169,15,/16/,16,9,-1,113,0,5,-5,"0,27",DRX,Korea,Haven,DRX,Ataque,13,10,W,4,9,Omen,Controlador,15/04,Playoff,-,Upper Quarterfinals
+d4v41,Paper Rex,APAC,167,14,/16/,16,7,-2,118,0,1,-1,"0,38",DRX,Korea,Haven,DRX,Ataque,13,10,W,4,9,Sova,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+f0rsakeN,Paper Rex,APAC,144,11,/18/,18,3,-7,95,1,8,-7,"0,31",DRX,Korea,Haven,DRX,Ataque,13,10,W,4,9,Jett,Duelista,15/04,Playoff,-,Upper Quarterfinals
+MaKo,DRX,Korea,291,26,/17/,17,7,9,175,2,0,2,"0,27",Paper Rex,APAC,Haven,DRX,Defesa,10,13,L,2,8,Omen,Controlador,15/04,Playoff,-,Upper Quarterfinals
+BuZz,DRX,Korea,267,20,/16/,16,6,4,173,6,2,4,"0,21",Paper Rex,APAC,Haven,DRX,Defesa,10,13,L,2,8,Killjoy,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+Rb,DRX,Korea,238,18,/17/,17,3,1,145,6,4,2,"0,26",Paper Rex,APAC,Haven,DRX,Defesa,10,13,L,2,8,Jett,Duelista,15/04,Playoff,-,Upper Quarterfinals
+stax,DRX,Korea,138,11,/17/,17,3,-6,96,1,0,1,"0,35",Paper Rex,APAC,Haven,DRX,Defesa,10,13,L,2,8,Breach,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Zest,DRX,Korea,136,10,/16/,16,6,-6,100,2,0,2,"0,43",Paper Rex,APAC,Haven,DRX,Defesa,10,13,L,2,8,Sova,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+mindfreak,Paper Rex,APAC,229,17,/16/,16,11,1,145,1,0,1,"0,25",DRX,Korea,Bind,Paper Rex,Defesa,8,13,L,5,3,Brimstone,Controlador,15/04,Playoff,-,Upper Quarterfinals
+d4v41,Paper Rex,APAC,216,16,/15/,15,5,1,137,0,1,-1,"0,23",DRX,Korea,Bind,Paper Rex,Defesa,8,13,L,5,3,Skye,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+f0rsakeN,Paper Rex,APAC,214,15,/18/,18,3,-3,119,7,5,2,"0,16",DRX,Korea,Bind,Paper Rex,Defesa,8,13,L,5,3,Yoru,Duelista,15/04,Playoff,-,Upper Quarterfinals
+Benkai,Paper Rex,APAC,194,17,/12/,12,3,5,129,0,3,-3,"0,25",DRX,Korea,Bind,Paper Rex,Defesa,8,13,L,5,3,Breach,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Jinggg,Paper Rex,APAC,166,10,/20/,20,8,-10,116,0,4,-4,"0,1",DRX,Korea,Bind,Paper Rex,Defesa,8,13,L,5,3,Raze,Duelista,15/04,Playoff,-,Upper Quarterfinals
+stax,DRX,Korea,288,24,/11/,11,2,13,190,3,2,1,"0,36",Paper Rex,APAC,Bind,Paper Rex,Ataque,13,8,W,9,4,Skye,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+MaKo,DRX,Korea,221,13,/17/,17,19,-4,147,3,1,2,"0,16",Paper Rex,APAC,Bind,Paper Rex,Ataque,13,8,W,9,4,Viper,Controlador,15/04,Playoff,-,Upper Quarterfinals
+Rb,DRX,Korea,218,16,/17/,17,4,-1,140,4,3,1,"0,22",Paper Rex,APAC,Bind,Paper Rex,Ataque,13,8,W,9,4,Raze,Duelista,15/04,Playoff,-,Upper Quarterfinals
+BuZz,DRX,Korea,207,17,/13/,13,6,4,147,1,0,1,"0,42",Paper Rex,APAC,Bind,Paper Rex,Ataque,13,8,W,9,4,Astra,Controlador,15/04,Playoff,-,Upper Quarterfinals
+Zest,DRX,Korea,138,10,/17/,17,5,-7,90,2,2,0,"0,4",Paper Rex,APAC,Bind,Paper Rex,Ataque,13,8,W,9,4,Sage,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+d4v41,Paper Rex,APAC,226,16,/16/,16,2,0,161,1,2,-1,"0,25",DRX,Korea,Ascent,Times,Defesa,8,13,L,5,3,Killjoy,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+f0rsakeN,Paper Rex,APAC,189,14,/19/,19,3,-5,118,5,5,0,"0,36",DRX,Korea,Ascent,Times,Defesa,8,13,L,5,3,Jett,Duelista,15/04,Playoff,-,Upper Quarterfinals
+Benkai,Paper Rex,APAC,164,12,/15/,15,8,-3,107,1,3,-2,"0,29",DRX,Korea,Ascent,Times,Defesa,8,13,L,5,3,Sova,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Jinggg,Paper Rex,APAC,160,9,/18/,18,6,-9,118,0,2,-2,"0,06",DRX,Korea,Ascent,Times,Defesa,8,13,L,5,3,Kay/O,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+mindfreak,Paper Rex,APAC,143,10,/19/,19,2,-9,85,2,0,2,"0,33",DRX,Korea,Ascent,Times,Defesa,8,13,L,5,3,Omen,Controlador,15/04,Playoff,-,Upper Quarterfinals
+BuZz,DRX,Korea,354,28,/12/,12,6,16,205,5,2,3,"0,3",Paper Rex,APAC,Ascent,Times,Ataque,13,8,W,9,4,Chamber,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+MaKo,DRX,Korea,330,24,/9/,9,12,15,225,5,0,5,"0,27",Paper Rex,APAC,Ascent,Times,Ataque,13,8,W,9,4,Astra,Controlador,15/04,Playoff,-,Upper Quarterfinals
+Zest,DRX,Korea,185,13,/14/,14,11,-1,129,0,1,-1,"0,2",Paper Rex,APAC,Ascent,Times,Ataque,13,8,W,9,4,Sova,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Rb,DRX,Korea,155,12,/14/,14,2,-2,110,2,5,-3,"0,29",Paper Rex,APAC,Ascent,Times,Ataque,13,8,W,9,4,Jett,Duelista,15/04,Playoff,-,Upper Quarterfinals
+stax,DRX,Korea,130,10,/12/,12,4,-2,92,0,1,-1,"0,46",Paper Rex,APAC,Ascent,Times,Ataque,13,8,W,9,4,Skye,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Sayaplayer,The Guard,NA,227,18,/15/,15,0,3,132,5,4,1,"0,28",OpTic Gaming,NA,Icebox,The Guard,Ataque,7,13,L,3,4,Jett,Duelista,15/04,Playoff,-,Upper Quarterfinals
+neT,The Guard,NA,215,15,/16/,16,1,-1,128,2,2,0,"0,36",OpTic Gaming,NA,Icebox,The Guard,Ataque,7,13,L,3,4,Chamber,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+valyn,The Guard,NA,172,12,/16/,16,4,-4,108,1,2,-1,"0,29",OpTic Gaming,NA,Icebox,The Guard,Ataque,7,13,L,3,4,Viper,Controlador,15/04,Playoff,-,Upper Quarterfinals
+trent,The Guard,NA,161,11,/15/,15,5,-4,137,0,0,0,"0,31",OpTic Gaming,NA,Icebox,The Guard,Ataque,7,13,L,3,4,Sova,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+JonahP,The Guard,NA,144,9,/14/,14,7,-5,102,1,3,-2,"0,23",OpTic Gaming,NA,Icebox,The Guard,Ataque,7,13,L,3,4,Omen,Controlador,15/04,Playoff,-,Upper Quarterfinals
+yay,OpTic Gaming,NA,304,23,/12/,12,2,11,193,2,2,0,"0,38",The Guard,NA,Icebox,The Guard,Defesa,13,7,W,4,9,Chamber,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+Marved,OpTic Gaming,NA,225,17,/11/,11,7,6,147,2,2,0,"0,3",The Guard,NA,Icebox,The Guard,Defesa,13,7,W,4,9,Viper,Controlador,15/04,Playoff,-,Upper Quarterfinals
+Victor,OpTic Gaming,NA,206,12,/14/,14,9,-2,151,2,4,-2,"0,29",The Guard,NA,Icebox,The Guard,Defesa,13,7,W,4,9,Kay/O,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+crashies,OpTic Gaming,NA,184,13,/12/,12,5,1,127,2,1,1,"0,22",The Guard,NA,Icebox,The Guard,Defesa,13,7,W,4,9,Sova,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+FNS,OpTic Gaming,NA,163,11,/16/,16,6,-5,104,3,0,3,"0,26",The Guard,NA,Icebox,The Guard,Defesa,13,7,W,4,9,Sage,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+Sayaplayer,The Guard,NA,318,23,/8/,8,3,15,216,6,2,4,"0,41",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,7,W,7,6,Jett,Duelista,15/04,Playoff,-,Upper Quarterfinals
+neT,The Guard,NA,208,16,/10/,10,2,6,138,2,1,1,"0,36",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,7,W,7,6,Chamber,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+trent,The Guard,NA,185,15,/11/,11,2,4,110,2,4,-2,"0,42",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,7,W,7,6,Skye,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+JonahP,The Guard,NA,172,12,/15/,15,5,-3,110,0,0,0,"0,26",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,7,W,7,6,Breach,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+valyn,The Guard,NA,162,11,/12/,12,16,-1,86,1,2,-1,"0,15",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,7,W,7,6,Omen,Controlador,15/04,Playoff,-,Upper Quarterfinals
+yay,OpTic Gaming,NA,217,15,/16/,16,1,-1,137,3,3,0,"0,27",The Guard,NA,Haven,OpTic Gaming,Defesa,7,13,L,2,5,Chamber,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+FNS,OpTic Gaming,NA,192,12,/14/,14,10,-2,112,4,2,2,"0,15",The Guard,NA,Haven,OpTic Gaming,Defesa,7,13,L,2,5,Kay/O,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Victor,OpTic Gaming,NA,168,11,/15/,15,3,-4,114,1,5,-4,"0,35",The Guard,NA,Haven,OpTic Gaming,Defesa,7,13,L,2,5,Neon,Duelista,15/04,Playoff,-,Upper Quarterfinals
+Marved,OpTic Gaming,NA,144,9,/15/,15,8,-6,79,1,0,1,"0,28",The Guard,NA,Haven,OpTic Gaming,Defesa,7,13,L,2,5,Omen,Controlador,15/04,Playoff,-,Upper Quarterfinals
+crashies,OpTic Gaming,NA,122,9,/17/,17,3,-8,82,0,1,-1,"0,56",The Guard,NA,Haven,OpTic Gaming,Defesa,7,13,L,2,5,Skye,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Sayaplayer,The Guard,NA,302,27,/16/,16,4,11,170,4,4,0,"0,23",OpTic Gaming,NA,Fracture,Times,Defesa,11,13,L,3,8,Jett,Duelista,15/04,Playoff,-,Upper Quarterfinals
+neT,The Guard,NA,203,18,/17/,17,2,1,130,3,2,1,"0,3",OpTic Gaming,NA,Fracture,Times,Defesa,11,13,L,3,8,Chamber,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+JonahP,The Guard,NA,169,14,/16/,16,5,-2,118,3,2,1,"0,25",OpTic Gaming,NA,Fracture,Times,Defesa,11,13,L,3,8,Viper,Controlador,15/04,Playoff,-,Upper Quarterfinals
+valyn,The Guard,NA,167,13,/18/,18,11,-5,108,1,0,1,"0,25",OpTic Gaming,NA,Fracture,Times,Defesa,11,13,L,3,8,Brimstone,Controlador,15/04,Playoff,-,Upper Quarterfinals
+trent,The Guard,NA,149,13,/18/,18,6,-5,100,3,2,1,"0,19",OpTic Gaming,NA,Fracture,Times,Defesa,11,13,L,3,8,Breach,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+FNS,OpTic Gaming,NA,246,21,/16/,16,3,5,166,2,1,1,"0,26",The Guard,NA,Fracture,Times,Ataque,13,11,W,4,9,Breach,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+Victor,OpTic Gaming,NA,246,21,/17/,17,2,4,160,2,6,-4,"0,23",The Guard,NA,Fracture,Times,Ataque,13,11,W,4,9,Neon,Duelista,15/04,Playoff,-,Upper Quarterfinals
+Marved,OpTic Gaming,NA,241,20,/17/,17,8,3,155,2,2,0,"0,25",The Guard,NA,Fracture,Times,Ataque,13,11,W,4,9,Brimstone,Controlador,15/04,Playoff,-,Upper Quarterfinals
+yay,OpTic Gaming,NA,189,14,/17/,17,4,-3,118,4,1,3,"0,12",The Guard,NA,Fracture,Times,Ataque,13,11,W,4,9,Chamber,Sentinela,15/04,Playoff,-,Upper Quarterfinals
+crashies,OpTic Gaming,NA,108,9,/18/,18,6,-9,74,0,4,-4,"0,27",The Guard,NA,Fracture,Times,Ataque,13,11,W,4,9,Kay/O,Iniciador,15/04,Playoff,-,Upper Quarterfinals
+SugarZ3ro,ZETA DIVISION,Japan,298,22,/12/,12,8,10,187,3,2,1,"0,25",Team Liquid,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,3,10,Astra,Controlador,16/04,Playoff,-,Lower Round 1
+TENNN,ZETA DIVISION,Japan,231,15,/15/,15,6,0,184,4,4,0,"0,19",Team Liquid,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,3,10,Raze,Duelista,16/04,Playoff,-,Lower Round 1
+Laz,ZETA DIVISION,Japan,190,14,/13/,13,3,1,117,3,2,1,"0,15",Team Liquid,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,3,10,Chamber,Sentinela,16/04,Playoff,-,Lower Round 1
+crow,ZETA DIVISION,Japan,189,15,/12/,12,6,3,116,1,0,1,"0,28",Team Liquid,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,3,10,Breach,Iniciador,16/04,Playoff,-,Lower Round 1
+Dep,ZETA DIVISION,Japan,158,11,/9/,9,6,2,119,1,1,0,"0,39",Team Liquid,EMEA,Fracture,ZETA DIVISION,Defesa,13,7,W,3,10,Viper,Controlador,16/04,Playoff,-,Lower Round 1
+Nivera,Team Liquid,EMEA,214,16,/14/,14,2,2,136,0,0,0,"0,28",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,2,5,Chamber,Sentinela,16/04,Playoff,-,Lower Round 1
+ScreaM,Team Liquid,EMEA,208,15,/17/,17,1,-2,136,4,2,2,"0,34",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,2,5,Jett,Duelista,16/04,Playoff,-,Lower Round 1
+soulcas,Team Liquid,EMEA,176,12,/17/,17,5,-5,121,3,6,-3,"0,24",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,2,5,Neon,Duelista,16/04,Playoff,-,Lower Round 1
+L1NK,Team Liquid,EMEA,128,9,/14/,14,3,-5,92,0,1,-1,"0,56",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,2,5,Brimstone,Controlador,16/04,Playoff,-,Lower Round 1
+Jamppi,Team Liquid,EMEA,112,8,/15/,15,2,-7,80,1,2,-1,"0,29",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Ataque,7,13,L,2,5,Breach,Iniciador,16/04,Playoff,-,Lower Round 1
+TENNN,ZETA DIVISION,Japan,205,12,/14/,14,3,-2,117,2,4,-2,"0,33",Team Liquid,EMEA,Haven,Team Liquid,Defesa,4,13,L,2,2,Skye,Iniciador,16/04,Playoff,-,Lower Round 1
+SugarZ3ro,ZETA DIVISION,Japan,205,12,/13/,13,1,-1,135,0,0,0,"0,26",Team Liquid,EMEA,Haven,Team Liquid,Defesa,4,13,L,2,2,Astra,Controlador,16/04,Playoff,-,Lower Round 1
+Dep,ZETA DIVISION,Japan,181,11,/16/,16,1,-5,109,2,3,-1,"0,45",Team Liquid,EMEA,Haven,Team Liquid,Defesa,4,13,L,2,2,Jett,Duelista,16/04,Playoff,-,Lower Round 1
+Laz,ZETA DIVISION,Japan,105,5,/14/,14,2,-9,74,0,3,-3,"0,14",Team Liquid,EMEA,Haven,Team Liquid,Defesa,4,13,L,2,2,Killjoy,Sentinela,16/04,Playoff,-,Lower Round 1
+crow,ZETA DIVISION,Japan,83,3,/14/,14,6,-11,61,0,3,-3,"0,13",Team Liquid,EMEA,Haven,Team Liquid,Defesa,4,13,L,2,2,Breach,Iniciador,16/04,Playoff,-,Lower Round 1
+ScreaM,Team Liquid,EMEA,365,21,/11/,11,3,10,229,5,1,4,"0,54",ZETA DIVISION,Japan,Haven,Team Liquid,Ataque,13,4,W,10,3,Jett,Duelista,16/04,Playoff,-,Lower Round 1
+Nivera,Team Liquid,EMEA,216,14,/7/,7,2,7,130,3,1,2,"0,19",ZETA DIVISION,Japan,Haven,Team Liquid,Ataque,13,4,W,10,3,Chamber,Sentinela,16/04,Playoff,-,Lower Round 1
+soulcas,Team Liquid,EMEA,203,14,/7/,7,1,7,142,0,1,-1,"0,43",ZETA DIVISION,Japan,Haven,Team Liquid,Ataque,13,4,W,10,3,Skye,Iniciador,16/04,Playoff,-,Lower Round 1
+Jamppi,Team Liquid,EMEA,191,12,/11/,11,1,1,114,2,1,1,"0,29",ZETA DIVISION,Japan,Haven,Team Liquid,Ataque,13,4,W,10,3,Breach,Iniciador,16/04,Playoff,-,Lower Round 1
+L1NK,Team Liquid,EMEA,164,10,/7/,7,12,3,103,3,0,3,"0,67",ZETA DIVISION,Japan,Haven,Team Liquid,Ataque,13,4,W,10,3,Omen,Controlador,16/04,Playoff,-,Lower Round 1
+Dep,ZETA DIVISION,Japan,253,17,/13/,13,5,4,148,2,2,0,"0,45",Team Liquid,EMEA,Split,Times,Defesa,13,7,W,6,7,Sage,Sentinela,16/04,Playoff,-,Lower Round 1
+crow,ZETA DIVISION,Japan,248,19,/16/,16,6,3,170,2,0,2,"0,38",Team Liquid,EMEA,Split,Times,Defesa,13,7,W,6,7,Skye,Iniciador,16/04,Playoff,-,Lower Round 1
+SugarZ3ro,ZETA DIVISION,Japan,223,18,/11/,11,1,7,147,0,1,-1,"0,21",Team Liquid,EMEA,Split,Times,Defesa,13,7,W,6,7,Astra,Controlador,16/04,Playoff,-,Lower Round 1
+TENNN,ZETA DIVISION,Japan,195,13,/14/,14,5,-1,119,4,2,2,"0,16",Team Liquid,EMEA,Split,Times,Defesa,13,7,W,6,7,Raze,Duelista,16/04,Playoff,-,Lower Round 1
+Laz,ZETA DIVISION,Japan,153,12,/15/,15,2,-3,88,2,5,-3,"0,24",Team Liquid,EMEA,Split,Times,Defesa,13,7,W,6,7,Viper,Controlador,16/04,Playoff,-,Lower Round 1
+soulcas,Team Liquid,EMEA,270,15,/19/,19,8,-4,190,3,6,-3,"0,18",ZETA DIVISION,Japan,Split,Times,Ataque,7,13,L,6,7,Raze,Duelista,16/04,Playoff,-,Lower Round 1
+ScreaM,Team Liquid,EMEA,265,18,/15/,15,6,3,171,4,0,4,"0,25",ZETA DIVISION,Japan,Split,Times,Ataque,7,13,L,6,7,Sage,Sentinela,16/04,Playoff,-,Lower Round 1
+Nivera,Team Liquid,EMEA,257,20,/14/,14,0,6,183,2,1,1,"0,44",ZETA DIVISION,Japan,Split,Times,Ataque,7,13,L,6,7,Cypher,Sentinela,16/04,Playoff,-,Lower Round 1
+Jamppi,Team Liquid,EMEA,170,11,/17/,17,5,-6,118,1,1,0,"0,15",ZETA DIVISION,Japan,Split,Times,Ataque,7,13,L,6,7,Breach,Iniciador,16/04,Playoff,-,Lower Round 1
+L1NK,Team Liquid,EMEA,76,5,/14/,14,7,-9,53,0,2,-2,"0,26",ZETA DIVISION,Japan,Split,Times,Ataque,7,13,L,6,7,Astra,Controlador,16/04,Playoff,-,Lower Round 1
+f0rsakeN,Paper Rex,APAC,280,22,/16/,16,3,6,171,7,5,2,"0,26",The Guard,NA,Haven,The Guard,Ataque,13,10,W,8,5,Jett,Duelista,16/04,Playoff,-,Lower Round 1
+Jinggg,Paper Rex,APAC,277,24,/16/,16,3,8,170,4,1,3,"0,21",The Guard,NA,Haven,The Guard,Ataque,13,10,W,8,5,Reyna,Duelista,16/04,Playoff,-,Lower Round 1
+Benkai,Paper Rex,APAC,230,19,/14/,14,6,5,149,1,4,-3,"0,24",The Guard,NA,Haven,The Guard,Ataque,13,10,W,8,5,Cypher,Sentinela,16/04,Playoff,-,Lower Round 1
+mindfreak,Paper Rex,APAC,176,15,/15/,15,9,0,107,0,0,0,"0,32",The Guard,NA,Haven,The Guard,Ataque,13,10,W,8,5,Omen,Controlador,16/04,Playoff,-,Lower Round 1
+d4v41,Paper Rex,APAC,102,7,/16/,16,10,-9,69,1,0,1,"0,22",The Guard,NA,Haven,The Guard,Ataque,13,10,W,8,5,Skye,Iniciador,16/04,Playoff,-,Lower Round 1
+JonahP,The Guard,NA,285,25,/19/,19,1,6,173,5,2,3,"0,37",Paper Rex,APAC,Haven,The Guard,Defesa,10,13,L,6,4,Breach,Iniciador,16/04,Playoff,-,Lower Round 1
+Sayaplayer,The Guard,NA,220,16,/17/,17,2,-1,144,3,2,1,"0,26",Paper Rex,APAC,Haven,The Guard,Defesa,10,13,L,6,4,Jett,Duelista,16/04,Playoff,-,Lower Round 1
+valyn,The Guard,NA,174,14,/16/,16,7,-2,115,0,2,-2,"0,3",Paper Rex,APAC,Haven,The Guard,Defesa,10,13,L,6,4,Omen,Controlador,16/04,Playoff,-,Lower Round 1
+neT,The Guard,NA,150,10,/18/,18,3,-8,112,1,5,-4,"0,29",Paper Rex,APAC,Haven,The Guard,Defesa,10,13,L,6,4,Killjoy,Sentinela,16/04,Playoff,-,Lower Round 1
+trent,The Guard,NA,147,12,/17/,17,2,-5,97,1,2,-1,"0,37",Paper Rex,APAC,Haven,The Guard,Defesa,10,13,L,6,4,Skye,Iniciador,16/04,Playoff,-,Lower Round 1
+Jinggg,Paper Rex,APAC,385,28,/18/,18,6,10,248,7,4,3,"0,18",The Guard,NA,Split,Paper Rex,Ataque,13,8,W,6,7,Raze,Duelista,16/04,Playoff,-,Lower Round 1
+f0rsakeN,Paper Rex,APAC,262,21,/12/,12,3,9,165,4,1,3,"0,41",The Guard,NA,Split,Paper Rex,Ataque,13,8,W,6,7,Jett,Duelista,16/04,Playoff,-,Lower Round 1
+d4v41,Paper Rex,APAC,186,12,/14/,14,15,-2,129,3,0,3,"0,21",The Guard,NA,Split,Paper Rex,Ataque,13,8,W,6,7,Sage,Sentinela,16/04,Playoff,-,Lower Round 1
+mindfreak,Paper Rex,APAC,160,13,/10/,10,7,3,109,0,0,0,"0,28",The Guard,NA,Split,Paper Rex,Ataque,13,8,W,6,7,Omen,Controlador,16/04,Playoff,-,Lower Round 1
+Benkai,Paper Rex,APAC,145,11,/11/,11,6,0,96,1,1,0,"0,35",The Guard,NA,Split,Paper Rex,Ataque,13,8,W,6,7,Cypher,Sentinela,16/04,Playoff,-,Lower Round 1
+JonahP,The Guard,NA,223,17,/16/,16,2,1,134,1,4,-3,"0,21",Paper Rex,APAC,Split,Paper Rex,Defesa,8,13,L,2,6,Sage,Sentinela,16/04,Playoff,-,Lower Round 1
+valyn,The Guard,NA,219,17,/16/,16,5,1,153,1,1,0,"0,24",Paper Rex,APAC,Split,Paper Rex,Defesa,8,13,L,2,6,Omen,Controlador,16/04,Playoff,-,Lower Round 1
+Sayaplayer,The Guard,NA,188,11,/19/,19,6,-8,123,2,7,-5,"0,16",Paper Rex,APAC,Split,Paper Rex,Defesa,8,13,L,2,6,Raze,Duelista,16/04,Playoff,-,Lower Round 1
+trent,The Guard,NA,170,12,/18/,18,4,-6,115,2,1,1,"0,27",Paper Rex,APAC,Split,Paper Rex,Defesa,8,13,L,2,6,Breach,Iniciador,16/04,Playoff,-,Lower Round 1
+neT,The Guard,NA,120,8,/16/,16,6,-8,84,0,2,-2,"0,41",Paper Rex,APAC,Split,Paper Rex,Defesa,8,13,L,2,6,Cypher,Sentinela,16/04,Playoff,-,Lower Round 1
+MaKo,DRX,Korea,266,19,/14/,14,7,5,160,4,4,0,"0,3",OpTic Gaming,NA,Ascent,OpTic Gaming,Ataque,13,8,W,9,4,Astra,Controlador,17/04,Playoff,-,Upper Semifinals
+Zest,DRX,Korea,214,19,/15/,15,3,4,123,1,2,-1,"0,23",OpTic Gaming,NA,Ascent,OpTic Gaming,Ataque,13,8,W,9,4,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+BuZz,DRX,Korea,205,17,/14/,14,6,3,136,1,1,0,"0,19",OpTic Gaming,NA,Ascent,OpTic Gaming,Ataque,13,8,W,9,4,Chamber,Sentinela,17/04,Playoff,-,Upper Semifinals
+Rb,DRX,Korea,177,11,/13/,13,7,-2,125,2,3,-1,"0,18",OpTic Gaming,NA,Ascent,OpTic Gaming,Ataque,13,8,W,9,4,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+stax,DRX,Korea,171,14,/15/,15,1,-1,114,1,2,-1,"0,56",OpTic Gaming,NA,Ascent,OpTic Gaming,Ataque,13,8,W,9,4,Skye,Iniciador,17/04,Playoff,-,Upper Semifinals
+yay,OpTic Gaming,NA,258,19,/17/,17,6,2,165,7,4,3,"0,39",DRX,Korea,Ascent,OpTic Gaming,Defesa,8,13,L,5,3,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+Marved,OpTic Gaming,NA,215,18,/15/,15,7,3,130,1,2,-1,"0,35",DRX,Korea,Ascent,OpTic Gaming,Defesa,8,13,L,5,3,Omen,Controlador,17/04,Playoff,-,Upper Semifinals
+FNS,OpTic Gaming,NA,186,13,/15/,15,5,-2,136,0,1,-1,"0,22",DRX,Korea,Ascent,OpTic Gaming,Defesa,8,13,L,5,3,Killjoy,Sentinela,17/04,Playoff,-,Upper Semifinals
+crashies,OpTic Gaming,NA,164,9,/17/,17,7,-8,118,2,0,2,"0,17",DRX,Korea,Ascent,OpTic Gaming,Defesa,8,13,L,5,3,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+Victor,OpTic Gaming,NA,159,12,/16/,16,7,-4,102,2,2,0,"0,28",DRX,Korea,Ascent,OpTic Gaming,Defesa,8,13,L,5,3,Kay/O,Iniciador,17/04,Playoff,-,Upper Semifinals
+Zest,DRX,Korea,256,21,/15/,15,2,6,154,1,1,0,"0,18",OpTic Gaming,NA,Icebox,DRX,Ataque,11,13,L,7,4,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+stax,DRX,Korea,233,19,/14/,14,14,5,145,1,2,-1,"0,39",OpTic Gaming,NA,Icebox,DRX,Ataque,11,13,L,7,4,Kay/O,Iniciador,17/04,Playoff,-,Upper Semifinals
+BuZz,DRX,Korea,214,17,/19/,19,3,-2,132,5,7,-2,"0,21",OpTic Gaming,NA,Icebox,DRX,Ataque,11,13,L,7,4,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+MaKo,DRX,Korea,123,8,/18/,18,9,-10,86,0,3,-3,"0,25",OpTic Gaming,NA,Icebox,DRX,Ataque,11,13,L,7,4,Viper,Controlador,17/04,Playoff,-,Upper Semifinals
+Rb,DRX,Korea,103,8,/19/,19,4,-11,78,1,3,-2,"0,5",OpTic Gaming,NA,Icebox,DRX,Ataque,11,13,L,7,4,Sage,Sentinela,17/04,Playoff,-,Upper Semifinals
+Victor,OpTic Gaming,NA,264,21,/11/,11,15,10,166,4,0,4,"0,25",DRX,Korea,Icebox,DRX,Defesa,13,11,W,8,5,Kay/O,Iniciador,17/04,Playoff,-,Upper Semifinals
+Marved,OpTic Gaming,NA,211,17,/17/,17,8,0,138,4,3,1,"0,17",DRX,Korea,Icebox,DRX,Defesa,13,11,W,8,5,Viper,Controlador,17/04,Playoff,-,Upper Semifinals
+crashies,OpTic Gaming,NA,211,19,/15/,15,5,4,144,3,1,2,"0,25",DRX,Korea,Icebox,DRX,Defesa,13,11,W,8,5,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+yay,OpTic Gaming,NA,161,14,/16/,16,3,-2,106,3,2,1,"0,41",DRX,Korea,Icebox,DRX,Defesa,13,11,W,8,5,Chamber,Sentinela,17/04,Playoff,-,Upper Semifinals
+FNS,OpTic Gaming,NA,152,14,/14/,14,3,0,96,2,2,0,"0,26",DRX,Korea,Icebox,DRX,Defesa,13,11,W,8,5,Sage,Sentinela,17/04,Playoff,-,Upper Semifinals
+MaKo,DRX,Korea,271,25,/20/,20,8,5,164,5,1,4,"0,23",OpTic Gaming,NA,Split,Times,Ataque,13,15,L,6,7,Viper,Controlador,17/04,Playoff,-,Upper Semifinals
+Zest,DRX,Korea,263,27,/17/,17,6,10,177,3,1,2,"0,27",OpTic Gaming,NA,Split,Times,Ataque,13,15,L,6,7,Sage,Sentinela,17/04,Playoff,-,Upper Semifinals
+Rb,DRX,Korea,139,13,/24/,24,3,-11,93,4,9,-5,"0,16",OpTic Gaming,NA,Split,Times,Ataque,13,15,L,6,7,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+BuZz,DRX,Korea,133,13,/21/,21,12,-8,94,0,4,-4,"0,27",OpTic Gaming,NA,Split,Times,Ataque,13,15,L,6,7,Astra,Controlador,17/04,Playoff,-,Upper Semifinals
+stax,DRX,Korea,120,12,/20/,20,5,-8,92,0,1,-1,"0,39",OpTic Gaming,NA,Split,Times,Ataque,13,15,L,6,7,Skye,Iniciador,17/04,Playoff,-,Upper Semifinals
+yay,OpTic Gaming,NA,263,27,/17/,17,5,10,169,4,4,0,"0,23",DRX,Korea,Split,Times,Defesa,15,13,W,7,8,Chamber,Sentinela,17/04,Playoff,-,Upper Semifinals
+crashies,OpTic Gaming,NA,243,24,/18/,18,13,6,135,3,0,3,"0,18",DRX,Korea,Split,Times,Defesa,15,13,W,7,8,Kay/O,Iniciador,17/04,Playoff,-,Upper Semifinals
+Marved,OpTic Gaming,NA,212,19,/17/,17,14,2,145,2,2,0,"0,28",DRX,Korea,Split,Times,Defesa,15,13,W,7,8,Astra,Controlador,17/04,Playoff,-,Upper Semifinals
+Victor,OpTic Gaming,NA,209,20,/20/,20,4,0,137,6,5,1,"0,31",DRX,Korea,Split,Times,Defesa,15,13,W,7,8,Neon,Duelista,17/04,Playoff,-,Upper Semifinals
+FNS,OpTic Gaming,NA,118,12,/18/,18,5,-6,86,1,1,0,"0,13",DRX,Korea,Split,Times,Defesa,15,13,W,7,8,Breach,Iniciador,17/04,Playoff,-,Upper Semifinals
+hoody,G2 Esports,EMEA,273,17,/15/,15,5,2,156,4,0,4,"0,27",LOUD,Brazil,Ascent,LOUD,Defesa,5,13,L,2,3,Sage,Sentinela,17/04,Playoff,-,Upper Semifinals
+nukkye,G2 Esports,EMEA,188,10,/14/,14,10,-4,131,1,1,0,"0,24",LOUD,Brazil,Ascent,LOUD,Defesa,5,13,L,2,3,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+AvovA,G2 Esports,EMEA,173,11,/16/,16,5,-5,115,2,4,-2,"0,35",LOUD,Brazil,Ascent,LOUD,Defesa,5,13,L,2,3,Omen,Controlador,17/04,Playoff,-,Upper Semifinals
+Meddo,G2 Esports,EMEA,146,9,/15/,15,3,-6,90,1,1,0,"0,23",LOUD,Brazil,Ascent,LOUD,Defesa,5,13,L,2,3,Cypher,Sentinela,17/04,Playoff,-,Upper Semifinals
+Mixwell,G2 Esports,EMEA,130,7,/16/,16,5,-9,100,1,3,-2,"0,11",LOUD,Brazil,Ascent,LOUD,Defesa,5,13,L,2,3,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+Less,LOUD,Brazil,318,21,/12/,12,3,9,205,0,1,-1,"0,34",G2 Esports,EMEA,Ascent,LOUD,Ataque,13,5,W,9,4,Killjoy,Sentinela,17/04,Playoff,-,Upper Semifinals
+aspas,LOUD,Brazil,306,20,/12/,12,5,8,194,6,3,3,"0,36",G2 Esports,EMEA,Ascent,LOUD,Ataque,13,5,W,9,4,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+Sacy,LOUD,Brazil,290,19,/8/,8,12,11,191,1,0,1,"0,29",G2 Esports,EMEA,Ascent,LOUD,Ataque,13,5,W,9,4,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+saadhak,LOUD,Brazil,158,8,/12/,12,15,-4,101,1,3,-2,"0,04",G2 Esports,EMEA,Ascent,LOUD,Ataque,13,5,W,9,4,Kay/O,Iniciador,17/04,Playoff,-,Upper Semifinals
+pancada,LOUD,Brazil,107,8,/10/,10,8,-2,77,1,2,-1,"0,35",G2 Esports,EMEA,Ascent,LOUD,Ataque,13,5,W,9,4,Omen,Controlador,17/04,Playoff,-,Upper Semifinals
+Mixwell,G2 Esports,EMEA,220,19,/20/,20,2,-1,129,6,2,4,"0,17",LOUD,Brazil,Breeze,G2 Esports,Defesa,11,13,L,7,4,Chamber,Sentinela,17/04,Playoff,-,Upper Semifinals
+nukkye,G2 Esports,EMEA,210,16,/19/,19,4,-3,149,3,5,-2,"0,22",LOUD,Brazil,Breeze,G2 Esports,Defesa,11,13,L,7,4,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+AvovA,G2 Esports,EMEA,199,16,/17/,17,8,-1,134,3,3,0,"0,27",LOUD,Brazil,Breeze,G2 Esports,Defesa,11,13,L,7,4,Kay/O,Iniciador,17/04,Playoff,-,Upper Semifinals
+hoody,G2 Esports,EMEA,177,14,/17/,17,4,-3,129,1,1,0,"0,38",LOUD,Brazil,Breeze,G2 Esports,Defesa,11,13,L,7,4,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+Meddo,G2 Esports,EMEA,103,9,/15/,15,2,-6,61,0,0,0,"0,53",LOUD,Brazil,Breeze,G2 Esports,Defesa,11,13,L,7,4,Viper,Controlador,17/04,Playoff,-,Upper Semifinals
+Sacy,LOUD,Brazil,257,20,/11/,11,12,9,193,1,0,1,"0,27",G2 Esports,EMEA,Breeze,G2 Esports,Ataque,13,11,W,8,5,Sova,Iniciador,17/04,Playoff,-,Upper Semifinals
+aspas,LOUD,Brazil,240,20,/16/,16,5,4,151,3,3,0,"0,17",G2 Esports,EMEA,Breeze,G2 Esports,Ataque,13,11,W,8,5,Jett,Duelista,17/04,Playoff,-,Upper Semifinals
+pancada,LOUD,Brazil,201,20,/14/,14,1,6,125,2,2,0,"0,39",G2 Esports,EMEA,Breeze,G2 Esports,Ataque,13,11,W,8,5,Chamber,Sentinela,17/04,Playoff,-,Upper Semifinals
+saadhak,LOUD,Brazil,176,14,/20/,20,8,-6,108,5,6,-1,"0,14",G2 Esports,EMEA,Breeze,G2 Esports,Ataque,13,11,W,8,5,Kay/O,Iniciador,17/04,Playoff,-,Upper Semifinals
+Less,LOUD,Brazil,160,14,/13/,13,7,1,96,0,2,-2,"0,15",G2 Esports,EMEA,Breeze,G2 Esports,Ataque,13,11,W,8,5,Viper,Controlador,17/04,Playoff,-,Upper Semifinals
+Zest,DRX,Korea,243,20,/20/,16,7,4,161,2,1,1,"0,3",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,11,13,L,4,7,Sova,Iniciador,18/04,Playoff,-,Lower Round 2
+stax,DRX,Korea,231,19,/19/,18,8,1,150,0,0,0,"0,21",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,11,13,L,4,7,Kay/O,Iniciador,18/04,Playoff,-,Lower Round 2
+MaKo,DRX,Korea,157,12,/12/,18,6,-6,107,1,1,0,"0,28",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,11,13,L,4,7,Viper,Controlador,18/04,Playoff,-,Lower Round 2
+BuZz,DRX,Korea,139,10,/10/,22,5,-12,98,3,7,-4,"0,27",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,11,13,L,4,7,Jett,Duelista,18/04,Playoff,-,Lower Round 2
+Rb,DRX,Korea,135,13,/13/,17,2,-4,76,3,6,-3,"0,19",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,11,13,L,4,7,Sage,Sentinela,18/04,Playoff,-,Lower Round 2
+Laz,ZETA DIVISION,Japan,270,25,/25/,15,2,10,160,7,2,5,"0,3",DRX,Korea,Icebox,ZETA DIVISION,Defesa,13,11,W,5,8,Chamber,Sentinela,18/04,Playoff,-,Lower Round 2
+Dep,ZETA DIVISION,Japan,243,21,/21/,16,7,5,162,0,1,-1,"0,27",DRX,Korea,Icebox,ZETA DIVISION,Defesa,13,11,W,5,8,Jett,Duelista,18/04,Playoff,-,Lower Round 2
+SugarZ3ro,ZETA DIVISION,Japan,225,17,/17/,14,11,3,153,3,1,2,"0,29",DRX,Korea,Icebox,ZETA DIVISION,Defesa,13,11,W,5,8,Viper,Controlador,18/04,Playoff,-,Lower Round 2
+crow,ZETA DIVISION,Japan,193,15,/15/,12,12,3,143,2,1,1,"0,2",DRX,Korea,Icebox,ZETA DIVISION,Defesa,13,11,W,5,8,Sova,Iniciador,18/04,Playoff,-,Lower Round 2
+TENNN,ZETA DIVISION,Japan,141,13,/13/,17,9,-4,78,3,4,-1,"0,26",DRX,Korea,Icebox,ZETA DIVISION,Defesa,13,11,W,5,8,Sage,Sentinela,18/04,Playoff,-,Lower Round 2
+BuZz,DRX,Korea,318,27,/27/,15,4,12,213,3,3,0,"0,27",ZETA DIVISION,Japan,Ascent,DRX,Ataque,13,10,W,7,6,Chamber,Sentinela,18/04,Playoff,-,Lower Round 2
+MaKo,DRX,Korea,244,20,/20/,16,12,4,146,4,1,3,"0,2",ZETA DIVISION,Japan,Ascent,DRX,Ataque,13,10,W,7,6,Astra,Controlador,18/04,Playoff,-,Lower Round 2
+Zest,DRX,Korea,201,17,/17/,13,5,4,125,2,1,1,"0,23",ZETA DIVISION,Japan,Ascent,DRX,Ataque,13,10,W,7,6,Sova,Iniciador,18/04,Playoff,-,Lower Round 2
+stax,DRX,Korea,191,16,/16/,16,10,0,149,1,0,1,"0,52",ZETA DIVISION,Japan,Ascent,DRX,Ataque,13,10,W,7,6,Skye,Iniciador,18/04,Playoff,-,Lower Round 2
+Rb,DRX,Korea,159,13,/13/,15,2,-2,98,4,4,0,"0,5",ZETA DIVISION,Japan,Ascent,DRX,Ataque,13,10,W,7,6,Jett,Duelista,18/04,Playoff,-,Lower Round 2
+SugarZ3ro,ZETA DIVISION,Japan,224,17,/17/,21,14,-4,131,1,2,-1,"0,17",DRX,Korea,Ascent,DRX,Defesa,10,13,L,5,5,Astra,Controlador,18/04,Playoff,-,Lower Round 2
+Laz,ZETA DIVISION,Japan,221,18,/18/,19,1,-1,137,3,5,-2,"0,39",DRX,Korea,Ascent,DRX,Defesa,10,13,L,5,5,Chamber,Sentinela,18/04,Playoff,-,Lower Round 2
+crow,ZETA DIVISION,Japan,206,13,/13/,18,10,-5,144,1,2,-1,"0,27",DRX,Korea,Ascent,DRX,Defesa,10,13,L,5,5,Sova,Iniciador,18/04,Playoff,-,Lower Round 2
+Dep,ZETA DIVISION,Japan,184,17,/17/,18,4,-1,112,1,3,-2,"0,27",DRX,Korea,Ascent,DRX,Defesa,10,13,L,5,5,Jett,Duelista,18/04,Playoff,-,Lower Round 2
+TENNN,ZETA DIVISION,Japan,114,10,/10/,17,2,-7,77,3,2,1,"0,23",DRX,Korea,Ascent,DRX,Defesa,10,13,L,5,5,Killjoy,Sentinela,18/04,Playoff,-,Lower Round 2
+stax,DRX,Korea,284,17,/17/,13,4,4,175,3,1,2,"0,23",ZETA DIVISION,Japan,Split,Times,Ataque,4,13,L,2,2,Skye,Iniciador,18/04,Playoff,-,Lower Round 2
+Zest,DRX,Korea,195,12,/12/,14,2,-2,145,1,4,-3,"0,5",ZETA DIVISION,Japan,Split,Times,Ataque,4,13,L,2,2,Sage,Sentinela,18/04,Playoff,-,Lower Round 2
+MaKo,DRX,Korea,183,10,/10/,15,0,-5,114,0,0,0,"0,29",ZETA DIVISION,Japan,Split,Times,Ataque,4,13,L,2,2,Viper,Controlador,18/04,Playoff,-,Lower Round 2
+Rb,DRX,Korea,118,7,/7/,16,4,-9,71,2,5,-3,"0,1",ZETA DIVISION,Japan,Split,Times,Ataque,4,13,L,2,2,Jett,Duelista,18/04,Playoff,-,Lower Round 2
+BuZz,DRX,Korea,90,3,/3/,15,10,-12,61,1,0,1,"0,18",ZETA DIVISION,Japan,Split,Times,Ataque,4,13,L,2,2,Astra,Controlador,18/04,Playoff,-,Lower Round 2
+TENNN,ZETA DIVISION,Japan,345,21,/21/,11,1,10,215,3,0,3,"0,38",DRX,Korea,Split,Times,Defesa,13,4,W,3,10,Raze,Duelista,18/04,Playoff,-,Lower Round 2
+SugarZ3ro,ZETA DIVISION,Japan,258,16,/16/,11,5,5,162,2,1,1,"0,18",DRX,Korea,Split,Times,Defesa,13,4,W,3,10,Astra,Controlador,18/04,Playoff,-,Lower Round 2
+Dep,ZETA DIVISION,Japan,205,12,/12/,9,6,3,111,4,1,3,"0,16",DRX,Korea,Split,Times,Defesa,13,4,W,3,10,Sage,Sentinela,18/04,Playoff,-,Lower Round 2
+crow,ZETA DIVISION,Japan,198,14,/14/,9,3,5,132,1,1,0,"0,16",DRX,Korea,Split,Times,Defesa,13,4,W,3,10,Skye,Iniciador,18/04,Playoff,-,Lower Round 2
+Laz,ZETA DIVISION,Japan,172,10,/10/,9,7,1,119,0,4,-4,"0,23",DRX,Korea,Split,Times,Defesa,13,4,W,3,10,Viper,Controlador,18/04,Playoff,-,Lower Round 2
+hoody,G2 Esports,EMEA,255,19,/19/,18,10,1,173,4,2,2,"0,34",Paper Rex,APAC,Split,Paper Rex,Defesa,10,13,L,1,9,Sage,Sentinela,18/04,Playoff,-,Lower Round 2
+Mixwell,G2 Esports,EMEA,223,19,/19/,18,4,1,148,3,4,-1,"0,15",Paper Rex,APAC,Split,Paper Rex,Defesa,10,13,L,1,9,Chamber,Sentinela,18/04,Playoff,-,Lower Round 2
+nukkye,G2 Esports,EMEA,217,16,/16/,17,7,-1,155,1,2,-1,"0,1",Paper Rex,APAC,Split,Paper Rex,Defesa,10,13,L,1,9,Raze,Duelista,18/04,Playoff,-,Lower Round 2
+AvovA,G2 Esports,EMEA,171,13,/13/,17,8,-4,112,1,3,-2,"0,24",Paper Rex,APAC,Split,Paper Rex,Defesa,10,13,L,1,9,Omen,Controlador,18/04,Playoff,-,Lower Round 2
+Meddo,G2 Esports,EMEA,146,12,/12/,18,2,-6,93,1,2,-1,"0,2",Paper Rex,APAC,Split,Paper Rex,Defesa,10,13,L,1,9,Breach,Iniciador,18/04,Playoff,-,Lower Round 2
+f0rsakeN,Paper Rex,APAC,301,25,/25/,15,8,10,184,6,4,2,"0,21",G2 Esports,EMEA,Split,Paper Rex,Ataque,13,10,W,3,10,Jett,Duelista,18/04,Playoff,-,Lower Round 2
+Jinggg,Paper Rex,APAC,292,21,/21/,20,12,1,195,4,3,1,"0,08",G2 Esports,EMEA,Split,Paper Rex,Ataque,13,10,W,3,10,Raze,Duelista,18/04,Playoff,-,Lower Round 2
+d4v41,Paper Rex,APAC,181,15,/15/,18,11,-3,113,1,0,1,"0,45",G2 Esports,EMEA,Split,Paper Rex,Ataque,13,10,W,3,10,Sage,Sentinela,18/04,Playoff,-,Lower Round 2
+mindfreak,Paper Rex,APAC,174,15,/15/,12,5,3,110,1,1,0,"0,41",G2 Esports,EMEA,Split,Paper Rex,Ataque,13,10,W,3,10,Omen,Controlador,18/04,Playoff,-,Lower Round 2
+Benkai,Paper Rex,APAC,140,12,/12/,14,8,-2,106,1,2,-1,"0,38",G2 Esports,EMEA,Split,Paper Rex,Ataque,13,10,W,3,10,Cypher,Sentinela,18/04,Playoff,-,Lower Round 2
+Meddo,G2 Esports,EMEA,278,20,/20/,15,2,5,174,1,3,-2,"0,28",Paper Rex,APAC,Bind,G2 Esports,Defesa,7,13,L,3,4,Viper,Controlador,18/04,Playoff,-,Lower Round 2
+mixwell,G2 Esports,EMEA,200,12,/12/,15,6,-3,146,3,2,1,"0,24",Paper Rex,APAC,Bind,G2 Esports,Defesa,7,13,L,3,4,Chamber,Sentinela,18/04,Playoff,-,Lower Round 2
+nukkye,G2 Esports,EMEA,180,11,/11/,16,2,-5,128,2,4,-2,"0,15",Paper Rex,APAC,Bind,G2 Esports,Defesa,7,13,L,3,4,Raze,Duelista,18/04,Playoff,-,Lower Round 2
+hoody,G2 Esports,EMEA,177,12,/12/,16,2,-4,122,0,3,-3,"0,17",Paper Rex,APAC,Bind,G2 Esports,Defesa,7,13,L,3,4,Skye,Iniciador,18/04,Playoff,-,Lower Round 2
+AvovA,G2 Esports,EMEA,135,10,/10/,15,7,-5,81,1,1,0,"0,22",Paper Rex,APAC,Bind,G2 Esports,Defesa,7,13,L,3,4,Omen,Controlador,18/04,Playoff,-,Lower Round 2
+f0rsakeN,Paper Rex,APAC,371,29,/29/,13,4,16,239,9,3,6,"0,55",G2 Esports,EMEA,Bind,G2 Esports,Ataque,13,7,W,8,5,Yoru,Duelista,18/04,Playoff,-,Lower Round 2
+jinggg,Paper Rex,APAC,242,18,/18/,115,2,-97,154,3,4,-1,"0,13",G2 Esports,EMEA,Bind,G2 Esports,Ataque,13,7,W,8,5,Raze,Duelista,18/04,Playoff,-,Lower Round 2
+mindfreak,Paper Rex,APAC,168,10,/10/,15,12,-5,102,1,0,1,"0,18",G2 Esports,EMEA,Bind,G2 Esports,Ataque,13,7,W,8,5,Brimstone,Controlador,18/04,Playoff,-,Lower Round 2
+d4v41,Paper Rex,APAC,147,10,/10/,11,3,-1,105,0,0,0,"0,18",G2 Esports,EMEA,Bind,G2 Esports,Ataque,13,7,W,8,5,Skye,Iniciador,18/04,Playoff,-,Lower Round 2
+Benkai,Paper Rex,APAC,140,10,/10/,11,3,-1,107,0,0,0,"0,28",G2 Esports,EMEA,Bind,G2 Esports,Ataque,13,7,W,8,5,Breach,Iniciador,18/04,Playoff,-,Lower Round 2
+aspas,LOUD,Brazil,226,10,/10/,12,3,-2,154,0,2,-2,"0,18",OpTic Gaming,NA,Fracture,OpTic Gaming,Defesa,2,13,L,0,2,Raze,Duelista,22/04,Playoff,-,Upper Final
+Sacy,LOUD,Brazil,156,9,/9/,14,1,-5,105,1,1,0,"0,35",OpTic Gaming,NA,Fracture,OpTic Gaming,Defesa,2,13,L,0,2,Breach,Iniciador,22/04,Playoff,-,Upper Final
+Less,LOUD,Brazil,113,5,/5/,13,5,-8,89,0,3,-3,"0,26",OpTic Gaming,NA,Fracture,OpTic Gaming,Defesa,2,13,L,0,2,Viper,Controlador,22/04,Playoff,-,Upper Final
+pancada,LOUD,Brazil,113,4,/4/,14,5,-10,86,0,3,-3,"0,35",OpTic Gaming,NA,Fracture,OpTic Gaming,Defesa,2,13,L,0,2,Brimstone,Controlador,22/04,Playoff,-,Upper Final
+saadhak,LOUD,Brazil,112,6,/6/,14,0,-8,72,0,4,-4,"0,29",OpTic Gaming,NA,Fracture,OpTic Gaming,Defesa,2,13,L,0,2,Chamber,Sentinela,22/04,Playoff,-,Upper Final
+Victor,OpTic Gaming,NA,372,21,/21/,7,1,14,227,8,1,7,"0,33",LOUD,Brazil,Fracture,OpTic Gaming,Ataque,13,2,W,10,3,Neon,Duelista,22/04,Playoff,-,Upper Final
+yay,OpTic Gaming,NA,335,19,/19/,9,4,10,211,5,1,4,"0,13",LOUD,Brazil,Fracture,OpTic Gaming,Ataque,13,2,W,10,3,Chamber,Sentinela,22/04,Playoff,-,Upper Final
+Marved,OpTic Gaming,NA,188,11,/11/,4,5,7,119,0,0,0,"0,41",LOUD,Brazil,Fracture,OpTic Gaming,Ataque,13,2,W,10,3,Brimstone,Controlador,22/04,Playoff,-,Upper Final
+crashies,OpTic Gaming,NA,161,7,/7/,9,10,-2,101,1,0,1,"0,09",LOUD,Brazil,Fracture,OpTic Gaming,Ataque,13,2,W,10,3,Kay/O,Iniciador,22/04,Playoff,-,Upper Final
+FNS,OpTic Gaming,NA,136,9,/9/,6,2,3,86,0,0,0,"0,31",LOUD,Brazil,Fracture,OpTic Gaming,Ataque,13,2,W,10,3,Breach,Iniciador,22/04,Playoff,-,Upper Final
+Less,LOUD,Brazil,262,18,/18/,12,5,6,163,6,1,5,"0,24",OpTic Gaming,NA,Ascent,LOUD,Ataque,13,8,W,5,8,Killjoy,Sentinela,22/04,Playoff,-,Upper Final
+saadhak,LOUD,Brazil,238,16,/16/,13,9,3,154,2,5,-3,"0,13",OpTic Gaming,NA,Ascent,LOUD,Ataque,13,8,W,5,8,Kay/O,Iniciador,22/04,Playoff,-,Upper Final
+pancada,LOUD,Brazil,206,18,/18/,12,6,6,134,0,0,0,"0,4",OpTic Gaming,NA,Ascent,LOUD,Ataque,13,8,W,5,8,Omen,Controlador,22/04,Playoff,-,Upper Final
+aspas,LOUD,Brazil,203,17,/17/,12,3,5,120,3,4,-1,"0,29",OpTic Gaming,NA,Ascent,LOUD,Ataque,13,8,W,5,8,Jett,Duelista,22/04,Playoff,-,Upper Final
+Sacy,LOUD,Brazil,139,10,/10/,15,8,-5,103,0,0,0,"0,31",OpTic Gaming,NA,Ascent,LOUD,Ataque,13,8,W,5,8,Sova,Iniciador,22/04,Playoff,-,Upper Final
+crashies,OpTic Gaming,NA,272,191,/191/,14,5,177,188,0,1,-1,"0,27",LOUD,Brazil,Ascent,LOUD,Defesa,8,13,L,1,7,Sova,Iniciador,22/04,Playoff,-,Upper Final
+yay,OpTic Gaming,NA,234,15,/15/,15,2,0,152,3,3,0,"0,25",LOUD,Brazil,Ascent,LOUD,Defesa,8,13,L,1,7,Jett,Duelista,22/04,Playoff,-,Upper Final
+Marved,OpTic Gaming,NA,164,11,/11/,15,10,-4,115,2,1,1,"0,4",LOUD,Brazil,Ascent,LOUD,Defesa,8,13,L,1,7,Omen,Controlador,22/04,Playoff,-,Upper Final
+Victor,OpTic Gaming,NA,140,10,/10/,17,14,-7,78,3,5,-2,"0,18",LOUD,Brazil,Ascent,LOUD,Defesa,8,13,L,1,7,Kay/O,Iniciador,22/04,Playoff,-,Upper Final
+FNS,OpTic Gaming,NA,139,9,/9/,18,5,-9,103,2,1,1,"0,11",LOUD,Brazil,Ascent,LOUD,Defesa,8,13,L,1,7,Killjoy,Sentinela,22/04,Playoff,-,Upper Final
+Less,LOUD,Brazil,375,33,/33/,13,8,20,234,4,2,2,"0,79",OpTic Gaming,NA,Icebox,Times,Ataque,13,11,W,7,6,Viper,Controlador,22/04,Playoff,-,Upper Final
+pancada,LOUD,Brazil,199,18,/18/,17,6,1,127,2,5,-3,"0,67",OpTic Gaming,NA,Icebox,Times,Ataque,13,11,W,7,6,Sage,Sentinela,22/04,Playoff,-,Upper Final
+saadhak,LOUD,Brazil,195,15,/15/,17,8,-2,138,3,2,1,"0,79",OpTic Gaming,NA,Icebox,Times,Ataque,13,11,W,7,6,Chamber,Sentinela,22/04,Playoff,-,Upper Final
+Sacy,LOUD,Brazil,171,15,/15/,15,4,0,107,1,0,1,"0,79",OpTic Gaming,NA,Icebox,Times,Ataque,13,11,W,7,6,Sova,Iniciador,22/04,Playoff,-,Upper Final
+aspas,LOUD,Brazil,154,12,/12/,16,3,-4,100,0,5,-5,"0,71",OpTic Gaming,NA,Icebox,Times,Ataque,13,11,W,7,6,Jett,Duelista,22/04,Playoff,-,Upper Final
+Marved,OpTic Gaming,NA,253,19,/19/,20,9,-1,170,4,3,1,"0,63",LOUD,Brazil,Icebox,Times,Defesa,11,13,L,6,5,Viper,Controlador,22/04,Playoff,-,Upper Final
+crashies,OpTic Gaming,NA,214,17,/17/,15,5,2,145,3,1,2,"0,79",LOUD,Brazil,Icebox,Times,Defesa,11,13,L,6,5,Sova,Iniciador,22/04,Playoff,-,Upper Final
+yay,OpTic Gaming,NA,205,17,/17/,18,2,-1,127,2,3,-1,"0,58",LOUD,Brazil,Icebox,Times,Defesa,11,13,L,6,5,Chamber,Sentinela,22/04,Playoff,-,Upper Final
+Victor,OpTic Gaming,NA,168,12,/12/,19,10,-7,122,2,3,-1,"0,58",LOUD,Brazil,Icebox,Times,Defesa,11,13,L,6,5,Kay/O,Iniciador,22/04,Playoff,-,Upper Final
+FNS,OpTic Gaming,NA,157,13,/13/,21,7,-8,101,3,0,3,"0,71",LOUD,Brazil,Icebox,Times,Defesa,11,13,L,6,5,Sage,Sentinela,22/04,Playoff,-,Upper Final
+TENNN,ZETA DIVISION,Japan,288,18,/18/,14,5,4,171,2,1,1,"0,54",Paper Rex,APAC,Icebox,ZETA DIVISION,Defesa,6,13,L,2,4,Sage,Sentinela,22/04,Playoff,-,Lower Round 3
+Laz,ZETA DIVISION,Japan,158,11,/11/,17,2,-6,94,2,6,-4,"0,32",Paper Rex,APAC,Icebox,ZETA DIVISION,Defesa,6,13,L,2,4,Chamber,Sentinela,22/04,Playoff,-,Lower Round 3
+Dep,ZETA DIVISION,Japan,153,10,/10/,16,2,-6,93,3,2,1,"0,21",Paper Rex,APAC,Icebox,ZETA DIVISION,Defesa,6,13,L,2,4,Jett,Duelista,22/04,Playoff,-,Lower Round 3
+SugarZ3ro,ZETA DIVISION,Japan,139,11,/11/,15,3,-4,94,0,1,-1,"0,57",Paper Rex,APAC,Icebox,ZETA DIVISION,Defesa,6,13,L,2,4,Viper,Controlador,22/04,Playoff,-,Lower Round 3
+crow,ZETA DIVISION,Japan,93,5,/5/,14,6,-9,68,1,1,0,"0,18",Paper Rex,APAC,Icebox,ZETA DIVISION,Defesa,6,13,L,2,4,Sova,Iniciador,22/04,Playoff,-,Lower Round 3
+jinggg,Paper Rex,APAC,298,22,/22/,10,2,12,186,2,1,1,"0,27",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,13,6,W,8,5,Sage,Sentinela,22/04,Playoff,-,Lower Round 3
+d4v41,Paper Rex,APAC,269,19,/19/,10,2,9,172,3,1,2,"0,31",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,13,6,W,8,5,Chamber,Sentinela,22/04,Playoff,-,Lower Round 3
+Benkai,Paper Rex,APAC,229,15,/15/,11,6,4,136,2,1,1,"0,24",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,13,6,W,8,5,Sova,Iniciador,22/04,Playoff,-,Lower Round 3
+f0rsakeN,Paper Rex,APAC,172,10,/10/,14,4,-4,112,3,4,-1,"0,17",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,13,6,W,8,5,Jett,Duelista,22/04,Playoff,-,Lower Round 3
+mindfreak,Paper Rex,APAC,159,10,/10/,10,8,0,98,1,1,0,"0,27",ZETA DIVISION,Japan,Icebox,ZETA DIVISION,Ataque,13,6,W,8,5,Viper,Controlador,22/04,Playoff,-,Lower Round 3
+Dep,ZETA DIVISION,Japan,302,19,/19/,6,0,13,184,3,1,2,"0,28",Paper Rex,APAC,Haven,Paper Rex,Defesa,13,2,W,3,10,Jett,Duelista,22/04,Playoff,-,Lower Round 3
+Laz,ZETA DIVISION,Japan,290,14,/14/,9,5,5,208,3,0,3,"0,19",Paper Rex,APAC,Haven,Paper Rex,Defesa,13,2,W,3,10,Killjoy,Sentinela,22/04,Playoff,-,Lower Round 3
+crow,ZETA DIVISION,Japan,234,14,/14/,7,2,7,137,2,1,1,"0,29",Paper Rex,APAC,Haven,Paper Rex,Defesa,13,2,W,3,10,Breach,Iniciador,22/04,Playoff,-,Lower Round 3
+SugarZ3ro,ZETA DIVISION,Japan,213,13,/13/,6,11,7,144,1,1,0,"0,34",Paper Rex,APAC,Haven,Paper Rex,Defesa,13,2,W,3,10,Astra,Controlador,22/04,Playoff,-,Lower Round 3
+TENNN,ZETA DIVISION,Japan,196,9,/9/,7,4,2,141,3,0,3,"0,28",Paper Rex,APAC,Haven,Paper Rex,Defesa,13,2,W,3,10,Skye,Iniciador,22/04,Playoff,-,Lower Round 3
+Benkai,Paper Rex,APAC,212,10,/10/,14,3,-4,134,1,1,0,"0,38",ZETA DIVISION,Japan,Haven,Paper Rex,Ataque,2,13,L,2,0,Cypher,Sentinela,22/04,Playoff,-,Lower Round 3
+f0rsakeN,Paper Rex,APAC,191,8,/8/,14,4,-6,120,1,4,-3,"0,25",ZETA DIVISION,Japan,Haven,Paper Rex,Ataque,2,13,L,2,0,Jett,Duelista,22/04,Playoff,-,Lower Round 3
+jinggg,Paper Rex,APAC,138,7,/7/,13,2,-6,92,0,4,-4,"0,2",ZETA DIVISION,Japan,Haven,Paper Rex,Ataque,2,13,L,2,0,Reyna,Duelista,22/04,Playoff,-,Lower Round 3
+d4v41,Paper Rex,APAC,125,7,/7/,14,4,-7,64,1,1,0,"0,19",ZETA DIVISION,Japan,Haven,Paper Rex,Ataque,2,13,L,2,0,Skye,Iniciador,22/04,Playoff,-,Lower Round 3
+mindfreak,Paper Rex,APAC,88,3,/3/,14,4,-11,59,0,2,-2,"0,08",ZETA DIVISION,Japan,Haven,Paper Rex,Ataque,2,13,L,2,0,Omen,Controlador,22/04,Playoff,-,Lower Round 3
+SugarZ3ro,ZETA DIVISION,Japan,268,24,/24/,14,6,10,165,3,2,1,"0,32",Paper Rex,APAC,Split,Times,Defesa,13,10,W,7,6,Astra,Controlador,22/04,Playoff,-,Lower Round 3
+laz,ZETA DIVISION,Japan,212,17,/17/,15,9,2,152,6,1,5,"0,22",Paper Rex,APAC,Split,Times,Defesa,13,10,W,7,6,Viper,Controlador,22/04,Playoff,-,Lower Round 3
+crow,ZETA DIVISION,Japan,210,17,/17/,19,7,-2,127,1,0,1,"0,21",Paper Rex,APAC,Split,Times,Defesa,13,10,W,7,6,Skye,Iniciador,22/04,Playoff,-,Lower Round 3
+TENNN,ZETA DIVISION,Japan,206,14,/14/,19,10,-5,151,4,5,-1,"0,2",Paper Rex,APAC,Split,Times,Defesa,13,10,W,7,6,Raze,Duelista,22/04,Playoff,-,Lower Round 3
+Dep,ZETA DIVISION,Japan,175,15,/15/,16,7,-1,128,1,0,1,"0,27",Paper Rex,APAC,Split,Times,Defesa,13,10,W,7,6,Sage,Sentinela,22/04,Playoff,-,Lower Round 3
+f0rsakeN,Paper Rex,APAC,301,25,/25/,17,1,8,190,4,5,-1,"0,22",ZETA DIVISION,Japan,Split,Times,Ataque,10,13,L,6,4,Jett,Duelista,22/04,Playoff,-,Lower Round 3
+jinggg,Paper Rex,APAC,263,22,/22/,19,3,3,173,2,6,-4,"0,17",ZETA DIVISION,Japan,Split,Times,Ataque,10,13,L,6,4,Raze,Duelista,22/04,Playoff,-,Lower Round 3
+d4v41,Paper Rex,APAC,187,13,/13/,17,12,-4,123,1,0,1,"0,3",ZETA DIVISION,Japan,Split,Times,Ataque,10,13,L,6,4,Sage,Sentinela,22/04,Playoff,-,Lower Round 3
+Benkai,Paper Rex,APAC,161,15,/15/,14,5,1,102,0,2,-2,"0,28",ZETA DIVISION,Japan,Split,Times,Ataque,10,13,L,6,4,Cypher,Sentinela,22/04,Playoff,-,Lower Round 3
+mindfreak,Paper Rex,APAC,118,8,/8/,20,13,-12,77,1,2,-1,"0,14",ZETA DIVISION,Japan,Split,Times,Ataque,10,13,L,6,4,Omen,Controlador,22/04,Playoff,-,Lower Round 3
+Marved,OpTic Gaming,NA,342,35,/35/,16,8,19,230,2,2,0,"0,41",ZETA DIVISION,Japan,Haven,OpTic Gaming,Defesa,15,13,W,8,7,Omen,Controlador,23/04,Playoff,-,Lower Final
+yay,OpTic Gaming,NA,138,23,/23/,22,2,1,150,3,3,0,"0,23",ZETA DIVISION,Japan,Haven,OpTic Gaming,Defesa,15,13,W,8,7,Chamber,Sentinela,23/04,Playoff,-,Lower Final
+crashies,OpTic Gaming,NA,179,18,/18/,22,4,-4,110,3,4,-1,"0,26",ZETA DIVISION,Japan,Haven,OpTic Gaming,Defesa,15,13,W,8,7,Skye,Iniciador,23/04,Playoff,-,Lower Final
+Victor,OpTic Gaming,NA,177,16,/16/,21,8,-5,142,2,8,-6,"0,21",ZETA DIVISION,Japan,Haven,OpTic Gaming,Defesa,15,13,W,8,7,Neon,Duelista,23/04,Playoff,-,Lower Final
+FNS,OpTic Gaming,NA,147,13,/13/,20,13,-7,102,1,0,1,"0,22",ZETA DIVISION,Japan,Haven,OpTic Gaming,Defesa,15,13,W,8,7,Kay/O,Iniciador,23/04,Playoff,-,Lower Final
+Dep,ZETA DIVISION,Japan,246,26,/26/,21,2,5,143,5,3,2,"0,32",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,15,L,7,6,Jett,Duelista,23/04,Playoff,-,Lower Final
+SugarZ3ro,ZETA DIVISION,Japan,234,25,/25/,21,10,4,148,2,1,1,"0,29",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,15,L,7,6,Astra,Controlador,23/04,Playoff,-,Lower Final
+TENNN,ZETA DIVISION,Japan,231,22,/22/,22,6,0,157,3,1,2,"0,37",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,15,L,7,6,Skye,Iniciador,23/04,Playoff,-,Lower Final
+laz,ZETA DIVISION,Japan,156,13,/13/,22,9,-9,119,5,4,1,"0,26",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,15,L,7,6,Killjoy,Sentinela,23/04,Playoff,-,Lower Final
+crow,ZETA DIVISION,Japan,140,15,/15/,19,5,-4,94,2,2,0,"0,25",OpTic Gaming,NA,Haven,OpTic Gaming,Ataque,13,15,L,7,6,Breach,Iniciador,23/04,Playoff,-,Lower Final
+Marved,OpTic Gaming,NA,265,17,/17/,15,7,2,177,1,2,-1,"0,72",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Defesa,13,5,W,6,7,Brimstone,Controlador,23/04,Playoff,-,Lower Final
+yay,OpTic Gaming,NA,263,17,/17/,12,4,5,181,4,3,1,"0,72",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Defesa,13,5,W,6,7,Chamber,Sentinela,23/04,Playoff,-,Lower Final
+Victor,OpTic Gaming,NA,260,19,/19/,6,2,13,183,4,1,3,"0,94",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Defesa,13,5,W,6,7,Neon,Duelista,23/04,Playoff,-,Lower Final
+crashies,OpTic Gaming,NA,201,13,/13/,12,7,1,127,0,1,-1,"0,94",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Defesa,13,5,W,6,7,Kay/O,Iniciador,23/04,Playoff,-,Lower Final
+FNS,OpTic Gaming,NA,120,6,/6/,11,4,-5,99,0,2,-2,"0,61",ZETA DIVISION,Japan,Fracture,ZETA DIVISION,Defesa,13,5,W,6,7,Breach,Iniciador,23/04,Playoff,-,Lower Final
+TENNN,ZETA DIVISION,Japan,295,19,/19/,15,4,4,174,4,4,0,"0,72",OpTic Gaming,NA,Fracture,ZETA DIVISION,Ataque,5,13,L,5,0,Raze,Duelista,23/04,Playoff,-,Lower Final
+laz,ZETA DIVISION,Japan,218,14,/14/,14,3,0,131,4,2,2,"0,67",OpTic Gaming,NA,Fracture,ZETA DIVISION,Ataque,5,13,L,5,0,Chamber,Sentinela,23/04,Playoff,-,Lower Final
+crow,ZETA DIVISION,Japan,158,10,/10/,13,3,-3,91,1,0,1,"0,61",OpTic Gaming,NA,Fracture,ZETA DIVISION,Ataque,5,13,L,5,0,Breach,Iniciador,23/04,Playoff,-,Lower Final
+SugarZ3ro,ZETA DIVISION,Japan,153,9,/9/,14,5,-5,106,0,3,-3,"0,61",OpTic Gaming,NA,Fracture,ZETA DIVISION,Ataque,5,13,L,5,0,Astra,Controlador,23/04,Playoff,-,Lower Final
+Dep,ZETA DIVISION,Japan,72,4,/4/,16,3,-12,52,0,0,0,"0,5",OpTic Gaming,NA,Fracture,ZETA DIVISION,Ataque,5,13,L,5,0,Viper,Controlador,23/04,Playoff,-,Lower Final
+yay,OpTic Gaming,NA,263,19,/19/,11,6,8,169,3,5,-2,"0,76",ZETA DIVISION,Japan,Bind,OpTic Gaming,Ataque,13,8,W,8,5,Chamber,Sentinela,23/04,Playoff,-,Lower Final
+Marved,OpTic Gaming,NA,228,18,/18/,14,9,4,142,2,1,1,"0,81",ZETA DIVISION,Japan,Bind,OpTic Gaming,Ataque,13,8,W,8,5,Brimstone,Controlador,23/04,Playoff,-,Lower Final
+FNS,OpTic Gaming,NA,222,17,/17/,12,5,5,137,3,2,1,"0,86",ZETA DIVISION,Japan,Bind,OpTic Gaming,Ataque,13,8,W,8,5,Viper,Controlador,23/04,Playoff,-,Lower Final
+Victor,OpTic Gaming,NA,196,15,/15/,16,7,-1,129,3,1,2,"0,81",ZETA DIVISION,Japan,Bind,OpTic Gaming,Ataque,13,8,W,8,5,Raze,Duelista,23/04,Playoff,-,Lower Final
+crashies,OpTic Gaming,NA,195,14,/14/,11,13,3,140,1,0,1,"0,76",ZETA DIVISION,Japan,Bind,OpTic Gaming,Ataque,13,8,W,8,5,Skye,Iniciador,23/04,Playoff,-,Lower Final
+SugarZ3ro,ZETA DIVISION,Japan,224,15,/15/,17,9,-2,150,1,1,0,"0,76",OpTic Gaming,NA,Bind,OpTic Gaming,Defesa,8,13,L,4,4,Astra,Controlador,23/04,Playoff,-,Lower Final
+TENNN,ZETA DIVISION,Japan,213,15,/15/,17,1,-2,145,3,4,-1,"0,57",OpTic Gaming,NA,Bind,OpTic Gaming,Defesa,8,13,L,4,4,Raze,Duelista,23/04,Playoff,-,Lower Final
+crow,ZETA DIVISION,Japan,189,14,/14/,16,4,-2,131,1,1,0,"0,76",OpTic Gaming,NA,Bind,OpTic Gaming,Defesa,8,13,L,4,4,Skye,Iniciador,23/04,Playoff,-,Lower Final
+laz,ZETA DIVISION,Japan,135,10,/10/,16,3,-6,87,3,3,0,"0,52",OpTic Gaming,NA,Bind,OpTic Gaming,Defesa,8,13,L,4,4,Viper,Controlador,23/04,Playoff,-,Lower Final
+Dep,ZETA DIVISION,Japan,130,10,/10/,17,5,-7,81,1,3,-2,"0,67",OpTic Gaming,NA,Bind,OpTic Gaming,Defesa,8,13,L,4,4,Sage,Sentinela,23/04,Playoff,-,Lower Final
+aspas,LOUD,Brazil,240,20,/20/,18,2,2,140,3,3,0,"0,86",OpTic Gaming,NA,Ascent,LOUD,Ataque,9,13,L,2,7,Jett,Duelista,24/04,Playoff,-,Grand Final
+saadhak,LOUD,Brazil,229,16,/16/,19,7,-3,143,3,3,0,"0,73",OpTic Gaming,NA,Ascent,LOUD,Ataque,9,13,L,2,7,Kay/O,Iniciador,24/04,Playoff,-,Grand Final
+pancada,LOUD,Brazil,219,18,/18/,17,4,1,154,3,2,1,"0,55",OpTic Gaming,NA,Ascent,LOUD,Ataque,9,13,L,2,7,Omen,Controlador,24/04,Playoff,-,Grand Final
+Sacy,LOUD,Brazil,134,10,/10/,15,5,-5,110,1,2,-1,"0,68",OpTic Gaming,NA,Ascent,LOUD,Ataque,9,13,L,2,7,Sova,Iniciador,24/04,Playoff,-,Grand Final
+Less,LOUD,Brazil,128,7,/7/,18,3,-11,98,0,2,-2,"0,59",OpTic Gaming,NA,Ascent,LOUD,Ataque,9,13,L,2,7,Killjoy,Sentinela,24/04,Playoff,-,Grand Final
+Marved,OpTic Gaming,NA,285,22,/22/,16,9,6,192,3,0,3,"0,82",LOUD,Brazil,Ascent,LOUD,Defesa,13,9,W,3,10,Omen,Controlador,24/04,Playoff,-,Grand Final
+yay,OpTic Gaming,NA,251,22,/22/,14,2,8,166,2,4,-2,"0,77",LOUD,Brazil,Ascent,LOUD,Defesa,13,9,W,3,10,Jett,Duelista,24/04,Playoff,-,Grand Final
+crashies,OpTic Gaming,NA,248,17,/17/,11,12,6,169,2,1,1,"0,95",LOUD,Brazil,Ascent,LOUD,Defesa,13,9,W,3,10,Sova,Iniciador,24/04,Playoff,-,Grand Final
+FNS,OpTic Gaming,NA,183,15,/15/,13,5,2,121,1,0,1,"0,68",LOUD,Brazil,Ascent,LOUD,Defesa,13,9,W,3,10,Killjoy,Sentinela,24/04,Playoff,-,Grand Final
+Victor,OpTic Gaming,NA,148,11,/11/,17,7,-6,83,4,25,-21,"0,64",LOUD,Brazil,Ascent,LOUD,Defesa,13,9,W,3,10,Kay/O,Iniciador,24/04,Playoff,-,Grand Final
+aspas,LOUD,Brazil,313,29,/29/,21,5,8,189,4,3,1,"0,24",OpTic Gaming,NA,Bind,OpTic Gaming,Ataque,12,14,L,4,8,Raze,Duelista,24/04,Playoff,-,Grand Final
+Sacy,LOUD,Brazil,266,26,/26/,17,5,9,171,3,2,1,"0,33",OpTic Gaming,NA,Bind,OpTic Gaming,Ataque,12,14,L,4,8,Sova,Iniciador,24/04,Playoff,-,Grand Final
+Less,LOUD,Brazil,174,13,/13/,21,8,-8,109,3,2,1,"0,14",OpTic Gaming,NA,Bind,OpTic Gaming,Ataque,12,14,L,4,8,Viper,Controlador,24/04,Playoff,-,Grand Final
+saadhak,LOUD,Brazil,165,14,/14/,21,7,-7,110,0,3,-3,"0,11",OpTic Gaming,NA,Bind,OpTic Gaming,Ataque,12,14,L,4,8,Skye,Iniciador,24/04,Playoff,-,Grand Final
+pancada,LOUD,Brazil,150,13,/13/,20,9,-7,119,2,4,-2,"0,2",OpTic Gaming,NA,Bind,OpTic Gaming,Ataque,12,14,L,4,8,Astra,Controlador,24/04,Playoff,-,Grand Final
+yay,OpTic Gaming,NA,313,30,/30/,18,2,12,204,4,2,2,"0,37",LOUD,Brazil,Bind,OpTic Gaming,Defesa,14,12,W,5,9,Chamber,Sentinela,24/04,Playoff,-,Grand Final
+Victor,OpTic Gaming,NA,274,25,/25/,20,7,5,177,2,3,-1,"0,18",LOUD,Brazil,Bind,OpTic Gaming,Defesa,14,12,W,5,9,Raze,Duelista,24/04,Playoff,-,Grand Final
+Marved,OpTic Gaming,NA,239,22,/22/,20,8,2,156,5,3,2,"0,25",LOUD,Brazil,Bind,OpTic Gaming,Defesa,14,12,W,5,9,Brimstone,Controlador,24/04,Playoff,-,Grand Final
+FNS,OpTic Gaming,NA,174,15,/15/,20,6,-5,126,2,2,0,"0,19",LOUD,Brazil,Bind,OpTic Gaming,Defesa,14,12,W,5,9,Viper,Controlador,24/04,Playoff,-,Grand Final
+crashies,OpTic Gaming,NA,89,8,/8/,17,4,-9,61,1,2,-1,"0,29",LOUD,Brazil,Bind,OpTic Gaming,Defesa,14,12,W,5,9,Skye,Iniciador,24/04,Playoff,-,Grand Final
+aspas,LOUD,Brazil,282,27,/27/,19,2,8,172,6,2,4,"0,2",OpTic Gaming,NA,Breeze,LOUD,Defesa,13,15,L,9,4,Jett,Duelista,24/04,Playoff,-,Grand Final
+pancada,LOUD,Brazil,210,22,/22/,20,2,2,136,2,3,-1,"0,32",OpTic Gaming,NA,Breeze,LOUD,Defesa,13,15,L,9,4,Chamber,Sentinela,24/04,Playoff,-,Grand Final
+saadhak,LOUD,Brazil,199,20,/20/,21,9,-1,126,2,5,-3,"0,15",OpTic Gaming,NA,Breeze,LOUD,Defesa,13,15,L,9,4,Kay/O,Iniciador,24/04,Playoff,-,Grand Final
+less,LOUD,Brazil,194,20,/20/,19,4,1,121,1,4,-3,"0,17",OpTic Gaming,NA,Breeze,LOUD,Defesa,13,15,L,9,4,Viper,Controlador,24/04,Playoff,-,Grand Final
+Sacy,LOUD,Brazil,125,10,/10/,20,9,-10,86,2,1,1,"0,32",OpTic Gaming,NA,Breeze,LOUD,Defesa,13,15,L,9,4,Sova,Iniciador,24/04,Playoff,-,Grand Final
+crashies,OpTic Gaming,NA,277,28,/28/,18,4,10,181,2,1,1,"0,3",LOUD,Brazil,Breeze,LOUD,Ataque,15,13,W,10,5,Sova,Iniciador,24/04,Playoff,-,Grand Final
+yay,OpTic Gaming,NA,230,22,/22/,19,5,3,154,4,3,1,"0,25",LOUD,Brazil,Breeze,LOUD,Ataque,15,13,W,10,5,Jett,Duelista,24/04,Playoff,-,Grand Final
+Marved,OpTic Gaming,NA,206,20,/20/,20,3,0,128,4,3,1,"0,33",LOUD,Brazil,Breeze,LOUD,Ataque,15,13,W,10,5,Chamber,Sentinela,24/04,Playoff,-,Grand Final
+Victor,OpTic Gaming,NA,167,16,/16/,21,6,-5,97,5,2,3,"0,21",LOUD,Brazil,Breeze,LOUD,Ataque,15,13,W,10,5,Kay/O,Iniciador,24/04,Playoff,-,Grand Final
+FNS,OpTic Gaming,NA,137,13,/13/,21,6,-8,92,0,4,-4,"0,34",LOUD,Brazil,Breeze,LOUD,Ataque,15,13,W,10,5,Viper,Controlador,24/04,Playoff,-,Grand Final
